@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-10-22T05:56:51.206Z",
+  "sources": [
+    {
+      "id": "devfolio",
+      "name": "Devfolio",
+      "url": "https://devfolio.co",
+      "status": "ok",
+      "events": 4,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "4 upcoming events.",
+      "rows": 24
+    },
+    {
+      "id": "unstop",
+      "name": "Unstop",
+      "url": "https://unstop.com",
+      "status": "ok",
+      "events": 82,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "82 upcoming events.",
+      "rows": 186
+    },
+    {
+      "id": "gdg-nashik",
+      "name": "GDG Nashik",
+      "url": "https://gdg.community.dev/gdg-nashik/",
+      "status": "ok",
+      "events": 2,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "2 upcoming events.",
+      "rows": 6
+    },
+    {
+      "id": "wordpress-nashik",
+      "name": "WordPress Nashik",
+      "url": "https://www.meetup.com/wordpress-meetup-nashik/",
+      "status": "ok",
+      "events": 3,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "3 upcoming events.",
+      "rows": 10
+    },
+    {
+      "id": "cncf-nashik",
+      "name": "CNCF Nashik",
+      "url": "https://nashik.cncg.in/",
+      "status": "ok",
+      "events": 0,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "No upcoming events.",
+      "rows": 1
+    },
+    {
+      "id": "kkwagh",
+      "name": "K. K. Wagh (KKWIEER)",
+      "url": "https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events",
+      "status": "ok",
+      "events": 0,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "No upcoming events.",
+      "rows": 44
+    },
+    {
+      "id": "siem",
+      "name": "SIEM / Sandip Foundation",
+      "url": "https://siem.sandipfoundation.org/computer-engineering/events",
+      "status": "ok",
+      "events": 0,
+      "lastChecked": "2026-10-22T05:56:51.206Z",
+      "lastSuccess": "2026-10-22T05:56:51.206Z",
+      "message": "No upcoming events.",
+      "rows": 164
+    }
+  ]
+}
