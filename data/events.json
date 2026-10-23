@@ -1,39 +1,7 @@
 {
-  "generatedAt": "2026-10-22T06:02:41.534Z",
+  "generatedAt": "2026-10-23T06:23:37.840Z",
   "windowDays": 90,
   "events": [
-    {
-      "id": "gdg-nashik:461b53131005",
-      "name": "Agentic AI Architecture: How Autonomous AI Systems Work",
-      "type": "meetup",
-      "mode": "in-person",
-      "lane": "nashik",
-      "start": "2026-10-22T04:30:00.000Z",
-      "city": "Nashik",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "GDG Nashik",
-      "themes": [
-        "Google",
-        "Community"
-      ],
-      "url": "https://gdg.community.dev/events/details/google-gdg-nashik-presents-agentic-ai-architecture-how-autonomous-ai-systems-work/",
-      "sourceUrl": "https://gdg.community.dev/gdg-nashik/",
-      "sources": [
-        "gdg-nashik"
-      ],
-      "sourceIds": [
-        "https://gdg.community.dev/events/details/google-gdg-nashik-presents-agentic-ai-architecture-how-autonomous-ai-systems-work/"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "🚀 Agentic AI Architecture: How Autonomous AI Systems Work 🤖 Discover how AI is evolving from chatbots that simply answer questions to intelligent agents that can plan, use tools, retain context, and take action toward goals. Join GDG Nashik for an insightful session exploring the architecture behind autonomous AI systems. Understand how AI agents work, how their core components interact, and how multiple agents can collaborate to solve complex problems. 💡 WHAT YOU'LL EXPLORE 🧠 Core Components of AI Agents — Understand LLMs, planning modules, tools, and memory. ⚙️ How AI Agents Work — Explore the Plan → Act → Observe loop that drives autonomous behaviour. 🔗 Multi-Agent Systems — Discove…"
-    },
     {
       "id": "wordpress-nashik:31aa350529b0",
       "name": "Nashik WordPress Meetup",
@@ -61,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/316838887/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -93,7 +61,7 @@
         "https://gdg.community.dev/events/details/google-gdg-nashik-presents-devfest-nashik-2026-where-ideas-ferment-into-innovation/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -126,7 +94,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -159,83 +127,11 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Wordpress Meetup Nashik Join us for the Nashik WordPress Meetup, in March 2024! Whether you're a WordPress enthusiast, a professional developer, a content creator, or just curious about WordPress, this meetup is the perfect opportunity to enhance your skills, share knowledge, and network with fellow WordPress users in Nashik."
-    },
-    {
-      "id": "unstop:b56722cb60cd",
-      "name": "CognitionNext '26 - by Cognext",
-      "type": "hackathon",
-      "mode": "hybrid",
-      "lane": "maharashtra",
-      "start": "2026-10-24T03:30:00.000Z",
-      "end": "2026-10-24T03:30:00.000Z",
-      "deadline": "2026-10-22T06:29:00.000Z",
-      "city": "Mumbai",
-      "venue": "Veermata Jijabai Technological Institute (VJTI), Mumbai",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "VJTI Mumbai",
-      "themes": [
-        "Agentic AI Engineer"
-      ],
-      "url": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
-      "sourceUrl": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1765869"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "travelNote": "Round 1 online",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "CognitionNext '26 CognitionNext '26 is a two-round hackathon organized by Cognext.ai in collaboration with Technovanza, VJTI , designed to bring together students passionate about Artificial Intelligence and Machine Learning . Participants will get an opportunity to showcase their AI expertise, build innovative solutions, compete for a ₹1,00,000 prize pool , and potentially earn internship opportunities with Cognext AI. Eligibility Open to students form all Engineering Colleges . Teams can consist of 1–2 participants . Each participant can register with only one team. Participants must complete Round 1 to qualify for Round 2. Hackathon Theme Artificial Intelligence Participants are encourag…"
-    },
-    {
-      "id": "unstop:a71d2d74bc50",
-      "name": "Webforge AI",
-      "type": "hackathon",
-      "mode": "hybrid",
-      "lane": "maharashtra",
-      "start": "2026-10-24T10:30:00.000Z",
-      "end": "2026-10-24T10:30:00.000Z",
-      "deadline": "2026-10-22T18:30:00.000Z",
-      "city": "Nagpur",
-      "venue": "St Vincent Pallotti College of Eng. & Tech.",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "paid",
-      "costLabel": "₹100",
-      "host": "St Vincent pallotti college of engineering and technology nagpur",
-      "prize": "₹4,000 · ₹2,500",
-      "themes": [
-        "Web Development",
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
-      "sourceUrl": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1765780"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "travelNote": "Round 1 online",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "WEB FORGE AI – HACKATHON: Build Smart. Create Real. Innovate with AI. Ready to test your AI + Web Development skills? Join us for an exciting challenge where innovation meets problem-solving! Round-wise Details: Round 1 – Online Quiz (FREE): Schedule: 5 days before the event. Topics: AI, ML & Web Development. Round 2 – Offline Hackathon: Date: 24th October. Details: Build an AI + Web solution based on a surprise problem statement revealed on the spot! Be ready for unexpected challenges and exciting twists. Event Details: Team Size: 2–3 Members. Prizes: Up to ₹8,000. Registration Fee: ₹200 (2 members) | ₹300 (3 members) (For Round 2). Participation Certificates: As per event guidelines. Impo…"
     },
     {
       "id": "unstop:4653bf65c405",
@@ -267,7 +163,7 @@
         "1768954"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -275,41 +171,40 @@
       "description": "BugWars is a high-energy coding challenge focused on debugging , problem - solving , and programming skills. Participants will tackle a range of coding problems designed to test their ability to identify errors, analyze logic, optimize solutions, and think under pressure. Covering concepts from DSA and Competitive Programming , the event challenges participants to turn broken code into efficient, working solutions. Participation is individual-only, making it a fair and thrilling competition for all coders and debuggers What we're looking for: Problem Solving : Strong logical and analytical thinking Debugging Skills : Identifying and fixing errors efficiently DSA & CP : Familiarity with core…"
     },
     {
-      "id": "unstop:8f8cf78f515e",
-      "name": "FlashCode",
+      "id": "unstop:69d3ba4b9af4",
+      "name": "Yantravedh Hardware Hackathon",
       "type": "hackathon",
       "mode": "in-person",
       "lane": "maharashtra",
-      "start": "2026-10-26T12:30:00.000Z",
-      "end": "2026-10-26T12:30:00.000Z",
-      "deadline": "2026-10-22T06:30:10.000Z",
-      "city": "Nagpur",
-      "venue": "Indian Institute of Information Technology, Nagpur (IIITN)",
+      "start": "2026-10-25T19:29:00.000Z",
+      "end": "2026-10-25T19:29:00.000Z",
+      "deadline": "2026-10-25T19:29:00.000Z",
+      "city": "Pune",
+      "venue": "Marathwada Mitramandal College of Engineering, Vadar Vasti Rd, Hingane Home Colony, Karvenagar, Pune, Maharashtra 411052",
       "state": "Maharashtra",
       "country": "India",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Indian Institute of Information Technology (IIIT), Nagpur",
-      "prize": "₹4,000 · ₹3,000",
+      "cost": "paid",
+      "costLabel": "₹500",
+      "host": "Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune",
       "themes": [
-        "Software Development",
-        "Quizzes & Treasure Hunt"
+        "Ethical Hacking",
+        "Embedded Systems Engineer"
       ],
-      "url": "https://unstop.com/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
-      "sourceUrl": "https://unstop.com/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
+      "url": "https://unstop.com/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
+      "sourceUrl": "https://unstop.com/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
       "sources": [
         "unstop"
       ],
       "sourceIds": [
-        "1765827"
+        "1773178"
       ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "firstSeen": "2026-10-23T06:23:37.840Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Flash Code is a unique and exciting coding challenge hosted by DotSlash, IIIT Nagpur , designed to test participants in a fun, fast, and competitive way. Unlike traditional contests, Flash Code will feature 3 surprise mini coding games , revealed only on the event day. Each game will have its own winners, runner-ups, and second runner-ups giving everyone multiple chances to shine! Prize pool worth INR 35,000 to be distributed among all winners! Participation is individual-only , making it a fair and thrilling competition for all coders What We’re Looking For : Quick thinkers who can adapt to surprise challenges Coders with speed, accuracy, and creativity Individuals ready to compete solo un…"
+      "description": "Yantravedh 2026 – National Level Hardware Hackathon Build. Create. Innovate. Get ready to turn your ideas into real-world solutions at Yantravedh 2026 , a National-Level Hardware Hackathon organized by the Department of Artificial Intelligence & Data Science, Marathwada Mitra Mandal’s College of Engineering, Karvenagar, Pune. What to Expect: A 24-hour hardware innovation challenge where teams will ideate, build, prototype, and showcase solutions using technology and creativity. Event Highlights: ️ Hackathon: 28–29 October 2026 Duration: 24 Hours Project Exhibition: 29 October 2026 Venue: MMCOE, Karvenagar, Pune Team Size: 2–4 members Registration Fee: ₹500 + GST per team Why Participate? Bu…"
     },
     {
       "id": "unstop:74ca8c168a00",
@@ -341,7 +236,7 @@
         "1766721"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -376,7 +271,7 @@
         "1765533"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -413,7 +308,7 @@
         "1767673"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -449,7 +344,7 @@
         "1769022"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -485,7 +380,7 @@
         "1772228"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -522,7 +417,7 @@
         "1767480"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -559,7 +454,7 @@
         "1768041"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -595,7 +490,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -624,7 +519,7 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -638,7 +533,7 @@
       "lane": "online",
       "start": "2026-10-23T15:30:00.000Z",
       "end": "2026-10-25T03:30:00.000Z",
-      "deadline": "2026-10-23T15:30:00.000Z",
+      "deadline": "2026-10-25T03:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "themes": [
@@ -653,7 +548,7 @@
         "803a860a777346fb8eebbb6ce4b6607e"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -682,7 +577,7 @@
         "179b52290f954c6e88325551b1859d29"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -714,7 +609,7 @@
         "1772551"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -728,7 +623,7 @@
       "lane": "online",
       "start": "2026-10-24T16:30:00.000Z",
       "end": "2026-10-24T16:30:00.000Z",
-      "deadline": "2026-10-24T06:30:00.000Z",
+      "deadline": "2026-10-24T12:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "host": "Ramdeobaba University",
@@ -746,7 +641,7 @@
         "1771520"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -776,7 +671,7 @@
         "1769011"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -806,7 +701,7 @@
         "1768995"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -839,42 +734,11 @@
         "1761513"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Hostelbird Hackathon Build It. Break It. Ship It. About the Hackathon This is not your typical hackathon. You won’t be solving hypothetical problems. You’ll be working on a real product used by real travelers. Instead, you will: Break what doesn’t work Fix what matters Build what’s missing If your solution is strong enough, it won’t just win, it could go live on the product and you can get an internship opportunity with us! What You’ll Do Identify 3-5 bugs, UX gaps, and broken flows in the Hostelbird app. Think like a user, not just a developer Propose meaningful improvements Build and showcase your solution This is about product thinking + execution, not just coding. Download the app here:…"
-    },
-    {
-      "id": "unstop:0b31f984ad38",
-      "name": "Jāgriti Hacks",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-10-24T23:31:00.000Z",
-      "end": "2026-10-24T23:31:00.000Z",
-      "deadline": "2026-10-23T00:15:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Siliguri Institute of Technology",
-      "prize": "$400 · $225",
-      "themes": [
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/jagriti-hacks-siliguri-institute-of-technology-1760290",
-      "sourceUrl": "https://unstop.com/hackathons/jagriti-hacks-siliguri-institute-of-technology-1760290",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1760290"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Welcome to the Jāgriti Hacks - by Jāgriti Technologies An online hackathon where teams turn ideas into impactful solutions through coding, collaboration, and technical problem-solving. About the Opportunity: Jāgriti Hacks is an online hackathon by Siliguri Institute of Technology, designed for team participation in the Quizzes & Treasure Hunt category. Participants will move from understanding a chosen problem statement to presenting a working project through structured stages of ideation, coding, and evaluation. Teams can showcase skills in cybersecurity frameworks, machine learning concepts, cloud computing, DevOps tools, and teamwork and collaboration. The online coding challenge offers…"
     },
     {
       "id": "unstop:1f746bea08e2",
@@ -888,7 +752,7 @@
       "cost": "free",
       "costLabel": "Free",
       "host": "DevHarbour",
-      "prize": "$100",
+      "prize": "₹94,000 · $100",
       "themes": [
         "Software Development"
       ],
@@ -901,42 +765,11 @@
         "1768929"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Build. Compete. Create What's Next. An Online Student Hackathon | Organised by Dev Harbour Win exciting prizes, earn certificates, and showcase your project to the world! Compete for top honors, special awards, and recognition at ORCA CODERS: ORCATHON 2026 & Official website!!! Join our WhatsApp Community Click Here To join community Follow Dev Harbour on LinkedIn https://www.linkedin.com/company/devharbour Key Dates Registrations Opn: 11 October 2026 Registration Deadline: 24 October 2026, 11:59 PM IST Hackathon Date: Sunday, 25 October 2026 Opening & Doubt-Clearing Session: 11:00 AM–12:00 PM IST Problem Statement Release: 11:00 AM IST Build & Deployment Deadline: 3:30 PM IST Final Submiss…"
-    },
-    {
-      "id": "unstop:61ba4bdef0b3",
-      "name": "Kannada Digital Innovation Hackathon 2026",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-10-25T16:30:00.000Z",
-      "end": "2026-10-25T16:30:00.000Z",
-      "deadline": "2026-10-22T18:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "The National Institute of Engineering, Karnataka",
-      "prize": "₹2,000 · ₹1,000",
-      "themes": [
-        "Software Development"
-      ],
-      "url": "https://unstop.com/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
-      "sourceUrl": "https://unstop.com/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1769004"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Kannada Digital Innovation Hackathon 2026 Organized by HackerRank Campus Crew, The National Institute of Engineering (NIE), Mysuru collab with Adaption Labs Theme: Code. Create. Celebrate Kannada. About the Hackathon Kannada Digital Innovation Hackathon 2026 is an initiative to bring together students, developers, designers, and innovators to build meaningful digital solutions that promote Kannada language, Karnataka's rich culture, heritage, tourism, and regional development. Participants can choose from the provided problem statements and develop innovative technology solutions using web development, mobile applications, artificial intelligence, machine learning, data science, and other r…"
     },
     {
       "id": "unstop:a734a22c781e",
@@ -964,7 +797,7 @@
         "1771928"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -996,43 +829,11 @@
         "1748182"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Qiskit Fall Fest 2026 @ MPSTME , hosted by the Mukesh Patel School of Technology Management and Engineering (MPSTME), NMIMS Mumbai , brings together students and quantum computing enthusiasts to explore, learn, and build with quantum technologies. Organised in association with IBM Quantum , Qiskit Fall Fest 2026 @ MPSTME is designed to introduce participants to the rapidly evolving world of quantum computing while giving them the opportunity to apply their knowledge to practical problems and innovative ideas. About the Event Quantum computing is no longer limited to theoretical physics and research papers. With frameworks such as Qiskit , developers and researchers can experiment with quant…"
-    },
-    {
-      "id": "unstop:75594e714ea1",
-      "name": "Build With Nova",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-10-26T18:30:00.000Z",
-      "end": "2026-10-26T18:30:00.000Z",
-      "deadline": "2026-10-22T18:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Bridgeye",
-      "prize": "₹5,000",
-      "themes": [
-        "Software Development",
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/build-with-nova-bridgeye-1763873",
-      "sourceUrl": "https://unstop.com/hackathons/build-with-nova-bridgeye-1763873",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1763873"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Overview: A 48-Hour Online Hackathon by Nova 24–25 October 2026 | Online | Teams of 1–4 Build With Nova is a 48-hour online hackathon organised by Nova, bringing together developers, students, builders, AI enthusiasts, indie hackers, and technology creators to build and launch working products within a limited timeframe. The hackathon is designed around one simple idea: give builders the tools, time, and freedom to turn an idea into something real. Participants can identify a problem they want to solve, develop their own product or solution, and use Nova CLI throughout the process to build, iterate, debug, experiment, and ship their final project. Unlike traditional hackathons that revolve…"
     },
     {
       "id": "unstop:3ba4ef96ea7d",
@@ -1059,7 +860,7 @@
         "1762774"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1090,7 +891,7 @@
         "1771036"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1120,7 +921,7 @@
         "1769328"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1150,7 +951,7 @@
         "1769081"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1182,11 +983,42 @@
         "1770904"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About the Hackathon Speed Demon is a 72-hour online performance championship built around one challenge: make your code faster, leaner, and more efficient. Most hackathons ask a panel whether they liked your idea. Speed Demon measures whether your code actually performs. Every track provides a task specification, a dataset, and a deliberately naive reference implementation that solves the problem correctly and slowly. Your challenge is to solve the same problem correctly — and not slowly. The competition covers five tracks: log processing, search indexing, complex CSV parsing and joining, graph algorithms, and lossless compression. Each track tests a different aspect of performance engineer…"
+    },
+    {
+      "id": "unstop:5e49d3d229fa",
+      "name": "CodeOdyssey '26",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-10-30T18:30:00.000Z",
+      "end": "2026-10-30T18:30:00.000Z",
+      "deadline": "2026-10-30T18:30:00.000Z",
+      "cost": "paid",
+      "costLabel": "₹100",
+      "host": "JECRC University (JECRCU), Vidhani, Jaipur, Rajasthan",
+      "prize": "₹5,000 · ₹2,500",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
+      "sourceUrl": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1772647"
+      ],
+      "firstSeen": "2026-10-23T06:23:37.840Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Code Your Journey. Create the Future. Organized by AlgoXilla: Welcome to CodeOdyssey '26 , an exciting hackathon where innovation meets technology. Bring your ideas to life, solve real-world problems, collaborate with talented developers, and showcase your technical skills. Whether you're passionate about AI/ML, Web Development, App Development, Blockchain, or other emerging technologies, this is your opportunity to build something innovative and gain practical experience. Domains: Artificial Intelligence and Machine Learning Web and App Development Blockchain and Web3 FinTech and EdTech Cybersecurity Healthcare and Social Impact Open Innovation Eligibility and Team Formation: Open to colle…"
     },
     {
       "id": "devfolio:429fc0e6333d",
@@ -1211,7 +1043,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1243,7 +1075,7 @@
         "1769252"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1275,7 +1107,7 @@
         "1757858"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1306,7 +1138,7 @@
         "1771573"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1338,11 +1170,42 @@
         "1765656"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "LeetCode tests algorithms. Engineering Cup tests whether you can actually build software. Gronex Engineering Cup #1 is a free, online, 2-hour contest for students and working engineers. You solve three brand-new problems inside real code repositories, in your browser, and every submission is auto-graded against a real test suite. Platform: The contest is conducted entirely on Gronex, in its browser-based coding workspace with built-in auto-grading. Unstop is used for registration and announcements; the problems are solved and scored on Gronex at gronex.org/contest/engineering-cup-1. When: Saturday, 31 October 2026, 7:00 PM to 9:00 PM IST (2 hours, online). The Problems: Machine coding (Easy…"
+    },
+    {
+      "id": "unstop:a05da2e54614",
+      "name": "Kannada Digital Innovation Hackathon 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-10-31T16:30:00.000Z",
+      "end": "2026-10-31T16:30:00.000Z",
+      "deadline": "2026-10-23T09:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "The National Institute of Engineering, Karnataka",
+      "prize": "₹2,000 · ₹1,000",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
+      "sourceUrl": "https://unstop.com/hackathons/kannada-digital-innovation-hackathon-2026-the-national-institute-of-engineering-karnataka-1769004",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1769004"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Kannada Digital Innovation Hackathon 2026 Organized by HackerRank Campus Crew, The National Institute of Engineering (NIE), Mysuru collab with Adaption Labs Theme: Code. Create. Celebrate Kannada. About the Hackathon Kannada Digital Innovation Hackathon 2026 is an initiative to bring together students, developers, designers, and innovators to build meaningful digital solutions that promote Kannada language, Karnataka's rich culture, heritage, tourism, and regional development. Participants can choose from the provided problem statements and develop innovative technology solutions using web development, mobile applications, artificial intelligence, machine learning, data science, and other r…"
     },
     {
       "id": "unstop:cb482c638cbe",
@@ -1369,7 +1232,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1401,7 +1264,7 @@
         "1766839"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1431,7 +1294,7 @@
         "1762887"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1462,7 +1325,7 @@
         "1762891"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1494,7 +1357,7 @@
         "1760000"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1526,7 +1389,7 @@
         "1771078"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1558,7 +1421,7 @@
         "1771427"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1589,7 +1452,7 @@
         "1765313"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1621,7 +1484,7 @@
         "1762841"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1651,7 +1514,7 @@
         "1768863"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1683,7 +1546,7 @@
         "1769404"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1715,7 +1578,7 @@
         "1762305"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1747,42 +1610,11 @@
         "1766739"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About the Event Hackosquad CTF is a 24-hour online Capture The Flag competition hosted by hackosquad. It is the final chapter of our Marvel-inspired CTF series, following the Iron Man and Spider-Man editions. Doctor Doom has taken over global systems and set a Doomsday countdown. You play the resistance, breaking into his networks, decoding his secrets and shutting down his plan before time runs out. The challenges are released in phases and get harder as the event goes on. Beginners will find plenty to solve, and experienced players will find a serious final challenge. Event Details Start: 7 November 2026 End: 8 November 2026 Duration: 24 hours Mode: Online Participation: Solo Live ctf is…"
-    },
-    {
-      "id": "unstop:dc46af5570bb",
-      "name": "Shakti Hackathon",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-05T18:29:00.000Z",
-      "end": "2026-11-05T18:29:00.000Z",
-      "deadline": "2026-10-22T18:29:41.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "BUBBLESORT",
-      "prize": "1st Place",
-      "themes": [
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/shakti-hackathon-bubblesort-1758572",
-      "sourceUrl": "https://unstop.com/hackathons/shakti-hackathon-bubblesort-1758572",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1758572"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "SHAKTI Hackathon A Durga Puja Special This Pujo, don’t just celebrate the power. Build with it. Durga Puja is all about Shakti, creativity, energy, and coming together. This festive season, BUBBLESORT brings that spirit into technology with SHAKTI Hackathon, a student-focused challenge to turn real-world problems into meaningful tech solutions. Eligibility and Teams Open to students from computer-related or technology-oriented academic backgrounds Students in any year of study, as well as passed-out or graduated students, may participate Teams may have 1 to 3 members Each participant may join only one team Team changes after registration require organizer approval Hackathon Themes AI-Agenti…"
     },
     {
       "id": "unstop:994ac9207f0b",
@@ -1810,7 +1642,7 @@
         "1768758"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1842,7 +1674,7 @@
         "1767181"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1876,7 +1708,7 @@
         "1772304"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1907,7 +1739,7 @@
         "1766381"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1937,7 +1769,7 @@
         "1770422"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1969,7 +1801,7 @@
         "1767661"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1999,7 +1831,7 @@
         "1762854"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2031,7 +1863,7 @@
         "1760074"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2064,7 +1896,7 @@
         "1762158"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2095,7 +1927,7 @@
         "1756040"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2128,7 +1960,7 @@
         "1763003"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2159,7 +1991,7 @@
         "1762863"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2190,7 +2022,7 @@
         "1762783"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2221,7 +2053,7 @@
         "1771084"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2254,7 +2086,7 @@
         "1764747"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2284,7 +2116,7 @@
         "1751032"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2315,7 +2147,7 @@
         "1766434"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2347,7 +2179,7 @@
         "1771798"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2379,7 +2211,7 @@
         "1766232"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2409,7 +2241,7 @@
         "1745979"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2443,7 +2275,7 @@
         "1766190"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2474,7 +2306,7 @@
         "1772846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2506,7 +2338,7 @@
         "1764222"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2538,7 +2370,7 @@
         "1771441"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2569,7 +2401,7 @@
         "1770609"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2600,7 +2432,7 @@
         "1766843"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2632,11 +2464,43 @@
         "1764453"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "RunUp Coders Hackathon 2026 Digital Recognition & Showcase Partner: Risers Cre8 RunUp. Build More. Official Participant Community: Registered participants may join the RunUp Coders WhatsApp Community for important updates, announcements, deadlines, and queries. Join here: https://chat.whatsapp.com/BzFjnyhHAMF3Uk5HnrKmVX RunUp Coders - Hackathon 2026 is a fully online Open Innovation Hackathon organized by RunUp Coders . The hackathon is designed to encourage students across India to identify meaningful real-world problems and build innovative, practical, and impactful technology-driven solutions. Participants are free to work on ideas from any domain, including Artificial Intelligence, Web…"
+    },
+    {
+      "id": "unstop:7187c43845d8",
+      "name": "Datanova 2026 Global Data-Thon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-25T13:03:00.000Z",
+      "end": "2026-11-25T13:03:00.000Z",
+      "deadline": "2026-11-09T18:30:00.000Z",
+      "cost": "paid",
+      "costLabel": "₹100",
+      "host": "Swiss School of Management, Rome, Italy",
+      "prize": "$1,000 · $500",
+      "themes": [
+        "Data Analysis",
+        "Data Science"
+      ],
+      "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "sourceUrl": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1769646"
+      ],
+      "firstSeen": "2026-10-23T06:23:37.840Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "DataNova 2026 – Global Data-thon - Prizes worth 1750$(~1.7 lakh rupees) Turning Data Into Decisions. Building Solutions That Matter. About the Event: (https://datanovathon.com) DataNova 2026 is a global virtual Data-thon designed to bring together innovators, students, researchers, developers, data scientists and technology professionals to address meaningful challenges through data-driven innovation. As Artificial Intelligence and data technologies transform industries, the ability to translate complex problems into practical, scalable solutions has become increasingly important. DataNova provides a platform for participants to apply their technical knowledge, experiment with innovative ap…"
     },
     {
       "id": "unstop:74cdf7b655f1",
@@ -2663,7 +2527,7 @@
         "1770666"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2694,7 +2558,7 @@
         "1756262"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2725,7 +2589,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2756,7 +2620,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2789,7 +2653,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2820,7 +2684,7 @@
         "1769121"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2852,7 +2716,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2869,7 +2733,7 @@
       "deadline": "2026-10-25T14:31:00.000Z",
       "cost": "free",
       "costLabel": "Free",
-      "host": "Inspire leap private limited",
+      "host": "Inspire Leap Private Limited",
       "prize": "₹5,000",
       "themes": [
         "Quizzes & Treasure Hunt"
@@ -2883,7 +2747,7 @@
         "1772359"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2914,11 +2778,260 @@
         "1772904"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "lastVerified": "2026-10-23T06:23:49.234Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "PRASUNEX INNOVATHON 2026 Think Beyond Limits. Build the Future. About PRASUNEX INNOVATHON 2026: Inspired by this vision, PRASUNEX INNOVATHON 2026 is a technology and innovation hackathon that invites students, developers, designers, researchers, and aspiring entrepreneurs to turn their ideas into practical, impactful solutions. The event provides a competitive platform for participants to identify real-world challenges, explore emerging technologies, develop working prototypes, and demonstrate their technical and creative abilities. Participants are encouraged to develop solutions in areas such as Artificial Intelligence, Machine Learning, Education Technology, Web and Mobile Development, D…"
+    },
+    {
+      "id": "unstop:dc46af5570bb",
+      "name": "Shakti Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-05T18:29:00.000Z",
+      "end": "2026-11-05T18:29:00.000Z",
+      "deadline": "2026-10-22T18:29:41.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "BUBBLESORT",
+      "prize": "1st Place",
+      "themes": [
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/shakti-hackathon-bubblesort-1758572",
+      "sourceUrl": "https://unstop.com/hackathons/shakti-hackathon-bubblesort-1758572",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1758572"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "SHAKTI Hackathon A Durga Puja Special This Pujo, don’t just celebrate the power. Build with it. Durga Puja is all about Shakti, creativity, energy, and coming together. This festive season, BUBBLESORT brings that spirit into technology with SHAKTI Hackathon, a student-focused challenge to turn real-world problems into meaningful tech solutions. Eligibility and Teams Open to students from computer-related or technology-oriented academic backgrounds Students in any year of study, as well as passed-out or graduated students, may participate Teams may have 1 to 3 members Each participant may join only one team Team changes after registration require organizer approval Hackathon Themes AI-Agenti…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "unstop:75594e714ea1",
+      "name": "Build With Nova",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-10-26T18:30:00.000Z",
+      "end": "2026-10-26T18:30:00.000Z",
+      "deadline": "2026-10-22T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Bridgeye",
+      "prize": "₹5,000",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/build-with-nova-bridgeye-1763873",
+      "sourceUrl": "https://unstop.com/hackathons/build-with-nova-bridgeye-1763873",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1763873"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview: A 48-Hour Online Hackathon by Nova 24–25 October 2026 | Online | Teams of 1–4 Build With Nova is a 48-hour online hackathon organised by Nova, bringing together developers, students, builders, AI enthusiasts, indie hackers, and technology creators to build and launch working products within a limited timeframe. The hackathon is designed around one simple idea: give builders the tools, time, and freedom to turn an idea into something real. Participants can identify a problem they want to solve, develop their own product or solution, and use Nova CLI throughout the process to build, iterate, debug, experiment, and ship their final project. Unlike traditional hackathons that revolve…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "unstop:8f8cf78f515e",
+      "name": "FlashCode",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-10-26T12:30:00.000Z",
+      "end": "2026-10-26T12:30:00.000Z",
+      "deadline": "2026-10-22T06:30:10.000Z",
+      "city": "Nagpur",
+      "venue": "Indian Institute of Information Technology, Nagpur (IIITN)",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Indian Institute of Information Technology (IIIT), Nagpur",
+      "prize": "₹4,000 · ₹3,000",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
+      "sourceUrl": "https://unstop.com/hackathons/flashcode-tantrafiesta26-iiitn-1765827",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1765827"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "travelNote": "Check if round 1 is online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Flash Code is a unique and exciting coding challenge hosted by DotSlash, IIIT Nagpur , designed to test participants in a fun, fast, and competitive way. Unlike traditional contests, Flash Code will feature 3 surprise mini coding games , revealed only on the event day. Each game will have its own winners, runner-ups, and second runner-ups giving everyone multiple chances to shine! Prize pool worth INR 35,000 to be distributed among all winners! Participation is individual-only , making it a fair and thrilling competition for all coders What We’re Looking For : Quick thinkers who can adapt to surprise challenges Coders with speed, accuracy, and creativity Individuals ready to compete solo un…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "unstop:0b31f984ad38",
+      "name": "Jāgriti Hacks",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-10-24T23:31:00.000Z",
+      "end": "2026-10-24T23:31:00.000Z",
+      "deadline": "2026-10-23T00:15:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Siliguri Institute of Technology",
+      "prize": "$400 · $225",
+      "themes": [
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/jagriti-hacks-siliguri-institute-of-technology-1760290",
+      "sourceUrl": "https://unstop.com/hackathons/jagriti-hacks-siliguri-institute-of-technology-1760290",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1760290"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Welcome to the Jāgriti Hacks - by Jāgriti Technologies An online hackathon where teams turn ideas into impactful solutions through coding, collaboration, and technical problem-solving. About the Opportunity: Jāgriti Hacks is an online hackathon by Siliguri Institute of Technology, designed for team participation in the Quizzes & Treasure Hunt category. Participants will move from understanding a chosen problem statement to presenting a working project through structured stages of ideation, coding, and evaluation. Teams can showcase skills in cybersecurity frameworks, machine learning concepts, cloud computing, DevOps tools, and teamwork and collaboration. The online coding challenge offers…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "unstop:a71d2d74bc50",
+      "name": "Webforge AI",
+      "type": "hackathon",
+      "mode": "hybrid",
+      "lane": "maharashtra",
+      "start": "2026-10-24T10:30:00.000Z",
+      "end": "2026-10-24T10:30:00.000Z",
+      "deadline": "2026-10-22T18:30:00.000Z",
+      "city": "Nagpur",
+      "venue": "St Vincent Pallotti College of Eng. & Tech.",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "paid",
+      "costLabel": "₹100",
+      "host": "St Vincent pallotti college of engineering and technology nagpur",
+      "prize": "₹4,000 · ₹2,500",
+      "themes": [
+        "Web Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
+      "sourceUrl": "https://unstop.com/hackathons/webforge-ai-st-vincent-pallotti-college-of-engineering-and-technology-nagpur-1765780",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1765780"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "WEB FORGE AI – HACKATHON: Build Smart. Create Real. Innovate with AI. Ready to test your AI + Web Development skills? Join us for an exciting challenge where innovation meets problem-solving! Round-wise Details: Round 1 – Online Quiz (FREE): Schedule: 5 days before the event. Topics: AI, ML & Web Development. Round 2 – Offline Hackathon: Date: 24th October. Details: Build an AI + Web solution based on a surprise problem statement revealed on the spot! Be ready for unexpected challenges and exciting twists. Event Details: Team Size: 2–3 Members. Prizes: Up to ₹8,000. Registration Fee: ₹200 (2 members) | ₹300 (3 members) (For Round 2). Participation Certificates: As per event guidelines. Impo…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "unstop:b56722cb60cd",
+      "name": "CognitionNext '26 - by Cognext",
+      "type": "hackathon",
+      "mode": "hybrid",
+      "lane": "maharashtra",
+      "start": "2026-10-24T03:30:00.000Z",
+      "end": "2026-10-24T03:30:00.000Z",
+      "deadline": "2026-10-22T06:29:00.000Z",
+      "city": "Mumbai",
+      "venue": "Veermata Jijabai Technological Institute (VJTI), Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "VJTI Mumbai",
+      "themes": [
+        "Agentic AI Engineer"
+      ],
+      "url": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
+      "sourceUrl": "https://unstop.com/hackathons/cognext-agent-force-vjti-mumbai-1765869",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1765869"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "delisted",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "CognitionNext '26 CognitionNext '26 is a two-round hackathon organized by Cognext.ai in collaboration with Technovanza, VJTI , designed to bring together students passionate about Artificial Intelligence and Machine Learning . Participants will get an opportunity to showcase their AI expertise, build innovative solutions, compete for a ₹1,00,000 prize pool , and potentially earn internship opportunities with Cognext AI. Eligibility Open to students form all Engineering Colleges . Teams can consist of 1–2 participants . Each participant can register with only one team. Participants must complete Round 1 to qualify for Round 2. Hackathon Theme Artificial Intelligence Participants are encourag…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
+      "id": "gdg-nashik:461b53131005",
+      "name": "Agentic AI Architecture: How Autonomous AI Systems Work",
+      "type": "meetup",
+      "mode": "in-person",
+      "lane": "nashik",
+      "start": "2026-10-22T04:30:00.000Z",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "GDG Nashik",
+      "themes": [
+        "Google",
+        "Community"
+      ],
+      "url": "https://gdg.community.dev/events/details/google-gdg-nashik-presents-agentic-ai-architecture-how-autonomous-ai-systems-work/",
+      "sourceUrl": "https://gdg.community.dev/gdg-nashik/",
+      "sources": [
+        "gdg-nashik"
+      ],
+      "sourceIds": [
+        "https://gdg.community.dev/events/details/google-gdg-nashik-presents-agentic-ai-architecture-how-autonomous-ai-systems-work/"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-10-22T06:02:54.745Z",
+      "status": "archived",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "🚀 Agentic AI Architecture: How Autonomous AI Systems Work 🤖 Discover how AI is evolving from chatbots that simply answer questions to intelligent agents that can plan, use tools, retain context, and take action toward goals. Join GDG Nashik for an insightful session exploring the architecture behind autonomous AI systems. Understand how AI agents work, how their core components interact, and how multiple agents can collaborate to solve complex problems. 💡 WHAT YOU'LL EXPLORE 🧠 Core Components of AI Agents — Understand LLMs, planning modules, tools, and memory. ⚙️ How AI Agents Work — Explore the Plan → Act → Observe loop that drives autonomous behaviour. 🔗 Multi-Agent Systems — Discove…",
+      "stale": false,
+      "archiveNote": "Past event"
     }
   ]
 }
