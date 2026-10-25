@@ -110,7 +110,9 @@ function SourceRow({ source }: { source: SourceHealth }) {
           {source.status === "error" && source.lastSuccess ? (
             <>
               <span aria-hidden="true">·</span>
-              <span>Last good data {relativeTime(source.lastSuccess)}</span>
+              <span>
+                Last successful check {relativeTime(source.lastSuccess)}
+              </span>
             </>
           ) : null}
         </div>
@@ -176,6 +178,7 @@ export function StatusDialog({
 }) {
   const healthy = sources.filter((source) => source.status === "ok").length
   const failed = sources.filter((source) => source.status === "error")
+  const failedWithEvents = failed.filter((source) => source.events > 0)
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
@@ -228,7 +231,11 @@ export function StatusDialog({
                   <span
                     className={cn(
                       "size-2 rounded-full",
-                      failed.length ? "bg-rose-500" : "bg-emerald-500"
+                      failedWithEvents.length
+                        ? "bg-rose-500"
+                        : failed.length
+                          ? "bg-amber-500"
+                          : "bg-emerald-500"
                     )}
                     aria-hidden="true"
                   />
@@ -236,7 +243,13 @@ export function StatusDialog({
                 </p>
                 <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
                   {failed.length
-                    ? "A source failed on the last refresh, so its last good events are still on the page."
+                    ? failedWithEvents.length
+                      ? `${failedWithEvents.length} source${
+                          failedWithEvents.length === 1 ? "" : "s"
+                        } failed on the last refresh, so their last good events are still on the page.`
+                      : failed.length === 1
+                        ? "A source couldn't be reached on the last refresh. It has no upcoming events to show right now."
+                        : "Some sources couldn't be reached on the last refresh. They have no upcoming events to show right now."
                     : "Every source responded on the last refresh. Links are re-checked on each run."}
                 </p>
               </div>

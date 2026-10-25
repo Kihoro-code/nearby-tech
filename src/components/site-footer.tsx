@@ -19,7 +19,12 @@ export function SiteFooter({
   onOpenStatus: (tab: StatusTab) => void
 }) {
   const healthy = sources.filter((source) => source.status === "ok").length
-  const hasErrors = sources.some((source) => source.status === "error")
+  const impactfulErrors = sources.filter(
+    (source) => source.status === "error" && source.events > 0
+  ).length
+  const quietErrors = sources.some(
+    (source) => source.status === "error" && source.events === 0
+  )
 
   return (
     <footer className="mt-14 border-t border-border/60 bg-muted/20">
@@ -56,7 +61,11 @@ export function SiteFooter({
               <span
                 className={cn(
                   "ml-0.5 size-1.5 rounded-full",
-                  hasErrors ? "bg-rose-500" : "bg-emerald-500"
+                  impactfulErrors
+                    ? "bg-rose-500"
+                    : quietErrors
+                      ? "bg-amber-500"
+                      : "bg-emerald-500"
                 )}
                 aria-label={`${healthy} of ${sources.length} sources healthy`}
               />
