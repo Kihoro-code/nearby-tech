@@ -27,26 +27,22 @@ const TYPE_META: Record<EventType, TypeMeta> = {
   hackathon: {
     label: "Hackathon",
     icon: Code2,
-    className:
-      "border-amber-300/80 bg-amber-100/80 text-amber-950 dark:border-amber-400/30 dark:bg-amber-400/15 dark:text-amber-200",
+    className: "border-foreground bg-sun text-ink",
   },
   ideathon: {
     label: "Ideathon",
     icon: Lightbulb,
-    className:
-      "border-rose-300/80 bg-rose-100/80 text-rose-950 dark:border-rose-400/30 dark:bg-rose-400/15 dark:text-rose-200",
+    className: "border-foreground bg-hot text-ink",
   },
   meetup: {
     label: "Meetup",
     icon: Users,
-    className:
-      "border-teal-300/80 bg-teal-100/80 text-teal-950 dark:border-teal-400/30 dark:bg-teal-400/15 dark:text-teal-200",
+    className: "border-foreground bg-mint text-ink",
   },
   workshop: {
     label: "Workshop",
     icon: Wrench,
-    className:
-      "border-sky-300/80 bg-sky-100/80 text-sky-950 dark:border-sky-400/30 dark:bg-sky-400/15 dark:text-sky-200",
+    className: "border-foreground bg-sky text-ink",
   },
 }
 
@@ -72,7 +68,7 @@ export function TypeBadge({
   return (
     <Badge
       variant="outline"
-      className={cn("gap-1 border px-2 py-0.5 font-medium", meta.className, className)}
+      className={cn("gap-1", meta.className, className)}
     >
       <Icon aria-hidden="true" />
       {meta.label}
@@ -93,10 +89,7 @@ export function ModeBadge({
   return (
     <Badge
       variant="outline"
-      className={cn(
-        "gap-1 border-border/70 bg-background/60 px-2 py-0.5 text-muted-foreground",
-        className
-      )}
+      className={cn("gap-1 bg-card text-foreground", className)}
     >
       <Icon aria-hidden="true" />
       {meta.label}
@@ -108,7 +101,7 @@ export function NewBadge({ className }: { className?: string }) {
   return (
     <Badge
       className={cn(
-        "gap-1 border-transparent bg-primary px-2 py-0.5 text-primary-foreground",
+        "-rotate-2 gap-1 border-foreground bg-sun px-2 text-ink shadow-brutal-sm",
         className
       )}
     >
@@ -133,10 +126,10 @@ export function ArchiveStatusBadge({
     <Badge
       variant="outline"
       className={cn(
-        "gap-1 px-2 py-0.5",
+        "gap-1",
         archived || closed
-          ? "border-border/70 bg-muted/50 text-muted-foreground"
-          : "border-amber-300/60 bg-amber-50 text-amber-900 dark:border-amber-400/20 dark:bg-amber-400/10 dark:text-amber-200",
+          ? "border-foreground bg-secondary text-muted-foreground"
+          : "border-foreground bg-hot text-ink",
         className
       )}
     >

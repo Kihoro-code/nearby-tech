@@ -39,10 +39,11 @@ import type { SourceHealth, TechEvent } from "@/lib/types"
 import { ModeBadge, NewBadge, TypeBadge, ArchiveStatusBadge } from "./event-badges"
 
 const LANE_COPY: Record<TechEvent["lane"], string> = {
-  nashik: "Nashik district, plus roughly 45 minutes of travel. No long trip required.",
-  maharashtra:
-    "In Maharashtra. Worth the trip for the right room.",
-  online: "No travel required. Hackathons from anywhere; meetups and workshops only at IST-friendly hours.",
+  nashik:
+    "Nashik district, plus roughly 45 minutes of travel. No long trip required.",
+  maharashtra: "In Maharashtra. Worth the trip for the right room.",
+  online:
+    "No travel required. Hackathons from anywhere; meetups and workshops only at IST-friendly hours.",
 }
 
 function whenLabel(event: TechEvent): string {
@@ -79,13 +80,15 @@ function Fact({
   children: ReactNode
 }) {
   return (
-    <div className="flex gap-2.5">
-      <Icon className="mt-0.5 size-4 shrink-0 text-muted-foreground" aria-hidden="true" />
+    <div className="flex gap-3">
+      <span className="mt-0.5 grid size-8 shrink-0 place-items-center rounded-md border-2 border-foreground bg-sun text-ink shadow-brutal-sm">
+        <Icon className="size-3.5" aria-hidden="true" />
+      </span>
       <div className="min-w-0">
-        <dt className="text-[10px] font-medium uppercase tracking-[0.14em] text-muted-foreground">
+        <dt className="text-[9px] font-bold uppercase tracking-[0.14em] text-muted-foreground">
           {label}
         </dt>
-        <dd className="mt-0.5 text-sm leading-relaxed">{children}</dd>
+        <dd className="mt-1 text-sm font-medium leading-relaxed">{children}</dd>
       </div>
     </div>
   )
@@ -135,14 +138,17 @@ export function EventDetailSheet({
         side="right"
         className="flex w-full flex-col gap-0 p-0 data-[side=right]:w-full data-[side=right]:sm:max-w-lg"
       >
-        <div className="min-h-0 flex-1 overflow-y-auto p-5 pb-6">
+        <div className="min-h-0 flex-1 overflow-y-auto p-5 pb-7">
           <SheetHeader className="gap-3 p-0 pr-9">
             <div className="flex flex-wrap items-center gap-1.5">
               <TypeBadge type={event.type} />
               {isNew ? <NewBadge /> : null}
               <ModeBadge mode={event.mode} />
               {event.manual ? (
-                <Badge variant="outline" className="gap-1 text-muted-foreground">
+                <Badge
+                  variant="outline"
+                  className="gap-1 bg-card text-muted-foreground"
+                >
                   <PenLine aria-hidden="true" />
                   Added by you
                 </Badge>
@@ -154,11 +160,11 @@ export function EventDetailSheet({
               ) : null}
             </div>
 
-            <SheetTitle className="text-xl leading-tight font-semibold tracking-[-0.02em]">
+            <SheetTitle className="text-[1.8rem] leading-[0.95] font-extrabold tracking-[-0.04em] sm:text-3xl">
               {event.name}
             </SheetTitle>
 
-            <SheetDescription>
+            <SheetDescription className="text-[10px] font-bold uppercase tracking-[0.12em] text-muted-foreground">
               {[event.host, event.city].filter(Boolean).join(" · ")}
             </SheetDescription>
           </SheetHeader>
@@ -212,16 +218,16 @@ export function EventDetailSheet({
             ) : null}
           </dl>
 
-          <div className="mt-5 rounded-xl border border-primary/15 bg-primary/[0.045] p-3">
-            <p className="flex items-center gap-1.5 text-[11px] font-semibold uppercase tracking-[0.12em] text-primary">
+          <div className="mt-6 rounded-xl border-2 border-foreground bg-sun p-3.5 text-ink shadow-brutal-sm">
+            <p className="flex items-center gap-1.5 font-heading text-[11px] font-extrabold uppercase tracking-[0.1em]">
               <Compass className="size-3.5" aria-hidden="true" />
               Why it&apos;s here
             </p>
-            <p className="mt-1.5 text-xs leading-relaxed text-muted-foreground">
+            <p className="mt-1.5 text-xs leading-relaxed font-medium text-ink/75">
               {LANE_COPY[event.lane]}
             </p>
             {event.travelNote ? (
-              <p className="mt-1.5 text-xs font-medium text-foreground/80">
+              <p className="mt-1.5 text-xs font-bold text-ink/85">
                 {event.travelNote}.
               </p>
             ) : null}
@@ -230,10 +236,10 @@ export function EventDetailSheet({
           {event.description ? (
             <>
               <Separator className="my-5" />
-              <h3 className="text-xs font-semibold uppercase tracking-[0.14em] text-muted-foreground">
+              <h3 className="font-heading text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted-foreground">
                 About
               </h3>
-              <p className="mt-2 whitespace-pre-line text-sm leading-relaxed text-muted-foreground">
+              <p className="mt-2 whitespace-pre-line text-sm leading-relaxed font-medium text-foreground/70">
                 {event.description}
               </p>
             </>
@@ -242,7 +248,7 @@ export function EventDetailSheet({
           {event.themes?.length ? (
             <div className="mt-5 flex flex-wrap gap-1.5">
               {event.themes.map((theme) => (
-                <Badge key={theme} variant="secondary" className="font-normal">
+                <Badge key={theme} variant="secondary" className="font-bold">
                   {theme}
                 </Badge>
               ))}
@@ -251,9 +257,10 @@ export function EventDetailSheet({
 
           <Separator className="my-5" />
 
-          <div className="flex flex-col gap-2 text-[11px] text-muted-foreground">
+          <div className="flex flex-col gap-2 rounded-lg border-2 border-foreground bg-card p-3 text-[10px] font-medium text-muted-foreground shadow-[1.5px_1.5px_0_var(--ink-shadow)]">
             <p className="flex items-center gap-1.5">
-              {event.linkStatus === "error" || event.linkStatus === "source-only" ? (
+              {event.linkStatus === "error" ||
+              event.linkStatus === "source-only" ? (
                 <AlertCircle className="size-3.5 text-rose-500" aria-hidden="true" />
               ) : event.linkStatus === "blocked" ? (
                 <AlertCircle
@@ -271,7 +278,7 @@ export function EventDetailSheet({
               {linkNote}
             </p>
             {event.stale ? (
-              <p className="flex items-center gap-1.5 text-amber-700 dark:text-amber-300">
+              <p className="flex items-center gap-1.5 font-bold text-rose-600 dark:text-rose-400">
                 <AlertCircle className="size-3.5" aria-hidden="true" />
                 Source is temporarily unavailable; showing last good data.
               </p>
@@ -280,19 +287,20 @@ export function EventDetailSheet({
 
           {sourceLinks.length ? (
             <div className="mt-4">
-              <p className="text-[10px] font-medium uppercase tracking-[0.14em] text-muted-foreground">
+              <p className="text-[9px] font-bold uppercase tracking-[0.14em] text-muted-foreground">
                 Found on
               </p>
-              <div className="mt-1.5 flex flex-wrap gap-x-3 gap-y-1">
+              <div className="mt-1.5 flex flex-wrap gap-x-3 gap-y-1.5">
                 {sourceLinks.map((source) => (
                   <a
                     key={source.id}
                     href={source.url}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-xs text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+                    className="inline-flex items-center gap-1 text-xs font-bold underline decoration-2 underline-offset-4 hover:text-primary"
                   >
                     {source.name}
+                    <ExternalLink className="size-3" aria-hidden="true" />
                   </a>
                 ))}
               </div>
@@ -300,7 +308,7 @@ export function EventDetailSheet({
           ) : null}
         </div>
 
-        <SheetFooter className="border-t bg-popover p-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
+        <SheetFooter className="border-t-[3px] border-foreground bg-card p-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
           <Button asChild className="w-full">
             <a href={event.url} target="_blank" rel="noreferrer">
               {openLabel}

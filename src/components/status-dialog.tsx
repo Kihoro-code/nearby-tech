@@ -27,17 +27,17 @@ const STATUS_META = {
   ok: {
     label: "Healthy",
     dot: "bg-emerald-500",
-    text: "text-emerald-700 dark:text-emerald-300",
+    badge: "bg-mint text-ink",
   },
   error: {
     label: "Failed",
     dot: "bg-rose-500",
-    text: "text-rose-700 dark:text-rose-300",
+    badge: "bg-hot text-ink",
   },
   unknown: {
     label: "Unknown",
     dot: "bg-amber-500",
-    text: "text-amber-700 dark:text-amber-300",
+    badge: "bg-sun text-ink",
   },
 } as const
 
@@ -51,10 +51,12 @@ function EmptyState({
   description: string
 }) {
   return (
-    <div className="flex flex-col items-center justify-center rounded-xl border border-dashed border-border/80 bg-muted/20 px-5 py-10 text-center">
-      <Icon className="size-5 text-muted-foreground/70" aria-hidden="true" />
-      <p className="mt-2 text-sm font-medium">{title}</p>
-      <p className="mt-1 max-w-sm text-xs leading-relaxed text-muted-foreground">
+    <div className="flex flex-col items-center justify-center rounded-xl border-2 border-dashed border-foreground bg-card/60 px-5 py-10 text-center shadow-brutal-sm">
+      <Icon className="size-6 text-foreground/45" aria-hidden="true" />
+      <p className="mt-2 font-heading text-sm font-extrabold uppercase tracking-[0.02em]">
+        {title}
+      </p>
+      <p className="mt-1 max-w-sm text-xs leading-relaxed font-medium text-muted-foreground">
         {description}
       </p>
     </div>
@@ -65,9 +67,12 @@ function SourceRow({ source }: { source: SourceHealth }) {
   const meta = STATUS_META[source.status]
 
   return (
-    <div className="flex gap-3 rounded-xl border border-border/70 bg-card p-3">
+    <div className="flex gap-3 rounded-xl border-2 border-foreground bg-card p-3 shadow-[2px_2px_0_var(--ink-shadow)]">
       <span
-        className={cn("mt-1.5 size-2 shrink-0 rounded-full", meta.dot)}
+        className={cn(
+          "mt-1.5 size-2.5 shrink-0 rounded-full border-2 border-foreground",
+          meta.dot
+        )}
         aria-hidden="true"
       />
       <div className="min-w-0 flex-1">
@@ -78,25 +83,35 @@ function SourceRow({ source }: { source: SourceHealth }) {
                 href={source.url}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex items-center gap-1 text-sm font-medium underline-offset-4 hover:underline"
+                className="inline-flex items-center gap-1 font-heading text-sm font-extrabold underline-offset-4 hover:underline"
               >
                 {source.name}
-                <ExternalLink className="size-3 text-muted-foreground" aria-hidden="true" />
+                <ExternalLink
+                  className="size-3 text-foreground/45"
+                  aria-hidden="true"
+                />
               </a>
             ) : (
-              <span className="text-sm font-medium">{source.name}</span>
+              <span className="font-heading text-sm font-extrabold">
+                {source.name}
+              </span>
             )}
           </div>
-          <span className={cn("text-[10px] font-medium uppercase tracking-[0.1em]", meta.text)}>
+          <span
+            className={cn(
+              "rounded border-2 border-foreground px-1.5 py-0.5 text-[8px] font-bold uppercase tracking-[0.08em] shadow-[1px_1px_0_var(--ink-shadow)]",
+              meta.badge
+            )}
+          >
             {meta.label}
           </span>
         </div>
 
-        <p className="mt-0.5 text-xs text-muted-foreground">
+        <p className="mt-1 text-xs leading-relaxed font-medium text-muted-foreground">
           {source.message || "No status message."}
         </p>
 
-        <div className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-[10px] text-muted-foreground/80">
+        <div className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-[9px] font-bold uppercase tracking-[0.03em] text-muted-foreground/80">
           <span>
             {source.events} active
             {typeof source.rows === "number" ? ` · ${source.rows} scanned` : ""}
@@ -129,17 +144,19 @@ function ReviewRow({
   sourceName: string
 }) {
   return (
-    <div className="rounded-xl border border-amber-300/60 bg-amber-50/60 p-3 dark:border-amber-400/20 dark:bg-amber-400/[0.06]">
+    <div className="rounded-xl border-2 border-foreground bg-card p-3 shadow-[2px_2px_0_var(--ink-shadow)]">
       <div className="flex flex-wrap items-center gap-1.5">
-        <Badge variant="outline" className="border-amber-300/60 bg-background/60 text-[10px] text-amber-900 dark:border-amber-400/20 dark:text-amber-200">
+        <Badge variant="outline" className="gap-1 bg-hot text-ink">
           {sourceName}
         </Badge>
-        <span className="text-[10px] text-muted-foreground">
+        <span className="text-[9px] font-bold uppercase tracking-[0.04em] text-muted-foreground/80">
           Detected {relativeTime(item.detectedAt)}
         </span>
       </div>
-      <p className="mt-1.5 text-sm font-medium leading-snug">{item.eventName}</p>
-      <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
+      <p className="mt-2 font-heading text-sm leading-tight font-extrabold">
+        {item.eventName}
+      </p>
+      <p className="mt-1 text-xs leading-relaxed font-medium text-muted-foreground">
         {item.reason}
       </p>
       {item.url ? (
@@ -147,7 +164,7 @@ function ReviewRow({
           href={item.url}
           target="_blank"
           rel="noreferrer"
-          className="mt-2 inline-flex items-center gap-1 text-[11px] font-medium text-foreground underline-offset-4 hover:underline"
+          className="mt-2 inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-[0.04em] underline decoration-2 underline-offset-4 hover:text-primary"
         >
           Open page
           <ExternalLink className="size-3" aria-hidden="true" />
@@ -185,7 +202,9 @@ export function StatusDialog({
       <DialogContent className="flex max-h-[85vh] w-full max-w-2xl flex-col gap-0 overflow-hidden p-0">
         <div className="px-5 pt-5 pr-12 pb-3">
           <DialogHeader>
-            <DialogTitle className="text-base">Radar status</DialogTitle>
+            <DialogTitle className="font-heading text-2xl font-extrabold uppercase tracking-[-0.03em]">
+              Radar status
+            </DialogTitle>
             <DialogDescription>
               Source health, parser review, and events that have left the radar.
             </DialogDescription>
@@ -207,7 +226,7 @@ export function StatusDialog({
                 <AlertTriangle aria-hidden="true" />
                 Review
                 {reviewItems.length ? (
-                  <span className="rounded-full bg-amber-500/15 px-1.5 text-[10px] tabular-nums text-amber-800 dark:text-amber-200">
+                  <span className="rounded-sm border-2 border-foreground bg-sun px-1 text-[9px] font-bold tabular-nums text-ink">
                     {reviewItems.length}
                   </span>
                 ) : null}
@@ -216,7 +235,7 @@ export function StatusDialog({
                 <Archive aria-hidden="true" />
                 Archive
                 {archivedEvents.length ? (
-                  <span className="rounded-full bg-muted px-1.5 text-[10px] tabular-nums text-muted-foreground">
+                  <span className="rounded-sm border-2 border-foreground bg-card px-1 text-[9px] font-bold tabular-nums text-foreground">
                     {archivedEvents.length}
                   </span>
                 ) : null}
@@ -226,11 +245,11 @@ export function StatusDialog({
 
           <div className="min-h-0 flex-1 overflow-y-auto px-5 py-4">
             <TabsContent value="sources" className="mt-0">
-              <div className="mb-3 rounded-xl border border-border/70 bg-muted/30 p-3">
-                <p className="flex items-center gap-2 text-sm font-medium">
+              <div className="mb-3 rounded-xl border-2 border-foreground bg-sun p-3 text-ink shadow-brutal-sm">
+                <p className="flex items-center gap-2 font-heading text-sm font-extrabold uppercase tracking-[0.02em]">
                   <span
                     className={cn(
-                      "size-2 rounded-full",
+                      "size-2.5 rounded-full border-2 border-ink",
                       failedWithEvents.length
                         ? "bg-rose-500"
                         : failed.length
@@ -241,7 +260,7 @@ export function StatusDialog({
                   />
                   {healthy}/{sources.length} sources healthy
                 </p>
-                <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
+                <p className="mt-1 text-xs leading-relaxed font-medium text-ink/70">
                   {failed.length
                     ? failedWithEvents.length
                       ? `${failedWithEvents.length} source${
@@ -262,7 +281,7 @@ export function StatusDialog({
             </TabsContent>
 
             <TabsContent value="review" className="mt-0">
-              <p className="mb-3 text-xs leading-relaxed text-muted-foreground">
+              <p className="mb-3 text-xs leading-relaxed font-medium text-muted-foreground">
                 Pages the parsers could not read. Nothing is guessed here — the
                 event stays out until the source or parser is fixed.
               </p>
@@ -289,12 +308,12 @@ export function StatusDialog({
             </TabsContent>
 
             <TabsContent value="past" className="mt-0">
-              <p className="mb-3 text-xs leading-relaxed text-muted-foreground">
+              <p className="mb-3 text-xs leading-relaxed font-medium text-muted-foreground">
                 Past, closed, and delisted events stay here for a year, so you
                 can still find a page you meant to open.
               </p>
               {archivedEvents.length ? (
-                <div className="flex flex-col gap-1.5">
+                <div className="flex flex-col gap-2">
                   {archivedEvents.map((event) => (
                     <button
                       key={event.id}
@@ -303,13 +322,13 @@ export function StatusDialog({
                         onSelect(event)
                         onOpenChange(false)
                       }}
-                      className="flex w-full items-start gap-3 rounded-lg border border-border/60 bg-card px-3 py-2.5 text-left transition-colors hover:bg-muted/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                      className="flex w-full items-start gap-3 rounded-lg border-2 border-foreground bg-card px-3 py-2.5 text-left shadow-[2px_2px_0_var(--ink-shadow)] transition-[transform,box-shadow,background-color] hover:-translate-y-0.5 hover:bg-secondary hover:shadow-brutal-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
                     >
-                      <span className="w-12 shrink-0 pt-0.5 text-[10px] font-medium uppercase tracking-wide text-muted-foreground">
+                      <span className="w-14 shrink-0 pt-0.5 font-heading text-[10px] font-extrabold uppercase tracking-[0.04em] text-muted-foreground">
                         {formatDateShort(event.start)}
                       </span>
                       <span className="min-w-0 flex-1">
-                        <span className="line-clamp-1 text-xs font-medium">
+                        <span className="line-clamp-1 text-xs font-bold">
                           {event.name}
                         </span>
                         <span className="mt-1 flex flex-wrap items-center gap-1.5">
@@ -322,7 +341,7 @@ export function StatusDialog({
                                   : "archived"
                             }
                           />
-                          <span className="text-[10px] text-muted-foreground">
+                          <span className="text-[9px] font-bold uppercase tracking-[0.03em] text-muted-foreground/80">
                             {event.archiveNote || "Past event"}
                           </span>
                         </span>

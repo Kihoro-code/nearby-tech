@@ -24,12 +24,11 @@ import { ModeBadge, NewBadge, TypeBadge } from "./event-badges"
 type ChipTone = "default" | "free" | "prize" | "soon" | "closed"
 
 const CHIP_TONES: Record<ChipTone, string> = {
-  default: "border-border/60 bg-muted/40 text-muted-foreground",
-  free: "border-emerald-300/60 bg-emerald-50 text-emerald-800 dark:border-emerald-400/20 dark:bg-emerald-400/10 dark:text-emerald-300",
-  prize:
-    "border-amber-300/60 bg-amber-50 text-amber-900 dark:border-amber-400/20 dark:bg-amber-400/10 dark:text-amber-200",
-  soon: "border-rose-300/60 bg-rose-50 text-rose-700 dark:border-rose-400/20 dark:bg-rose-400/10 dark:text-rose-300",
-  closed: "border-border/60 bg-muted/40 text-muted-foreground",
+  default: "bg-card text-foreground",
+  free: "bg-mint text-ink",
+  prize: "bg-sun text-ink",
+  soon: "bg-hot text-ink",
+  closed: "bg-secondary text-muted-foreground",
 }
 
 function MetaChip({
@@ -44,7 +43,7 @@ function MetaChip({
   return (
     <span
       className={cn(
-        "inline-flex max-w-full items-center gap-1 rounded-md border px-1.5 py-0.5 text-[11px] font-medium",
+        "inline-flex max-w-full items-center gap-1 rounded-md border-[1.5px] border-foreground px-1.5 py-1 text-[9px] font-bold uppercase tracking-[0.02em] shadow-[1px_1px_0_var(--ink-shadow)]",
         CHIP_TONES[tone]
       )}
     >
@@ -84,18 +83,18 @@ export function EventCard({
       )} ${formatMonthShort(event.start)}`}
       onClick={() => onSelect(event)}
       onKeyDown={handleKeyDown}
-      className="group cursor-pointer gap-0 py-0 shadow-none transition-all duration-150 hover:-translate-y-0.5 hover:shadow-md hover:ring-primary/30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+      className="group cursor-pointer gap-0 border-2 border-foreground bg-card py-0 shadow-brutal transition-[transform,box-shadow] duration-150 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-brutal-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background active:translate-x-[1px] active:translate-y-[1px] active:shadow-brutal-sm"
     >
       <CardContent className="p-4">
         <div className="flex items-start gap-3.5">
-          <div className="flex w-12 shrink-0 flex-col items-center justify-center rounded-xl border border-border/70 bg-muted/40 py-2 sm:w-[3.25rem]">
-            <span className="text-[9px] font-medium uppercase tracking-[0.12em] text-muted-foreground">
+          <div className="flex w-14 shrink-0 flex-col items-center justify-center rounded-lg border-2 border-foreground bg-sun py-2 text-ink shadow-brutal-sm">
+            <span className="text-[8px] font-bold uppercase tracking-[0.12em] text-ink/65">
               {ongoing ? "until" : formatWeekday(cardDate)}
             </span>
-            <span className="mt-0.5 text-xl font-semibold leading-none tracking-tight">
+            <span className="mt-0.5 font-heading text-2xl leading-none font-extrabold tracking-[-0.05em]">
               {formatDay(cardDate)}
             </span>
-            <span className="mt-1 text-[10px] font-medium uppercase tracking-[0.12em] text-muted-foreground">
+            <span className="mt-1 text-[9px] font-bold uppercase tracking-[0.14em] text-ink/70">
               {formatMonthShort(cardDate)}
             </span>
           </div>
@@ -107,15 +106,15 @@ export function EventCard({
               <ModeBadge mode={event.mode} className="sm:ml-auto" />
             </div>
 
-            <h3 className="mt-2 line-clamp-2 text-[0.95rem] font-semibold leading-snug tracking-[-0.01em] text-foreground transition-colors group-hover:text-primary">
+            <h3 className="mt-3 line-clamp-2 font-heading text-[1.05rem] leading-[1.1] font-bold tracking-[-0.02em] text-foreground decoration-2 underline-offset-4 group-hover:underline">
               {event.name}
             </h3>
 
-            <p className="mt-1 line-clamp-1 text-xs text-muted-foreground">
+            <p className="mt-1.5 line-clamp-1 text-[10px] font-bold uppercase tracking-[0.04em] text-muted-foreground">
               {[event.host, event.city].filter(Boolean).join(" · ")}
             </p>
 
-            <div className="mt-2.5 flex flex-wrap items-center gap-1.5">
+            <div className="mt-3 flex flex-wrap items-center gap-1.5">
               {event.deadline ? (
                 <MetaChip
                   icon={CalendarClock}
@@ -154,17 +153,16 @@ export function EventCard({
             </div>
 
             {event.travelNote ? (
-              <p className="mt-2 flex items-start gap-1 text-[11px] leading-snug text-muted-foreground">
+              <p className="mt-2.5 flex items-start gap-1.5 border-l-2 border-foreground/25 pl-2 text-[10px] leading-snug font-medium text-muted-foreground">
                 <Info className="mt-px size-3 shrink-0" aria-hidden="true" />
                 <span className="line-clamp-2">{event.travelNote}</span>
               </p>
             ) : null}
           </div>
 
-          <ArrowUpRight
-            className="mt-1 size-4 shrink-0 text-muted-foreground/50 transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-primary"
-            aria-hidden="true"
-          />
+          <span className="mt-0.5 grid size-8 shrink-0 place-items-center rounded-md border-2 border-foreground bg-card shadow-brutal-sm transition-[transform,background-color,color] group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:bg-primary group-hover:text-primary-foreground">
+            <ArrowUpRight className="size-4" aria-hidden="true" />
+          </span>
         </div>
       </CardContent>
     </Card>

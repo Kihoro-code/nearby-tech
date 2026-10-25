@@ -39,39 +39,39 @@ export function LaneSection({
   return (
     <section
       aria-labelledby={`lane-${index}`}
-      className="scroll-mt-24 pt-8 first:pt-6 sm:pt-10"
+      className="scroll-mt-28 pt-10 first:pt-6 sm:pt-12"
     >
-      <div className="mb-4 flex items-start justify-between gap-4 border-b border-border/60 pb-3">
+      <div className="mb-5 flex items-start justify-between gap-4 border-b-[3px] border-foreground pb-3">
         <div className="flex min-w-0 items-start gap-3">
-          <span className="mt-1 font-mono text-[11px] text-muted-foreground/70">
+          <span
+            className={`mt-0.5 grid size-10 shrink-0 place-items-center rounded-lg border-2 border-foreground font-heading text-xs font-extrabold text-ink shadow-brutal-sm ${accentClass}`}
+            aria-hidden="true"
+          >
             {index}
           </span>
           <div className="min-w-0">
-            <div className="flex items-center gap-2">
-              <span
-                className={`size-1.5 shrink-0 rounded-full ${accentClass}`}
-                aria-hidden="true"
-              />
-              <h2
-                id={`lane-${index}`}
-                className="text-xl font-semibold tracking-[-0.025em] sm:text-2xl"
-              >
-                {title}
-              </h2>
-            </div>
-            <p className="mt-1 max-w-xl text-xs leading-relaxed text-muted-foreground sm:text-[13px]">
+            <h2
+              id={`lane-${index}`}
+              className="font-heading text-3xl leading-[0.9] font-extrabold uppercase tracking-[-0.04em] sm:text-4xl"
+            >
+              {title}
+            </h2>
+            <p className="mt-2 max-w-xl text-xs leading-relaxed font-medium text-muted-foreground sm:text-[13px]">
               {description}
             </p>
           </div>
         </div>
 
-        <Badge variant="secondary" className="mt-0.5 shrink-0 tabular-nums">
+        <Badge
+          variant="outline"
+          className="mt-0.5 h-9 min-w-9 shrink-0 justify-center rounded-lg border-2 bg-card px-2 font-heading text-base font-extrabold tabular-nums text-foreground"
+        >
           {events.length}
         </Badge>
       </div>
 
       {events.length === 0 ? (
-        <div className="rounded-xl border border-dashed border-border/80 bg-muted/20 px-4 py-6 text-sm text-muted-foreground">
+        <div className="rounded-xl border-2 border-dashed border-foreground bg-card/60 px-4 py-6 text-sm font-medium text-foreground/60 shadow-brutal-sm">
           {filtered
             ? "Nothing matches these filters here. Try clearing one."
             : emptyMessage}
@@ -79,18 +79,21 @@ export function LaneSection({
       ) : (
         <>
           {groups.map((group) => (
-            <div key={group.key} className="mb-6 last:mb-0">
-              <div className="mb-2.5 flex items-center gap-2.5">
-                <h3 className="text-[10px] font-semibold uppercase tracking-[0.16em] text-muted-foreground">
+            <div key={group.key} className="mb-7 last:mb-0">
+              <div className="mb-3 flex items-center gap-2.5">
+                <h3 className="font-heading text-[11px] font-extrabold uppercase tracking-[0.16em]">
                   {group.label}
                 </h3>
-                <span className="h-px flex-1 bg-border/50" aria-hidden="true" />
-                <span className="text-[10px] tabular-nums text-muted-foreground/70">
+                <span
+                  className="h-[2px] flex-1 bg-foreground/25"
+                  aria-hidden="true"
+                />
+                <span className="rounded border-2 border-foreground bg-card px-1.5 py-0.5 text-[9px] font-bold tabular-nums shadow-[1px_1px_0_var(--ink-shadow)]">
                   {group.events.length}
                 </span>
               </div>
 
-              <div className="grid gap-2.5 lg:grid-cols-2">
+              <div className="grid gap-3 lg:grid-cols-2">
                 {group.events.map((event) => (
                   <EventCard
                     key={event.id}
@@ -109,7 +112,7 @@ export function LaneSection({
               variant="outline"
               size="sm"
               onClick={() => setExpanded((value) => !value)}
-              className="mt-1 gap-1.5 text-xs"
+              className="mt-2 gap-1.5 text-[10px] font-bold uppercase tracking-[0.04em]"
             >
               {expanded ? (
                 <>

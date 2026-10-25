@@ -91,13 +91,17 @@ export default function App() {
           onOpenStatus={openStatus}
         />
 
-        <div id="radar" className="scroll-mt-24">
-          <div className="flex flex-wrap items-center justify-between gap-2 pt-6">
-            <p className="text-[11px] text-muted-foreground">
-              Hackathons and ideathons first, then meetups and workshops.
-              Grouped by month, across the next 90 days.
+        <div id="radar" className="scroll-mt-28">
+          <div className="flex flex-wrap items-center justify-between gap-2 pt-7">
+            <p className="flex items-start gap-2 text-[10px] font-bold uppercase leading-relaxed tracking-[0.08em] text-muted-foreground">
+              <span
+                className="mt-1 size-2 shrink-0 rounded-full border border-foreground bg-hot"
+                aria-hidden="true"
+              />
+              Hackathons and ideathons first, then meetups and workshops. Grouped
+              by month, across the next 90 days.
             </p>
-            <p className="text-[11px] text-muted-foreground/70">
+            <p className="rounded-md border-2 border-foreground bg-card px-2 py-1 text-[9px] font-bold uppercase tracking-[0.08em] shadow-brutal-sm">
               {filtered ? `${filteredEvents.length} matching` : "All lanes"}
             </p>
           </div>
@@ -111,7 +115,7 @@ export default function App() {
             onSelect={openEvent}
             filtered={filtered}
             emptyMessage="No local events in the next 90 days. The watchlist is still running."
-            accentClass="bg-emerald-500"
+            accentClass="bg-mint"
           />
 
           <LaneSection
@@ -123,7 +127,7 @@ export default function App() {
             onSelect={openEvent}
             filtered={filtered}
             emptyMessage="No Maharashtra hackathons in the window right now."
-            accentClass="bg-amber-500"
+            accentClass="bg-sun"
           />
 
           <LaneSection
@@ -136,7 +140,7 @@ export default function App() {
             filtered={filtered}
             limit={12}
             emptyMessage="Nothing online in the window right now."
-            accentClass="bg-sky-500"
+            accentClass="bg-sky"
           />
         </div>
       </main>
