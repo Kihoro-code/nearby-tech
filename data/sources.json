@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:53:54.940Z",
+  "generatedAt": "2026-10-25T02:58:59.451Z",
   "sources": [
     {
       "id": "devfolio",
@@ -7,8 +7,8 @@
       "url": "https://devfolio.co",
       "status": "ok",
       "events": 3,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "3 upcoming events.",
       "rows": 21
     },
@@ -18,8 +18,8 @@
       "url": "https://unstop.com",
       "status": "ok",
       "events": 77,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "77 upcoming events.",
       "rows": 177
     },
@@ -29,8 +29,8 @@
       "url": "https://gdg.community.dev/gdg-nashik/",
       "status": "ok",
       "events": 1,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "1 upcoming event.",
       "rows": 5
     },
@@ -40,8 +40,8 @@
       "url": "https://www.meetup.com/wordpress-meetup-nashik/",
       "status": "ok",
       "events": 2,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "2 upcoming events.",
       "rows": 10
     },
@@ -51,8 +51,8 @@
       "url": "https://nashik.cncg.in/",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "No upcoming events.",
       "rows": 1
     },
@@ -60,12 +60,11 @@
       "id": "kkwagh",
       "name": "K. K. Wagh (KKWIEER)",
       "url": "https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events",
-      "status": "ok",
+      "status": "error",
       "events": 0,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
       "lastSuccess": "2026-10-25T02:53:54.940Z",
-      "message": "No upcoming events.",
-      "rows": 44
+      "message": "Source failed: HTTP 403 for https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events"
     },
     {
       "id": "siem",
@@ -73,8 +72,8 @@
       "url": "https://siem.sandipfoundation.org/computer-engineering/events",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-10-25T02:53:54.940Z",
-      "lastSuccess": "2026-10-25T02:53:54.940Z",
+      "lastChecked": "2026-10-25T02:58:59.451Z",
+      "lastSuccess": "2026-10-25T02:58:59.451Z",
       "message": "No upcoming events.",
       "rows": 164
     }
