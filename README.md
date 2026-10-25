@@ -26,7 +26,7 @@ Only four event types are included: hackathons, ideathons, meetups, and
 workshops. Conferences, webinars, paid courses, recruitment drives, and
 unrelated college notices are filtered out.
 
-Events must fall inside the next 90 days. Explicitly closed events are hidden.
+Events must fall inside the next 90 days. Explicitly closed events leave the radar and move to the Archive.
 When a deadline is not published, the card says **not listed** rather than
 guessing. Paid events are included and labelled; the **Free only** filter hides
 them. Events are sorted hackathons → ideathons → meetups → workshops, then by

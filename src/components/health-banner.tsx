@@ -30,13 +30,12 @@ export function HealthBanner({
 
   if (!showSourceFailure && !reviewItems.length) return null
 
-  const shownFailures = impactful.length > 0 ? impactful : failed
   const hasFailure = showSourceFailure
   const title = hasFailure
     ? healthy === 0
       ? "All sources are down — showing the last saved radar"
-      : `${shownFailures.length} source${
-          shownFailures.length === 1 ? "" : "s"
+      : `${failed.length} source${
+          failed.length === 1 ? "" : "s"
         } down — last good data is still showing`
     : `${reviewItems.length} page${reviewItems.length === 1 ? "" : "s"} need a human look`
   const description = hasFailure
