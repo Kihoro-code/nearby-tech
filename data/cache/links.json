@@ -237,7 +237,7 @@
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-23T06:23:49.234Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/game-dev-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762887": {
     "ok": true,
@@ -567,43 +567,43 @@
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/hack-to-ween-2026-halloween-hackathon-indian-institute-of-technology-iit-jodhpur-1774353": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/next-horizon-2026-the-institution-of-engineers-and-scientists-1773842": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/reverse-coding-challenge-2026-infotechiezz-1662965": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/hackday-20-decodep-community-1773120": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-10-24T06:20:06.197Z"
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   },
   "https://unstop.com/hackathons/hacktopia-pune-2026-jspm-rajarshi-shahu-college-of-engineering-tathawade-pimpri-chinchwad-maharashtra-1774876": {
     "ok": true,
@@ -622,5 +622,11 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-10-25T02:53:59.568Z"
+  },
+  "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-25T06:38:33.781Z"
   }
 }
