@@ -93,7 +93,7 @@ export function SiteFooter({
               className="gap-1.5 text-xs text-muted-foreground"
             >
               <Archive className="size-3.5" aria-hidden="true" />
-              Past events
+              Archive
               <span className="tabular-nums">{archivedCount}</span>
             </Button>
           </div>

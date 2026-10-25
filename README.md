@@ -62,8 +62,8 @@ data.
 - **Duplicates are merged.** The same event from multiple sources becomes one
   card. Manual entries have the highest priority and are never overwritten by a
   source.
-- **Past and delisted events are archived** for up to one year. They are
-  available from the footer's **Source health** → **Past** tab.
+- **Past, closed, and delisted events are archived** for up to one year. They
+  are available from the footer's **Source health** → **Archive** tab.
 - **Manual events are validated** through the same normaliser. An invalid entry
   appears in **Review**, not on the radar.
 

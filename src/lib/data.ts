@@ -13,7 +13,10 @@ export const windowDays = eventsFile.windowDays
 export const allEvents = eventsFile.events
 export const activeEvents = allEvents.filter((event) => event.status === "active")
 export const archivedEvents = allEvents.filter(
-  (event) => event.status === "archived" || event.status === "delisted"
+  (event) =>
+    event.status === "archived" ||
+    event.status === "delisted" ||
+    event.status === "closed"
 )
 export const sources = sourcesFile.sources
 export const reviewItems = reviewFile.items

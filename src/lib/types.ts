@@ -4,7 +4,7 @@ export type EventMode = "in-person" | "online" | "hybrid"
 
 export type EventLane = "nashik" | "maharashtra" | "online"
 
-export type EventStatus = "active" | "archived" | "delisted" | "review"
+export type EventStatus = "active" | "archived" | "delisted" | "closed" | "review"
 
 export type CostType = "free" | "paid" | "unknown"
 

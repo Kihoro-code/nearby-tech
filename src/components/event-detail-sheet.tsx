@@ -147,7 +147,9 @@ export function EventDetailSheet({
                   Added by you
                 </Badge>
               ) : null}
-              {event.status === "archived" || event.status === "delisted" ? (
+              {event.status === "archived" ||
+              event.status === "delisted" ||
+              event.status === "closed" ? (
                 <ArchiveStatusBadge status={event.status} />
               ) : null}
             </div>

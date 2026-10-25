@@ -75,9 +75,11 @@ sources → normalise → merge/dedupe → link verify → data/*.json → Vite 
   meetups/workshops starting 07:00–23:00 IST.
 - **Dedupe by canonical URL and by normalised name + date + city.** Preserve the
   first-seen date and merge missing fields from lower-priority duplicates.
-- **Archive past/delisted events for up to one year.** They live in
-  `data/events.json` with `status: "archived"` or `"delisted"` and are shown
-  only in the footer status dialog.
+- **Archive past, closed, and delisted events for up to one year.** They live
+  in `data/events.json` with `status: "archived"`, `"closed"`, or `"delisted"`
+  and are shown only in the footer status dialog. A future event whose
+  registration deadline passed is `closed`, not delisted; an event that vanished
+  from a healthy source is `delisted`.
 
 ## Adding or fixing a source
 
@@ -119,7 +121,7 @@ sources → normalise → merge/dedupe → link verify → data/*.json → Vite 
   follows the OS.
 - Search, type filters, free-only, lane filters, “show all online”, and the
   detail sheet work with a keyboard and a touch viewport.
-- Footer status dialog: Sources, Review, and Past tabs.
+- Footer status dialog: Sources, Review, and Archive tabs.
 - DevFest Nashik is visible when it is within the window, with a resolving
   event link.
 - Force one source to fail (or run offline) and confirm the page still renders

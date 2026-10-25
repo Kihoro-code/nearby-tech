@@ -1,5 +1,6 @@
 import {
   Archive,
+  Ban,
   Code2,
   EyeOff,
   Globe,
@@ -121,25 +122,26 @@ export function ArchiveStatusBadge({
   status,
   className,
 }: {
-  status: "archived" | "delisted"
+  status: "archived" | "delisted" | "closed"
   className?: string
 }) {
   const archived = status === "archived"
-  const Icon = archived ? Archive : EyeOff
+  const closed = status === "closed"
+  const Icon = archived ? Archive : closed ? Ban : EyeOff
 
   return (
     <Badge
       variant="outline"
       className={cn(
-        "gap-1 px-2 py-0.5 text-muted-foreground",
-        archived
-          ? "border-border/70 bg-muted/50"
+        "gap-1 px-2 py-0.5",
+        archived || closed
+          ? "border-border/70 bg-muted/50 text-muted-foreground"
           : "border-amber-300/60 bg-amber-50 text-amber-900 dark:border-amber-400/20 dark:bg-amber-400/10 dark:text-amber-200",
         className
       )}
     >
       <Icon aria-hidden="true" />
-      {archived ? "Past" : "Delisted"}
+      {archived ? "Past" : closed ? "Closed" : "Delisted"}
     </Badge>
   )
 }

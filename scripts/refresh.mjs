@@ -326,7 +326,11 @@ async function main() {
   )
   const archived = []
   for (const event of existing) {
-    if (!["active", "archived", "delisted"].includes(event.status)) continue
+    if (
+      !["active", "archived", "delisted", "closed"].includes(event.status)
+    ) {
+      continue
+    }
     if (
       event.status === "active" &&
       eventKeys(event).some((key) => reviewKeys.has(key))
@@ -354,15 +358,37 @@ async function main() {
           // Already carried above; do not archive last-good data.
           continue
         }
+        const registrationClosed =
+          event.deadline && new Date(event.deadline) < now
         archived.push({
           ...event,
-          status: "delisted",
+          status: registrationClosed ? "closed" : "delisted",
           stale: false,
-          archiveNote: "No longer listed at the source",
+          archiveNote: registrationClosed
+            ? "Registration closed"
+            : "No longer listed at the source",
         })
       }
     } else if (new Date(event.start) >= archiveCutoff) {
-      archived.push(event)
+      if (event.status === "delisted" && eventIsPast(event, today)) {
+        archived.push({
+          ...event,
+          status: "archived",
+          archiveNote: "Past event",
+        })
+      } else if (
+        event.status === "delisted" &&
+        event.deadline &&
+        new Date(event.deadline) < now
+      ) {
+        archived.push({
+          ...event,
+          status: "closed",
+          archiveNote: "Registration closed",
+        })
+      } else {
+        archived.push(event)
+      }
     }
   }
 

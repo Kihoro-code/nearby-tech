@@ -214,7 +214,7 @@ export function StatusDialog({
               </TabsTrigger>
               <TabsTrigger value="past">
                 <Archive aria-hidden="true" />
-                Past
+                Archive
                 {archivedEvents.length ? (
                   <span className="rounded-full bg-muted px-1.5 text-[10px] tabular-nums text-muted-foreground">
                     {archivedEvents.length}
@@ -290,8 +290,8 @@ export function StatusDialog({
 
             <TabsContent value="past" className="mt-0">
               <p className="mb-3 text-xs leading-relaxed text-muted-foreground">
-                Past and delisted events stay here for a year, so you can still
-                find a page you meant to open.
+                Past, closed, and delisted events stay here for a year, so you
+                can still find a page you meant to open.
               </p>
               {archivedEvents.length ? (
                 <div className="flex flex-col gap-1.5">
@@ -315,7 +315,11 @@ export function StatusDialog({
                         <span className="mt-1 flex flex-wrap items-center gap-1.5">
                           <ArchiveStatusBadge
                             status={
-                              event.status === "delisted" ? "delisted" : "archived"
+                              event.status === "delisted"
+                                ? "delisted"
+                                : event.status === "closed"
+                                  ? "closed"
+                                  : "archived"
                             }
                           />
                           <span className="text-[10px] text-muted-foreground">
@@ -330,7 +334,7 @@ export function StatusDialog({
                 <EmptyState
                   icon={Archive}
                   title="Nothing in the archive yet"
-                  description="Events land here when they pass or disappear from their source. For now, the radar is all ahead of you."
+                  description="Events land here when they pass, close, or disappear from their source. For now, the radar is all ahead of you."
                 />
               )}
             </TabsContent>
