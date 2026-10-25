@@ -83,8 +83,12 @@ export const SOURCE_PRIORITY = {
   "gdg-nashik": 70,
   "wordpress-nashik": 65,
   "cncf-nashik": 65,
+  "allevents-nashik": 60,
+  "meetup-nashik": 65,
   kkwagh: 60,
   siem: 50,
+  "luma-mumbai": 75,
+  mlh: 55,
 }
 
 const TYPE_ORDER = { hackathon: 0, ideathon: 1, meetup: 2, workshop: 3 }

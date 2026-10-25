@@ -14,8 +14,12 @@ import { fetchUnstop } from "./sources/unstop.mjs"
 import { fetchGdgNashik } from "./sources/gdg-nashik.mjs"
 import { fetchWordpressNashik } from "./sources/wordpress-nashik.mjs"
 import { fetchCncfNashik } from "./sources/cncf-nashik.mjs"
+import { fetchAllEventsNashik } from "./sources/allevents-nashik.mjs"
+import { fetchMeetupNashik } from "./sources/meetup-nashik.mjs"
 import { fetchKkwagh } from "./sources/kkwagh.mjs"
 import { fetchSiem } from "./sources/siem.mjs"
+import { fetchLumaMumbai } from "./sources/luma-mumbai.mjs"
+import { fetchMlh } from "./sources/mlh.mjs"
 
 const DATA_DIR = "data"
 const WINDOW_DAYS = 90
@@ -31,8 +35,16 @@ const ADAPTERS = [
     run: fetchWordpressNashik,
   },
   { id: "cncf-nashik", name: "CNCF Nashik", run: fetchCncfNashik },
+  {
+    id: "allevents-nashik",
+    name: "AllEvents Nashik",
+    run: fetchAllEventsNashik,
+  },
+  { id: "meetup-nashik", name: "Meetup Nashik", run: fetchMeetupNashik },
   { id: "kkwagh", name: "K. K. Wagh (KKWIEER)", run: fetchKkwagh },
   { id: "siem", name: "SIEM / Sandip Foundation", run: fetchSiem },
+  { id: "luma-mumbai", name: "Luma Mumbai", run: fetchLumaMumbai },
+  { id: "mlh", name: "Major League Hacking", run: fetchMlh },
 ]
 
 function argValue(name) {

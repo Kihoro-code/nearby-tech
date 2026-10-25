@@ -5,7 +5,7 @@ Nashik, across Maharashtra, and online.
 
 **Live:** https://kihoro-code.github.io/nearby-tech/
 
-The site is static. A scheduled refresh reads seven event sources, normalises
+The site is static. A scheduled refresh reads eleven event sources, normalises
 and de-duplicates the results, verifies the links, and commits the JSON data.
 GitHub Pages then rebuilds the site from that data.
 
@@ -41,8 +41,12 @@ date, and grouped by month.
 | [GDG Nashik](https://gdg.community.dev/gdg-nashik/) | Chapter page data |
 | [WordPress Nashik](https://www.meetup.com/wordpress-meetup-nashik/) | Meetup iCalendar feed |
 | [CNCF Nashik](https://nashik.cncg.in/) | JSON-LD events |
+| [AllEvents Nashik](https://allevents.in/nashik/technology) | JSON-LD technology and workshop listings, filtered to Nashik tech events |
+| [Meetup Nashik](https://www.meetup.com/awsugnsk/) | iCalendar feeds for AWS UG Nashik and two AWS student groups |
 | [K. K. Wagh (KKWIEER)](https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events) | Events page cards |
 | [SIEM / Sandip Foundation](https://siem.sandipfoundation.org/computer-engineering/events) | Events table via the site's WordPress REST API |
+| [Luma Mumbai](https://lu.ma/mumbai) | JSON-LD city listing, filtered to Maharashtra hackathons and buildathons |
+| [Major League Hacking](https://www.mlh.com/events) | Season data, filtered to India/Maharashtra |
 
 Parsers are deterministic. There is no LLM in the data path. If a page changes
 shape, the parser reports a review item or a source error instead of inventing
@@ -208,7 +212,7 @@ src/
 ## Scope and limits
 
 - This is a personal tool, not a directory. It intentionally reads only the
-  seven sources above.
+  eleven sources above.
 - Parsers are polite, unauthenticated HTML/JSON readers. A source redesign can
   break one; the health banner and review queue exist for that reason.
 - “Nearby” is defined by the lane rules, not by live travel time.

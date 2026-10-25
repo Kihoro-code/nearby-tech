@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:38:25.674Z",
+  "generatedAt": "2026-10-25T15:51:18.306Z",
   "sources": [
     {
       "id": "devfolio",
@@ -7,8 +7,8 @@
       "url": "https://devfolio.co",
       "status": "ok",
       "events": 3,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "3 upcoming events.",
       "rows": 21
     },
@@ -18,10 +18,10 @@
       "url": "https://unstop.com",
       "status": "ok",
       "events": 79,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "79 upcoming events.",
-      "rows": 179
+      "rows": 180
     },
     {
       "id": "gdg-nashik",
@@ -29,20 +29,20 @@
       "url": "https://gdg.community.dev/gdg-nashik/",
       "status": "ok",
       "events": 1,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "1 upcoming event.",
-      "rows": 5
+      "rows": 4
     },
     {
       "id": "wordpress-nashik",
       "name": "WordPress Nashik",
       "url": "https://www.meetup.com/wordpress-meetup-nashik/",
       "status": "ok",
-      "events": 2,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
-      "message": "2 upcoming events.",
+      "events": 3,
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "3 upcoming events.",
       "rows": 10
     },
     {
@@ -51,20 +51,43 @@
       "url": "https://nashik.cncg.in/",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "No upcoming events.",
       "rows": 1
+    },
+    {
+      "id": "allevents-nashik",
+      "name": "AllEvents Nashik",
+      "url": "https://allevents.in/nashik/technology",
+      "status": "ok",
+      "events": 1,
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "1 upcoming event.",
+      "rows": 1
+    },
+    {
+      "id": "meetup-nashik",
+      "name": "Meetup Nashik",
+      "url": "https://www.meetup.com/awsugnsk/",
+      "status": "ok",
+      "events": 0,
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "No upcoming events.",
+      "rows": 0
     },
     {
       "id": "kkwagh",
       "name": "K. K. Wagh (KKWIEER)",
       "url": "https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events",
-      "status": "error",
+      "status": "ok",
       "events": 0,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T03:11:51.715Z",
-      "message": "Source failed: HTTP 403 for https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events"
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "No upcoming events.",
+      "rows": 44
     },
     {
       "id": "siem",
@@ -72,10 +95,32 @@
       "url": "https://siem.sandipfoundation.org/computer-engineering/events",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-10-25T06:38:25.674Z",
-      "lastSuccess": "2026-10-25T06:38:25.674Z",
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "No upcoming events.",
       "rows": 164
+    },
+    {
+      "id": "luma-mumbai",
+      "name": "Luma Mumbai",
+      "url": "https://lu.ma/mumbai",
+      "status": "ok",
+      "events": 2,
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "2 upcoming events.",
+      "rows": 2
+    },
+    {
+      "id": "mlh",
+      "name": "Major League Hacking",
+      "url": "https://www.mlh.com/events",
+      "status": "ok",
+      "events": 0,
+      "lastChecked": "2026-10-25T15:51:18.306Z",
+      "lastSuccess": "2026-10-25T15:51:18.306Z",
+      "message": "No upcoming events.",
+      "rows": 0
     }
   ]
 }
