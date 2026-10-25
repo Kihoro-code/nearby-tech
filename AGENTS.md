@@ -62,6 +62,8 @@ sources → normalise → merge/dedupe → link verify → data/*.json → Vite 
 - **Last-good data survives a broken source.** If an adapter throws, times out,
   or returns zero events when it previously had upcoming events, keep its
   existing active events, mark the source unhealthy, and surface the banner.
+  A failure with no active events stays in Source health but does not render the
+  top banner; there is no last-good data to protect.
 - **Review is not archive.** A link failure moves the event out of the active
   list into `data/review.json`; it must not be silently archived as delisted.
 - **Missing deadline means “not listed”.** Never invent or infer a deadline.

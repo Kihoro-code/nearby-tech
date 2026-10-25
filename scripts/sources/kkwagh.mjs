@@ -9,7 +9,14 @@ export const source = {
 }
 
 export async function fetchKkwagh() {
-  const html = await fetchText(source.url)
+  // Some college WAFs require browser-like headers.
+  const html = await fetchText(source.url, {
+    headers: {
+      "user-agent":
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      accept: "text/html,application/xhtml+xml",
+    },
+  })
   const cards = [
     ...html.matchAll(
       /<a\s+[^>]*href="([^"]*\/events\/[^"]+)"[^>]*>[\s\S]*?<span[^>]*class="[^"]*timing[^"]*"[^>]*>([\s\S]*?)<\/span>[\s\S]*?<span[^>]*class="[^"]*happening-title[^"]*"[^>]*>([\s\S]*?)<\/span>/gi

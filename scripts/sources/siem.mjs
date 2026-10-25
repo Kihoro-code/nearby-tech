@@ -1,6 +1,9 @@
-import { fetchText, stripHtml } from "../lib/http.mjs"
+import { fetchJson, stripHtml } from "../lib/http.mjs"
 import { parseDMY } from "../lib/date.mjs"
 import { inferType } from "../lib/normalize.mjs"
+
+const API =
+  "https://siem.sandipfoundation.org/wp-json/wp/v2/pages?slug=events&per_page=100&_fields=link,modified,content"
 
 export const source = {
   id: "siem",
@@ -9,7 +12,18 @@ export const source = {
 }
 
 export async function fetchSiem() {
-  const html = await fetchText(source.url)
+  // The public REST API is more reliable than the rendered page from CI.
+  const pages = await fetchJson(API)
+  const page = Array.isArray(pages)
+    ? pages.find((item) =>
+        String(item.link || "").includes("/computer-engineering/events/")
+      )
+    : null
+  if (!page) {
+    throw new Error("SIEM computer engineering events page not found")
+  }
+
+  const html = page.content?.rendered || ""
   const rows = [...html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)]
   const events = []
   const seen = new Set()
@@ -24,7 +38,13 @@ export async function fetchSiem() {
     const date = parseDMY(dateCell)
     if (!date || Number.isNaN(date.getTime())) continue
 
-    const name = cells.find((cell) => cell && cell !== dateCell)
+    const name = cells.find(
+      (cell) =>
+        cell &&
+        cell !== dateCell &&
+        !/^\d+\.$/.test(cell) &&
+        cell.toLowerCase() !== "view"
+    )
     if (!name) continue
 
     const link = row[1].match(/<a[^>]*href="([^"]+)"/i)?.[1]

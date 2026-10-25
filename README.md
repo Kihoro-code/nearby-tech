@@ -42,7 +42,7 @@ date, and grouped by month.
 | [WordPress Nashik](https://www.meetup.com/wordpress-meetup-nashik/) | Meetup iCalendar feed |
 | [CNCF Nashik](https://nashik.cncg.in/) | JSON-LD events |
 | [K. K. Wagh (KKWIEER)](https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events) | Events page cards |
-| [SIEM / Sandip Foundation](https://siem.sandipfoundation.org/computer-engineering/events) | Events table |
+| [SIEM / Sandip Foundation](https://siem.sandipfoundation.org/computer-engineering/events) | Events table via the site's WordPress REST API |
 
 Parsers are deterministic. There is no LLM in the data path. If a page changes
 shape, the parser reports a review item or a source error instead of inventing
@@ -52,7 +52,9 @@ data.
 
 - **Last-good data is kept.** If a source fails, or unexpectedly returns zero
   events when it used to have some, its previous events stay on the page and the
-  source health banner shows the failure.
+  source health banner shows the failure. A failed source with no active events
+  stays visible in Source health but does not put a banner above the radar;
+  there is no data to protect.
 - **Broken links go to review.** An event link is checked on every full refresh
   (with a 24-hour cache). If both the event page and its source page fail, the
   event is removed from the active list and put in the review queue instead of

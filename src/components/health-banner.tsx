@@ -21,18 +21,34 @@ export function HealthBanner({
   onOpenStatus: (tab: StatusTab) => void
 }) {
   const failed = sources.filter((source) => source.status === "error")
-  if (!failed.length && !reviewItems.length) return null
+  const healthy = sources.filter((source) => source.status === "ok").length
+  // A source with no active events has no last-good data to protect. Keep it
+  // visible in Source health, but don't put a banner above the radar for it.
+  const impactful = failed.filter((source) => source.events > 0)
+  const showSourceFailure =
+    impactful.length > 0 || (failed.length > 0 && healthy === 0)
 
-  const hasFailure = failed.length > 0
+  if (!showSourceFailure && !reviewItems.length) return null
+
+  const shownFailures = impactful.length > 0 ? impactful : failed
+  const hasFailure = showSourceFailure
   const title = hasFailure
-    ? `${failed.length} source${failed.length === 1 ? "" : "s"} down — last good data is still showing`
+    ? healthy === 0
+      ? "All sources are down — showing the last saved radar"
+      : `${shownFailures.length} source${
+          shownFailures.length === 1 ? "" : "s"
+        } down — last good data is still showing`
     : `${reviewItems.length} page${reviewItems.length === 1 ? "" : "s"} need a human look`
   const description = hasFailure
-    ? `The rest of the radar refreshed normally. ${
-        reviewItems.length
-          ? `${reviewItems.length} parser item${reviewItems.length === 1 ? "" : "s"} also need review.`
-          : ""
-      }`
+    ? healthy === 0
+      ? "No source responded on the last refresh. The page is using the last saved data."
+      : `The rest of the radar refreshed normally. ${
+          reviewItems.length
+            ? `${reviewItems.length} parser item${
+                reviewItems.length === 1 ? "" : "s"
+              } also need review.`
+            : ""
+        }`
     : "A source page changed in a way the parser did not understand. Nothing was guessed."
 
   return (
