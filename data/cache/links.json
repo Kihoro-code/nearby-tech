@@ -820,5 +820,41 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-10-30T07:39:16.828Z"
+  },
+  "https://unstop.com/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
+  },
+  "https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
+  },
+  "https://unstop.com/hackathons/hackday-trishulx-1784666": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
+  },
+  "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
+  },
+  "https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
+  },
+  "https://innerve-11.devfolio.co/": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-10-31T07:25:15.374Z"
   }
 }
