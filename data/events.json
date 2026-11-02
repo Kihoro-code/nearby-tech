@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:58:14.804Z",
+  "generatedAt": "2026-11-02T08:05:34.343Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,44 +95,11 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Wordpress Meetup Nashik Join us for the Nashik WordPress Meetup, in March 2024! Whether you're a WordPress enthusiast, a professional developer, a content creator, or just curious about WordPress, this meetup is the perfect opportunity to enhance your skills, share knowledge, and network with fellow WordPress users in Nashik."
-    },
-    {
-      "id": "allevents-nashik:7ec3b0fcf870",
-      "name": "Cyber Security Awareness for Everyone",
-      "type": "workshop",
-      "mode": "in-person",
-      "lane": "nashik",
-      "start": "2026-11-01T04:30:00.000Z",
-      "end": "2026-11-01T05:30:00.000Z",
-      "city": "Nashik",
-      "venue": "Cyber Sanskar: Nashik",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "unknown",
-      "costLabel": "Not listed",
-      "themes": [
-        "Technology"
-      ],
-      "url": "https://allevents.in/nashik/cyber-security-awareness-for-everyone/3900030852969005",
-      "sourceUrl": "https://allevents.in/nashik/technology",
-      "sources": [
-        "allevents-nashik"
-      ],
-      "sourceIds": [
-        "https://allevents.in/nashik/cyber-security-awareness-for-everyone/3900030852969005"
-      ],
-      "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Learn how to protect yourself and your family from online scams, digital fraud, fake links, UPI fraud, social media threats, and AI-powered cybercrimes. This interactive, beginner-friendly session is designed for everyone, even those without a technical background. Understand everyday cyber risks th",
-      "stale": true
     },
     {
       "id": "luma-mumbai:722e85cbcec0",
@@ -161,7 +128,7 @@
         "https://luma.com/Blitz-Mumbai-Devcon-2026"
       ],
       "firstSeen": "2026-10-25T15:48:34.849Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -198,9 +165,9 @@
         "1774876"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
-      "travelNote": "Round 1 online",
+      "travelNote": "Check if round 1 is online",
       "manual": false,
       "linkStatus": "ok",
       "description": "Hacktopia Pune – 24-Hour Hackathon Hacktopia Pune is a 24-hour hackathon organised by Gotham-AI , the AI and emerging-tech community at JSPM’s Rajarshi Shahu College of Engineering (RSCOE), Tathawade, Pune. It is held by the Department of Computer Science and Business Systems. Hacktopia Pune is open to students from all colleges and disciplines. Teams will build innovative solutions, receive guidance from mentors, and pitch their work to a panel of judges. Dates: 18–20 December 2026 Venue: JSPM’s RSCOE, Tathawade, Pune Prize Pool: ₹1,00,000+ (cash prizes, certificates and opportunities) Eligibility Open to all UG and PG students from any college. Open to all disciplines, including tech, bus…"
@@ -235,7 +202,7 @@
         "1768041"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -243,13 +210,13 @@
       "description": "Visit our Hackathon Website for Free Registrations Tracks T1: AI, Cybersecurity & Digital Trust T2: Smart Infrastructure & IOT T3: Sustainability, AgriTech & Social Impact Initial registration and Round 1 (Online) are 100% Free. Shortlisted teams advancing to Round 2 (Offline) will be required to pay a nominal offline event fee of ₹1200 per team. Eligibility Participants must be currently enrolled students (UG, PG, diploma or equivalent) at a recognised institution in India. Participants must be 18 or older on 18 Dec 2026, with a guardian-consent arrangement is approved by the organisers. Team size is 2 to 4 members. Solo entries are not accepted. Cross-college teams are allowed. A person m…"
     },
     {
-      "id": "unstop:62428610d590",
+      "id": "unstop:c9e383c6e6a8",
       "name": "Singularity 2.0",
       "type": "hackathon",
       "mode": "in-person",
       "lane": "maharashtra",
-      "start": "2026-12-20T06:30:00.000Z",
-      "end": "2026-12-20T06:30:00.000Z",
+      "start": "2027-01-17T06:30:00.000Z",
+      "end": "2027-01-17T06:30:00.000Z",
       "deadline": "2026-11-19T18:30:00.000Z",
       "city": "Thane",
       "venue": "K.C. College of Engineering & Management Studies & Research (Manpada Off-Campus), Excelssior Education Complex, Near Shri Satya Shankar Residency, Manpada, Thane West, Maharashtra 400610.",
@@ -271,7 +238,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -306,7 +273,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -342,7 +309,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -375,7 +342,7 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -409,7 +376,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -438,7 +405,7 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -470,7 +437,7 @@
         "1769404"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -502,7 +469,7 @@
         "1766739"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -533,7 +500,7 @@
         "1773842"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -564,7 +531,7 @@
         "1766381"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -596,42 +563,11 @@
         "1783260"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview: ELUCode is a fast-paced 2-hour competitive coding contest by EduLinkUp designed to challenge your problem-solving ability, algorithmic thinking, and coding speed. The contest brings together students and developers from across the community to compete on a set of carefully curated problems ranging from logical puzzles to algorithmic challenges. Participants will face multiple problems of varying difficulty levels, testing their understanding of data structures, algorithms, logic building, and efficient coding practices. Whether you are a beginner exploring competitive programming or an experienced coder looking to sharpen your skills, ELUCode provides a platform to learn, compete,…"
-    },
-    {
-      "id": "unstop:20b582e2a496",
-      "name": "DataOps Innovation Hackathon",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-07T18:29:00.000Z",
-      "end": "2026-11-07T18:29:00.000Z",
-      "deadline": "2026-11-01T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "HackTheCore",
-      "prize": "₹15,000 · ₹10,000",
-      "themes": [
-        "Cyber Security"
-      ],
-      "url": "https://unstop.com/hackathons/dataops-innovation-hackathon-hackthecore-1765313",
-      "sourceUrl": "https://unstop.com/hackathons/dataops-innovation-hackathon-hackthecore-1765313",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1765313"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "DataOps Innovation Hackathon 2026 Build. Innovate. Secure. The DataOps Innovation Hackathon 2026 , organized by Hack The Core , is a virtual cybersecurity hackathon bringing together developers, cybersecurity enthusiasts, students, and technology innovators to build practical solutions for real-world security challenges. This hackathon is an opportunity to explore how Artificial Intelligence, automation, security tooling, and intelligent data analysis can come together to transform the way cybersecurity assessments are performed. Participants will be challenged to design and develop innovative solutions that can reason through complex security workflows, analyze information from multiple st…"
     },
     {
       "id": "unstop:b543a5791d30",
@@ -658,7 +594,7 @@
         "1776294"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -688,7 +624,7 @@
         "1770422"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -719,7 +655,7 @@
         "1774573"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -750,7 +686,7 @@
         "1786387"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -781,7 +717,7 @@
         "1778754"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -812,7 +748,7 @@
         "1762854"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -843,7 +779,7 @@
         "1776892"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -875,7 +811,7 @@
         "1760074"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -906,43 +842,11 @@
         "1782942"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "CodeHive Community Duel Night ️ Coding doesn't have to be a solo activity. Join us for the CodeHive Community Duel Night — a free online event where developers come together to challenge each other in real-time 1v1 coding duels. Pick your language, face off against another coder, and solve problems under pressure. Whether you're looking to sharpen your problem-solving skills, test yourself against other developers, or simply experience a different way to practise coding, this is your chance to get involved. What to expect: ️ Live 1v1 coding duels — challenge another developer and solve coding problems head-to-head. Real-time coding — compete directly on CodeHive. Meet fellow developers — co…"
-    },
-    {
-      "id": "unstop:451f09f7c52d",
-      "name": "Pokerbots",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-12T18:29:00.000Z",
-      "end": "2026-11-12T18:29:00.000Z",
-      "deadline": "2026-11-12T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "International Institute of Information Technology (IIIT), Bangalore",
-      "prize": "₹20,000 · ₹14,000",
-      "themes": [
-        "Quizzes & Treasure Hunt",
-        "Online Gaming & Esports"
-      ],
-      "url": "https://unstop.com/hackathons/pokerbots-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762863",
-      "sourceUrl": "https://unstop.com/hackathons/pokerbots-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762863",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1762863"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "About the Event: Test your algorithmic trading and game theory skills in Pokerbots, a high-stakes algorithmic bot competition! Teams must code an autonomous Python bot to compete in a custom poker variant designed with modified Texas Hold’em mechanics to prevent the use of public repositories. Technical & Runtime Constraints: Environment: Python 3.11. Allowed Libraries: Standard Python libraries, NumPy , and SciPy only (no pip installations allowed at runtime) . Compute Limits: 1 vCPU, 1 GB RAM, read-only filesystem, and zero network access . Time Bank: Cumulative time bank per match (~60 seconds for 400 hands) with a hard wall-clock kill. Crashes or exhausted time banks result in match for…"
     },
     {
       "id": "unstop:878affc0e23a",
@@ -970,7 +874,7 @@
         "1762783"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1002,7 +906,7 @@
         "1775867"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1033,44 +937,11 @@
         "1771084"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview The Last Daemon — Capture The Flag (CTF) by Beunwrapd Join the Official WhatsApp Community: https://chat.whatsapp.com/EpDiRs3oQ1t6riNwVgGJqF About the Competition The digital world is full of secrets, vulnerabilities, and hidden information. Are you ready to uncover them? The Last Daemon is a cybersecurity Capture The Flag (CTF) competition organized by Beunwrapd , designed to challenge aspiring ethical hackers, cybersecurity enthusiasts, and students through hands-on security problems. Participants will test their technical knowledge, analytical thinking, investigative abilities, and problem-solving skills across multiple cybersecurity domains. From decoding cryptographic messages…"
-    },
-    {
-      "id": "unstop:cca459f1a5a5",
-      "name": "CodeNexus India 2026 - National Hackathon",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-13T04:30:00.000Z",
-      "end": "2026-11-13T04:30:00.000Z",
-      "deadline": "2026-11-01T20:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "WeCodeCoders",
-      "prize": "2nd Rank",
-      "themes": [
-        "Agentic AI Engineer",
-        "Full Stack Development",
-        "Software Development"
-      ],
-      "url": "https://unstop.com/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
-      "sourceUrl": "https://unstop.com/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1764747"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Join the official group for information and updates: https://chat.whatsapp.com/CsDMP8heNb52q7aXgIQlS9?mode=gi_t About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Dates: 2nd November 10am - 13th November 10am 2026 Mode: Completely online Team size: 1–4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering and Open Innovation…"
     },
     {
       "id": "unstop:b8fc0b240188",
@@ -1098,7 +969,7 @@
         "1762305"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1128,7 +999,7 @@
         "1785430"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1158,7 +1029,7 @@
         "1783838"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1188,7 +1059,7 @@
         "1751032"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1219,7 +1090,7 @@
         "1784666"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1250,7 +1121,7 @@
         "1766434"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1281,7 +1152,7 @@
         "1771798"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1312,7 +1183,7 @@
         "1774071"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1344,7 +1215,7 @@
         "1766232"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1374,7 +1245,7 @@
         "1745979"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1406,11 +1277,43 @@
         "1784554"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "One Who Codes 2026 — Online Portfolio Challenge You already built it. Now show the internet you're one who codes. One Who Codes 2026 is an online portfolio challenge for developers who bring their personality, creativity, and craftsmanship to the web. Put your best portfolio on a free ONEWHO address, submit your application link through Unstop, and compete for a total prize pool of ₹30,000. ONEWHO connects a memorable address, such as yourname.isonewho.codes, to the portfolio you have already deployed. Your website stays on its existing hosting platform. Prizes First Place: ₹15,000 Second Place: ₹10,000 Third Place: ₹5,000 Every participant with a valid entry receives a certificate of parti…"
+    },
+    {
+      "id": "unstop:9ef331927b09",
+      "name": "Pokerbots",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-15T18:29:00.000Z",
+      "end": "2026-11-15T18:29:00.000Z",
+      "deadline": "2026-11-12T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "International Institute of Information Technology (IIIT), Bangalore",
+      "prize": "₹20,000 · ₹14,000",
+      "themes": [
+        "Quizzes & Treasure Hunt",
+        "Online Gaming & Esports"
+      ],
+      "url": "https://unstop.com/hackathons/pokerbots-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762863",
+      "sourceUrl": "https://unstop.com/hackathons/pokerbots-synergy-26-international-institute-of-information-technology-iiit-bangalore-1762863",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1762863"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Event: Test your algorithmic trading and game theory skills in Pokerbots, a high-stakes algorithmic bot competition! Teams must code an autonomous Python bot to compete in a custom poker variant designed with modified Texas Hold’em mechanics to prevent the use of public repositories. Technical & Runtime Constraints: Environment: Python 3.11. Allowed Libraries: Standard Python libraries, NumPy , and SciPy only (no pip installations allowed at runtime) . Compute Limits: 1 vCPU, 1 GB RAM, read-only filesystem, and zero network access . Time Bank: Cumulative time bank per match (~60 seconds for 400 hands) with a hard wall-clock kill. Crashes or exhausted time banks result in match for…"
     },
     {
       "id": "unstop:242bece8c718",
@@ -1438,7 +1341,7 @@
         "1767181"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1470,11 +1373,42 @@
         "1768758"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Join the official WhatsApp group for info: https://chat.whatsapp.com/HYtqAB2iPE097InzwV2aMI Benefits and Opportunities Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Top 3 teams: Incubation and product-development opportunities Top 3 teams: Letters of Recommendation Every eligible participant: One complimentary .xyz domain Every eligible participant: $100 in Inkloom AI credits Every eligible participant: $500 in Adaption platform credits Every eligible participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Hackathon Date: 5 Nov — 16 Nov 2026 No.of Rounds: 3 Mode: Completely online Team size: 1–4 members Registration…"
+    },
+    {
+      "id": "unstop:e231d9a2d668",
+      "name": "Project Last Mile: Analytics Case Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-16T16:22:00.000Z",
+      "end": "2026-11-16T16:22:00.000Z",
+      "deadline": "2026-11-14T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Xavier School of Management (XLRI)",
+      "prize": "₹7,000 · ₹5,000",
+      "themes": [
+        "Data Science"
+      ],
+      "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "sourceUrl": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1789982"
+      ],
+      "firstSeen": "2026-11-02T08:05:34.343Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Competition Project LastMile is an analytics and machine learning challenge designed to test participants' ability to analyse data, identify key drivers, develop predictive models, and derive actionable business insights. Participants will work with a provided dataset to build prediction models and compete based on their model performance on a hidden evaluation dataset. Competition Structure Round 1: Online Prediction Challenge Participants will develop predictive models using the provided training dataset. Predictions must be submitted in the prescribed CSV format. Evaluation metric: ROC-AUC. The competition will be hosted on Kaggle. Top 8 teams will qualify for the next round. R…"
     },
     {
       "id": "unstop:86517ea52b15",
@@ -1504,7 +1438,7 @@
         "1766190"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1535,7 +1469,7 @@
         "1772846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1567,7 +1501,7 @@
         "1767661"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1598,7 +1532,7 @@
         "1785416"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1631,7 +1565,7 @@
         "1775217"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1665,7 +1599,7 @@
         "1783775"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1697,7 +1631,7 @@
         "1780048"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1728,7 +1662,7 @@
         "1770609"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1760,7 +1694,7 @@
         "1764453"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1792,7 +1726,7 @@
         "1769646"
       ],
       "firstSeen": "2026-10-23T06:23:37.840Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1826,7 +1760,7 @@
         "1783835"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1858,7 +1792,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1889,7 +1823,7 @@
         "1756262"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1921,7 +1855,7 @@
         "1773229"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1952,7 +1886,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1983,7 +1917,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2015,7 +1949,7 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2046,7 +1980,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2079,7 +2013,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2110,7 +2044,7 @@
         "1769121"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2139,7 +2073,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2171,7 +2105,7 @@
         "1774417"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2203,7 +2137,7 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2239,7 +2173,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2274,7 +2208,7 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2305,7 +2239,7 @@
         "1778597"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2337,7 +2271,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2368,7 +2302,7 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2399,11 +2333,43 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Get ready for SPC '27, IIT Madras’s premier competitive programming showdown with a prize pool worth Rs.1,30,000! Test your algorithmic skills, solve complex coding puzzles, and compete against top minds to take home the Code Champion title. Step into the arena, prove your technical finesse, and claim your victory. Are you up for the challenge? The event will consist of 2 rounds : Online prelims will be conducted as a rated contest on Codechef Criteria for Finals: As the event is division based, we will consider the problems common for all divisions as the selection criteria for Finals. This includes Last n problems present in the problem page visible for Div 2,3,4 participants and All n pr…"
+    },
+    {
+      "id": "unstop:fdd8b01f74a9",
+      "name": "The Arcticathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-30T18:30:00.000Z",
+      "end": "2027-01-30T18:30:00.000Z",
+      "deadline": "2027-01-30T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Bidaya",
+      "prize": "$1,00,000",
+      "themes": [
+        "Web Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/the-arcticathon-bidaya-1759619",
+      "sourceUrl": "https://unstop.com/hackathons/the-arcticathon-bidaya-1759619",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1759619"
+      ],
+      "firstSeen": "2026-11-02T08:05:34.343Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Welcome to The Arcticathon by Bidaya! A solo online hackathon where you’ll take an idea from a blank screen to a working, deployed website all on your own. About The Arcticathon: The Arcticathon is a student-focused online hackathon by Bidaya , built around the theme of the Arctic . You can create almost anything that runs in a browser: a web app, interactive experience, game, tool, or something completely different. Your project should connect meaningfully to the Arctic theme and showcase your creativity, technical skills, and problem-solving. This is a solo-only hackathon. You’ll be the designer, developer, and project manager of your own project. &zwj; What You Need to Build: Requirement…"
     },
     {
       "id": "unstop:bb71c8fc2032",
@@ -2430,7 +2396,7 @@
         "1772904"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2879,6 +2845,41 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:cca459f1a5a5",
+      "name": "CodeNexus India 2026 - National Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-13T04:30:00.000Z",
+      "end": "2026-11-13T04:30:00.000Z",
+      "deadline": "2026-11-01T20:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "WeCodeCoders",
+      "prize": "2nd Rank",
+      "themes": [
+        "Agentic AI Engineer",
+        "Full Stack Development",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
+      "sourceUrl": "https://unstop.com/hackathons/codenexus-india-2026-national-hackathon-wecodecoders-1764747",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1764747"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Join the official group for information and updates: https://chat.whatsapp.com/CsDMP8heNb52q7aXgIQlS9?mode=gi_t About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Dates: 2nd November 10am - 13th November 10am 2026 Mode: Completely online Team size: 1–4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering and Open Innovation…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
       "id": "unstop:3e94ed6014c4",
       "name": "CodeVerse India - National Level Hackathon",
       "type": "hackathon",
@@ -2978,6 +2979,39 @@
       "manual": false,
       "linkStatus": "ok",
       "description": "Join the group for updates: https://chat.whatsapp.com/EvW0hCKaLjQJOvU5x7IzDQ About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Mode: Completely online Team size: 1–4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering and Open Innovation A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:20b582e2a496",
+      "name": "DataOps Innovation Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-07T18:29:00.000Z",
+      "end": "2026-11-07T18:29:00.000Z",
+      "deadline": "2026-11-01T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "HackTheCore",
+      "prize": "₹15,000 · ₹10,000",
+      "themes": [
+        "Cyber Security"
+      ],
+      "url": "https://unstop.com/hackathons/dataops-innovation-hackathon-hackthecore-1765313",
+      "sourceUrl": "https://unstop.com/hackathons/dataops-innovation-hackathon-hackthecore-1765313",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1765313"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "DataOps Innovation Hackathon 2026 Build. Innovate. Secure. The DataOps Innovation Hackathon 2026 , organized by Hack The Core , is a virtual cybersecurity hackathon bringing together developers, cybersecurity enthusiasts, students, and technology innovators to build practical solutions for real-world security challenges. This hackathon is an opportunity to explore how Artificial Intelligence, automation, security tooling, and intelligent data analysis can come together to transform the way cybersecurity assessments are performed. Participants will be challenged to design and develop innovative solutions that can reason through complex security workflows, analyze information from multiple st…",
       "stale": false,
       "archiveNote": "Registration closed"
     },
@@ -3469,6 +3503,40 @@
       "description": "Welcome to D3COY: Outsmart the Obvious! D3COY is a 24-hour national-level innovation hackathon organized by the DJSISACA Student Chapter at DJSCE. This event brings together developers, designers, problem-solvers, and tech enthusiasts to tackle real-world challenges in security, privacy, and digital trust.The hackathon challenges participants to strip away the safety nets, think beyond conventional solutions, and develop resilient, technically sound products within a high-intensity 24-hour adversarial environment. Registration Fee: ₹200 per team. (Note: This entry fee applies only to the Round 0 selection phase. Teams that are shortlisted will not have to pay any additional fees for the mai…",
       "stale": false,
       "archiveNote": "Registration closed"
+    },
+    {
+      "id": "allevents-nashik:7ec3b0fcf870",
+      "name": "Cyber Security Awareness for Everyone",
+      "type": "workshop",
+      "mode": "in-person",
+      "lane": "nashik",
+      "start": "2026-11-01T04:30:00.000Z",
+      "end": "2026-11-01T05:30:00.000Z",
+      "city": "Nashik",
+      "venue": "Cyber Sanskar: Nashik",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "unknown",
+      "costLabel": "Not listed",
+      "themes": [
+        "Technology"
+      ],
+      "url": "https://allevents.in/nashik/cyber-security-awareness-for-everyone/3900030852969005",
+      "sourceUrl": "https://allevents.in/nashik/technology",
+      "sources": [
+        "allevents-nashik"
+      ],
+      "sourceIds": [
+        "https://allevents.in/nashik/cyber-security-awareness-for-everyone/3900030852969005"
+      ],
+      "firstSeen": "2026-10-25T15:44:23.212Z",
+      "lastVerified": "2026-11-01T07:58:22.350Z",
+      "status": "archived",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Learn how to protect yourself and your family from online scams, digital fraud, fake links, UPI fraud, social media threats, and AI-powered cybercrimes. This interactive, beginner-friendly session is designed for everyone, even those without a technical background. Understand everyday cyber risks th",
+      "stale": false,
+      "archiveNote": "Past event"
     },
     {
       "id": "unstop:a0c4c729da20",
@@ -5071,12 +5139,12 @@
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
       "lastVerified": "2026-10-31T07:25:15.374Z",
-      "status": "delisted",
+      "status": "archived",
       "manual": false,
       "linkStatus": "ok",
       "description": "",
       "stale": false,
-      "archiveNote": "No longer listed at the source"
+      "archiveNote": "Past event"
     },
     {
       "id": "devfolio:cfc85b741447",
