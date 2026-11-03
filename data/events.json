@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:05:34.343Z",
+  "generatedAt": "2026-11-03T08:26:40.155Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,7 +95,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -128,12 +128,46 @@
         "https://luma.com/Blitz-Mumbai-Devcon-2026"
       ],
       "firstSeen": "2026-10-25T15:48:34.849Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
       "linkStatus": "ok",
       "description": "One Day. No Limits. Just Ship. Monad Blitz returns to Mumbai for a special Devcon Edition. From Shenzhen to San Francisco, Blitz has brought builders together to learn, team up, and ship real projects in a single day. Now, we’re bringing that energy to Mumbai for Devcon Week, with more room for ideas, connections, and everything that happens between commits. On Wednesday, 4 November 2026, join us for a full day of building on Monad, meeting fellow builders, and turning your ideas into working products. Bring your team. Find your flow. Ship something worth showing. THE VIBE A day built around hacking, learning, and meeting people across the ecosystem. Hack & Ship: Settle into the hacking are…"
+    },
+    {
+      "id": "luma-mumbai:b5e83dde5e5d",
+      "name": "[Pre-DevFest] The \"Touch Grass\" Buildathon",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-11-21T03:30:00.000Z",
+      "end": "2026-11-21T06:30:00.000Z",
+      "city": "Mumbai",
+      "venue": "Mumbai, India",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Devfest Mumbai",
+      "themes": [
+        "Hackathon"
+      ],
+      "url": "https://luma.com/rofymmm3",
+      "sourceUrl": "https://lu.ma/mumbai",
+      "sources": [
+        "luma-mumbai"
+      ],
+      "sourceIds": [
+        "https://luma.com/rofymmm3"
+      ],
+      "firstSeen": "2026-10-25T15:48:34.849Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
+      "status": "active",
+      "travelNote": "Check if round 1 is online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "We always joke about developers needing to go outside and touch grass. Well, we're finally making it mandatory. Join us for a 2 hour sprint to build and ship an MVP - happening entirely outdoors in a park. We are stripping away the ergonomic office chairs, the perfect dual-monitor setups, and the air conditioning. It’s just you, your laptop battery, and whatever you can manage to build before brunch. What to Expect Nature, unfiltered: We are literally building in a park. You will need a fully charged laptop, a mobile hotspot, and probably some sunscreen. Trees do not have power outlets, and if your laptop is one of those that dies in exactly 8 minutes, create a remote coding setup at your h…"
     },
     {
       "id": "unstop:660bdd6b3b9c",
@@ -165,7 +199,7 @@
         "1774876"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -202,7 +236,7 @@
         "1768041"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -238,7 +272,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -273,7 +307,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -309,7 +343,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -342,7 +376,7 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -376,7 +410,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -405,43 +439,11 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": ""
-    },
-    {
-      "id": "unstop:aafeb114cd56",
-      "name": "Neural Storm",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-04T14:30:00.000Z",
-      "end": "2026-11-04T14:30:00.000Z",
-      "deadline": "2026-11-02T14:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
-      "prize": "₹10,000 · ₹5,000",
-      "themes": [
-        "Machine Learning Engineering",
-        "AI Engineering"
-      ],
-      "url": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
-      "sourceUrl": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1769404"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Overview Neural Storm 2026 is an online AI/ML hackathon open to college students across India. Teams build real-world solutions using Python and AI/ML tools within one of three challenge tracks, submit a GitHub repository, and get evaluated by a panel of judges working in US based startups. Guidelines Eligibility Open to all currently enrolled college students across India Team size: 1 to 3 members. Solo participation is allowed. Inter-college teams are allowed Inter-specialization teams are allowed Only the team leader registers on behalf of the entire team Each participant can only be part of one team Format Online hackathon, 2 days long (November 2 to 4, 2026) 3 official challenge tracks…"
     },
     {
       "id": "unstop:b14ee0c40773",
@@ -469,7 +471,7 @@
         "1766739"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -500,7 +502,7 @@
         "1773842"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -531,7 +533,7 @@
         "1766381"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -563,7 +565,7 @@
         "1783260"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -594,7 +596,7 @@
         "1776294"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -624,7 +626,7 @@
         "1770422"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -655,7 +657,7 @@
         "1774573"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -686,7 +688,7 @@
         "1786387"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -717,7 +719,7 @@
         "1778754"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -748,7 +750,7 @@
         "1762854"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -779,7 +781,7 @@
         "1776892"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -811,7 +813,7 @@
         "1760074"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -842,7 +844,7 @@
         "1782942"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -874,7 +876,7 @@
         "1762783"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -906,7 +908,7 @@
         "1775867"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -937,7 +939,7 @@
         "1771084"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -969,7 +971,7 @@
         "1762305"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -999,7 +1001,7 @@
         "1785430"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1029,7 +1031,7 @@
         "1783838"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1059,7 +1061,7 @@
         "1751032"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1090,7 +1092,7 @@
         "1784666"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1121,7 +1123,7 @@
         "1766434"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1152,7 +1154,7 @@
         "1771798"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1183,7 +1185,7 @@
         "1774071"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1215,7 +1217,7 @@
         "1766232"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1245,7 +1247,7 @@
         "1745979"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1277,7 +1279,7 @@
         "1784554"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1309,7 +1311,7 @@
         "1762863"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1341,7 +1343,7 @@
         "1767181"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1373,42 +1375,11 @@
         "1768758"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Join the official WhatsApp group for info: https://chat.whatsapp.com/HYtqAB2iPE097InzwV2aMI Benefits and Opportunities Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Top 3 teams: Incubation and product-development opportunities Top 3 teams: Letters of Recommendation Every eligible participant: One complimentary .xyz domain Every eligible participant: $100 in Inkloom AI credits Every eligible participant: $500 in Adaption platform credits Every eligible participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Hackathon Date: 5 Nov — 16 Nov 2026 No.of Rounds: 3 Mode: Completely online Team size: 1–4 members Registration…"
-    },
-    {
-      "id": "unstop:e231d9a2d668",
-      "name": "Project Last Mile: Analytics Case Challenge",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-16T16:22:00.000Z",
-      "end": "2026-11-16T16:22:00.000Z",
-      "deadline": "2026-11-14T18:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Xavier School of Management (XLRI)",
-      "prize": "₹7,000 · ₹5,000",
-      "themes": [
-        "Data Science"
-      ],
-      "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
-      "sourceUrl": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1789982"
-      ],
-      "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "About the Competition Project LastMile is an analytics and machine learning challenge designed to test participants' ability to analyse data, identify key drivers, develop predictive models, and derive actionable business insights. Participants will work with a provided dataset to build prediction models and compete based on their model performance on a hidden evaluation dataset. Competition Structure Round 1: Online Prediction Challenge Participants will develop predictive models using the provided training dataset. Predictions must be submitted in the prescribed CSV format. Evaluation metric: ROC-AUC. The competition will be hosted on Kaggle. Top 8 teams will qualify for the next round. R…"
+      "description": "Join the official WhatsApp group for info: https://chat.whatsapp.com/CJaluGNC8okLh5ISYLqkS6 Benefits and Opportunities Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Top 3 teams: Incubation and product-development opportunities Top 3 teams: Letters of Recommendation Every eligible participant: One complimentary .xyz domain Every eligible participant: $100 in Inkloom AI credits Every eligible participant: $500 in Adaption platform credits Every eligible participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Hackathon Date: 5 Nov — 16 Nov 2026 No.of Rounds: 3 Mode: Completely online Team size: 1–4 members Registration…"
     },
     {
       "id": "unstop:86517ea52b15",
@@ -1438,11 +1409,11 @@
         "1766190"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Join the official group for information and updates: https://chat.whatsapp.com/Lr1a3omlex7Coc4tAJ8S1C About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Dates: 6th November 10am - 17th November 10am 2026 Mode: Completely online Team size: 1–4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp gr…"
+      "description": "Join the official group for information and updates: https://chat.whatsapp.com/I3PevabQ1v4AahzvIurWhm About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Dates: 6th November 10am - 17th November 10am 2026 Mode: Completely online Team size: 1–4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp gr…"
     },
     {
       "id": "unstop:eb5ba5e84697",
@@ -1469,7 +1440,7 @@
         "1772846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1501,7 +1472,7 @@
         "1767661"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1532,7 +1503,7 @@
         "1785416"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1565,7 +1536,7 @@
         "1775217"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1599,7 +1570,7 @@
         "1783775"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1631,7 +1602,7 @@
         "1780048"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1662,7 +1633,7 @@
         "1770609"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1694,7 +1665,7 @@
         "1764453"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1726,7 +1697,7 @@
         "1769646"
       ],
       "firstSeen": "2026-10-23T06:23:37.840Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1760,7 +1731,7 @@
         "1783835"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1792,7 +1763,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1823,7 +1794,7 @@
         "1756262"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1855,7 +1826,7 @@
         "1773229"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1886,7 +1857,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1917,7 +1888,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1949,7 +1920,7 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1980,7 +1951,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2013,7 +1984,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2044,7 +2015,7 @@
         "1769121"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2073,7 +2044,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2105,7 +2076,7 @@
         "1774417"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2137,11 +2108,11 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Rack It Up 2026 is a free, online 48-hour hackathon by Rack'Em , the cloud hosting venture of Karma Enterprises , a student-founded company from Bengaluru. Most hackathons end with slides and a demo video. Rack It Up asks for more: build something real in a weekend, deploy it, and have it live on the internet by the final whistle. Why join Build with a team (or solo) and ship a working, live product in 48 hours Solve real problem statements from industry sponsors (announced 2–5 Dec) Get your project in front of sponsors and judges in a live final Cash prizes for the top teams, revealed between 2 and 5 Dec Exclusive Unstop goodies for every member of the winning team, plus 3 lucky draw winne…"
+      "description": "Rack It Up 2026 is a free, online 48-hour hackathon by Rack'Em , the cloud hosting venture of Karma Enterprises , a student-founded company from Bengaluru. Most hackathons end with slides and a demo video. Rack It Up asks for more: build something real in a weekend, deploy it, and have it live on the internet by the final whistle. Why join Join our official WhatsApp community for updates, reminders and finding teammates: https://chat.whatsapp.com/LRiFw5cUMoW3F5R6VhyeVH Free $250 in Adaption credits + 3 months of Premium for every participant, no card needed. Claim here: https://adaptionlabs.ai/app/auth/referral?ref=325edeb6303f24f391a2f4bc Build with a team (or solo) and ship a working, liv…"
     },
     {
       "id": "unstop:1a3c14bd5e53",
@@ -2173,7 +2144,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2208,42 +2179,11 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "MUST FOLLOW THESE PAGES For updates: Whatsapp channel https://whatsapp.com/channel/0029Vb8dO925kg7EH2Wtsl3R Hackday 2.0 whatsapp group Overview 24 Hours. Global Minds. Limitless Innovation. Get ready to innovate, build, and make an impact! HACKDAY 2.0, organised by DECODEP, is an international online hackathon bringing together developers, students, designers, and problem-solvers to turn creative ideas into real-world solutions. Challenge your skills, push your limits, and be part of a global innovation experience! The first round will be conducted online. Finalists will compete in the offline final round. Registered participants will also have access to an exclusive webinar on \"how to buil…"
-    },
-    {
-      "id": "unstop:aa46cb862de5",
-      "name": "Hacksprint 3.0",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-12-28T18:29:05.000Z",
-      "end": "2026-12-28T18:29:05.000Z",
-      "deadline": "2026-12-28T18:29:05.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Karpagam Academy of Higher Education",
-      "themes": [
-        "Software Development",
-        "Artificial Intelligence"
-      ],
-      "url": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
-      "sourceUrl": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1778597"
-      ],
-      "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "HackSprint 3.0 — Build Bold. Ride Beyond. About the Event HackSprint 3.0 is a national-level, 36-hour hackathon organized by the Department of Computer Science and Engineering, Karpagam Academy of Higher Education (KAHE), Coimbatore, in collaboration with the Metaverse Association. HackSprint 3.0 brings together passionate developers, designers, problem-solvers, and innovators from across India to transform creative ideas into impactful, technology-driven solutions. It provides a platform to experiment with emerging technologies, collaborate with like-minded innovators, and tackle real-world challenges. Mode: Online Preliminary Round + Offline Final Round Final Venue: Karpagam Academy of Hi…"
     },
     {
       "id": "unstop:c24aa60c0689",
@@ -2271,7 +2211,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2302,7 +2242,7 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2333,11 +2273,42 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Get ready for SPC '27, IIT Madras’s premier competitive programming showdown with a prize pool worth Rs.1,30,000! Test your algorithmic skills, solve complex coding puzzles, and compete against top minds to take home the Code Champion title. Step into the arena, prove your technical finesse, and claim your victory. Are you up for the challenge? The event will consist of 2 rounds : Online prelims will be conducted as a rated contest on Codechef Criteria for Finals: As the event is division based, we will consider the problems common for all divisions as the selection criteria for Finals. This includes Last n problems present in the problem page visible for Div 2,3,4 participants and All n pr…"
+    },
+    {
+      "id": "unstop:48de674fffc3",
+      "name": "Hacksprint 3.0",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-30T14:30:00.000Z",
+      "end": "2027-01-30T14:30:00.000Z",
+      "deadline": "2026-12-28T18:29:05.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Karpagam Academy of Higher Education",
+      "themes": [
+        "Software Development",
+        "Artificial Intelligence"
+      ],
+      "url": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
+      "sourceUrl": "https://unstop.com/hackathons/hacksprint-30-karpagam-academy-of-higher-education-1778597",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1778597"
+      ],
+      "firstSeen": "2026-10-27T06:42:30.487Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "HackSprint 3.0 — Build Bold. Ride Beyond. About the Event HackSprint 3.0 is a national-level, 36-hour hackathon organized by the Department of Computer Science and Engineering, Karpagam Academy of Higher Education (KAHE), Coimbatore, in collaboration with the Metaverse Association. HackSprint 3.0 brings together passionate developers, designers, problem-solvers, and innovators from across India to transform creative ideas into impactful, technology-driven solutions. It provides a platform to experiment with emerging technologies, collaborate with like-minded innovators, and tackle real-world challenges. Mode: Online Preliminary Round + Offline Final Round Final Venue: Karpagam Academy of Hi…"
     },
     {
       "id": "unstop:fdd8b01f74a9",
@@ -2365,7 +2336,7 @@
         "1759619"
       ],
       "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2396,7 +2367,7 @@
         "1772904"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "lastVerified": "2026-11-03T08:26:47.987Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2778,6 +2749,39 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:e231d9a2d668",
+      "name": "Project Last Mile: Analytics Case Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-16T16:22:00.000Z",
+      "end": "2026-11-16T16:22:00.000Z",
+      "deadline": "2026-11-14T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Xavier School of Management (XLRI)",
+      "prize": "₹7,000 · ₹5,000",
+      "themes": [
+        "Data Science"
+      ],
+      "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "sourceUrl": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1789982"
+      ],
+      "firstSeen": "2026-11-02T08:05:34.343Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Competition Project LastMile is an analytics and machine learning challenge designed to test participants' ability to analyse data, identify key drivers, develop predictive models, and derive actionable business insights. Participants will work with a provided dataset to build prediction models and compete based on their model performance on a hidden evaluation dataset. Competition Structure Round 1: Online Prediction Challenge Participants will develop predictive models using the provided training dataset. Predictions must be submitted in the prescribed CSV format. Evaluation metric: ROC-AUC. The competition will be hosted on Kaggle. Top 8 teams will qualify for the next round. R…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
       "id": "unstop:625d7da4a6d5",
       "name": "StackSense",
       "type": "hackathon",
@@ -3115,6 +3119,40 @@
       "manual": false,
       "linkStatus": "ok",
       "description": "SHAKTI Hackathon A Durga Puja Special This Pujo, don’t just celebrate the power. Build with it. Durga Puja is all about Shakti, creativity, energy, and coming together. This festive season, BUBBLESORT brings that spirit into technology with SHAKTI Hackathon, a student-focused challenge to turn real-world problems into meaningful tech solutions. Eligibility and Teams Open to students from computer-related or technology-oriented academic backgrounds Students in any year of study, as well as passed-out or graduated students, may participate Teams may have 1 to 3 members Each participant may join only one team Team changes after registration require organizer approval Hackathon Themes AI-Agenti…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:aafeb114cd56",
+      "name": "Neural Storm",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-04T14:30:00.000Z",
+      "end": "2026-11-04T14:30:00.000Z",
+      "deadline": "2026-11-02T14:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
+      "prize": "₹10,000 · ₹5,000",
+      "themes": [
+        "Machine Learning Engineering",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
+      "sourceUrl": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1769404"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-02T08:05:41.644Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Neural Storm 2026 is an online AI/ML hackathon open to college students across India. Teams build real-world solutions using Python and AI/ML tools within one of three challenge tracks, submit a GitHub repository, and get evaluated by a panel of judges working in US based startups. Guidelines Eligibility Open to all currently enrolled college students across India Team size: 1 to 3 members. Solo participation is allowed. Inter-college teams are allowed Inter-specialization teams are allowed Only the team leader registers on behalf of the entire team Each participant can only be part of one team Format Online hackathon, 2 days long (November 2 to 4, 2026) 3 official challenge tracks…",
       "stale": false,
       "archiveNote": "Registration closed"
     },
