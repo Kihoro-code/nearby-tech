@@ -892,5 +892,47 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-03T08:26:47.987Z"
+  },
+  "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
+  },
+  "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-04T07:54:09.784Z"
   }
 }
