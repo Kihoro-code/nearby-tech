@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:24:01.322Z",
+  "generatedAt": "2026-11-07T07:40:22.685Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,7 +95,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -128,7 +128,7 @@
         "https://luma.com/rofymmm3"
       ],
       "firstSeen": "2026-10-25T15:48:34.849Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -164,7 +164,7 @@
         "1793796"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -201,7 +201,7 @@
         "1774876"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -239,7 +239,7 @@
         "1792758"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -276,12 +276,49 @@
         "1768041"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
       "linkStatus": "ok",
       "description": "Visit our Hackathon Website for Free Registrations Tracks T1: AI, Cybersecurity & Digital Trust T2: Smart Infrastructure & IOT T3: Sustainability, AgriTech & Social Impact Initial registration and Round 1 (Online) are 100% Free. Shortlisted teams advancing to Round 2 (Offline) will be required to pay a nominal offline event fee of ₹1200 per team. Eligibility Participants must be currently enrolled students (UG, PG, diploma or equivalent) at a recognised institution in India. Participants must be 18 or older on 18 Dec 2026, with a guardian-consent arrangement is approved by the organisers. Team size is 2 to 4 members. Solo entries are not accepted. Cross-college teams are allowed. A person m…"
+    },
+    {
+      "id": "unstop:ac30a4458390",
+      "name": "NavUtkarsh x Leo Hackathon 2026 | Innovate, Build & Solve Real-World Problems",
+      "type": "hackathon",
+      "mode": "hybrid",
+      "lane": "maharashtra",
+      "start": "2026-12-26T14:30:00.000Z",
+      "end": "2026-12-26T14:30:00.000Z",
+      "deadline": "2026-11-30T18:30:00.000Z",
+      "city": "Boisar",
+      "venue": "Viraj International School ,Survey No.27, Boisar - Tarapur Rd, Near Kurgaon Grampanchayat Office Kurgaon, Boisar, Maharashtra 401502",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "navutkarsh",
+      "prize": "₹15,000 · ₹10,000",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952",
+      "sourceUrl": "https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1771952"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "NavUtkarsh Hackathon 2026 NavUtkarsh Hackathon 2026, organised by NavUtkarsh in collaboration with the Leo Club of Tarapur, is a platform for young innovators to turn their ideas into practical solutions. The hackathon encourages participants to identify real-world problems, develop innovative prototypes, and showcase their technical and creative abilities. Join us to build, innovate, collaborate, and connect with a community of emerging innovators. Hackathon Format Round 1: Online Idea Submission and Prototype Development Registration and participation will take place online. Participants will submit their innovative ideas and work towards developing a functional prototype along with a PPT…"
     },
     {
       "id": "unstop:9e0635c60ee1",
@@ -311,7 +348,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -347,7 +384,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -383,7 +420,7 @@
         "1788753"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -398,7 +435,7 @@
       "lane": "maharashtra",
       "start": "2027-01-24T18:29:00.000Z",
       "end": "2027-01-24T18:29:00.000Z",
-      "deadline": "2026-12-30T18:30:31.000Z",
+      "deadline": "2026-12-25T18:29:31.000Z",
       "city": "Mumbai",
       "venue": "Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Sion Mumbai, Maharashtra",
       "state": "Maharashtra",
@@ -419,7 +456,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -434,12 +471,13 @@
       "lane": "maharashtra",
       "start": "2027-01-29T04:30:00.000Z",
       "end": "2027-01-30T04:30:00.000Z",
+      "deadline": "2026-12-30T18:29:00.000Z",
       "city": "Pune",
       "venue": "Army Institute of Technology, Alandi Road, Dighi, Pune, Maharashtra, India",
       "state": "Maharashtra",
       "country": "India",
-      "cost": "unknown",
-      "costLabel": "Not listed",
+      "cost": "free",
+      "costLabel": "Free",
       "themes": [
         "No Restrictions"
       ],
@@ -452,12 +490,49 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
       "linkStatus": "ok",
-      "description": ""
+      "description": "**Innerve 11** stands as **India’s Largest Student-Driven Hackathon**, proudly organized by the AIT Open Source Software Club at the prestigious **Army Institute of Technology (AIT), Pune**. This flagship innovation festival is dedicated to fueling creativity, empowering problem-solving, and fostering collaboration among the brightest student innovators across the country — all with **zero registration fees** to ensure open participation. > **Event Stages** **24-Hour Grand Finale Hackathon** January 29–30, 2027 Participants will pitch their ideas, refine them with mentor support, and battle it out in the intense 24-hour finale to build impactful, real-world solutions. > **Prize Pool** Inner…"
+    },
+    {
+      "id": "unstop:31d45c1cecfa",
+      "name": "Overclock",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2027-01-30T01:30:00.000Z",
+      "end": "2027-01-30T01:30:00.000Z",
+      "deadline": "2026-12-14T19:19:00.000Z",
+      "city": "Navi Mumbai",
+      "venue": "AGNEL CHARITIES  Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "paid",
+      "costLabel": "₹1,770",
+      "host": "Agnel Charities Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",
+      "prize": "₹25,000 · ₹15,000",
+      "themes": [
+        "Electronics Engineer",
+        "Embedded Systems Engineer"
+      ],
+      "url": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
+      "sourceUrl": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1798677"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "OVERCLOCK 2027 | 24-Hour National-Level Hardware Hackathon BUILD. INNOVATE. ENGINEER THE FUTURE. OVERCLOCK 2027 is a 24-hour national-level hardware hackathon organized by the Department of Electrical Engineering, Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi, Navi Mumbai , in association with IEEE FCRIT Student Branch (STB 61121), EESA and ISLE FCRIT . The hackathon challenges undergraduate students to identify real-world engineering problems and develop practical, innovative hardware solutions. From energy and industrial automation to healthcare and defence, turn your ideas into working physical prototypes. Important Dates 06 November 2026: Registrations Open 10 November 2026: R…"
     },
     {
       "id": "devfolio:81f8b8277f17",
@@ -486,7 +561,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -515,42 +590,11 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": ""
-    },
-    {
-      "id": "unstop:aafe7d433b51",
-      "name": "The Outpost",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-07T10:30:00.000Z",
-      "end": "2026-11-07T10:30:00.000Z",
-      "deadline": "2026-11-06T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Frontend Arena",
-      "prize": "Winner",
-      "themes": [
-        "Frontend Development"
-      ],
-      "url": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
-      "sourceUrl": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1766381"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "THE OUTPOST One Problem. One Builder. Six Hours. THE OUTPOST is a 6-hour, fully online, individual frontend development hackathon organized by Frontend Arena , designed to challenge participants to turn creative ideas into functional, visually impressive, and user-friendly web experiences. Inspired by the spirit of exploration, strategy, and teamwork-free individual competition, THE OUTPOST gives every participant the opportunity to showcase their frontend development skills, creativity, and problem-solving abilities through a time-bound coding mission. Participants will receive a problem statement at the beginning of the hackathon and must independently design, develop, test, and submit th…"
     },
     {
       "id": "unstop:e04f7405a4e8",
@@ -578,7 +622,7 @@
         "1783260"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -609,41 +653,11 @@
         "1776294"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Link: https://bharatcode.ai/hackathon#register Join the WhatsApp group for details: https://chat.whatsapp.com/EMNvrZuuZc75sAZ3GVEgDB Turn Your Idea into a Working Product The BharatCode Build League is a hackathon for students, developers, and anyone interested in building useful products with artificial intelligence. The goal is simple. Find a problem worth solving and build something that addresses it. You can create an application, an artificial intelligence agent, a chatbot, a developer tool, an automation system, or any other product that you think would be useful. You can participate individually or as part of a small team. We welcome projects across different fields and encourage par…"
-    },
-    {
-      "id": "unstop:b311315faee5",
-      "name": "BuildLab 2026",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-08T11:30:00.000Z",
-      "end": "2026-11-08T11:30:00.000Z",
-      "deadline": "2026-11-07T04:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Frontend Arena",
-      "themes": [
-        "Frontend Development"
-      ],
-      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
-      "sourceUrl": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1770422"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "BuildLab 2026 — Professional Frontend Development Hackathon Organized by Frontend Arena About the Event: BuildLab 2026 is an online frontend development hackathon exclusively designed for working professionals. The competition challenges individual developers to transform a given problem statement into a functional, responsive, and polished web application within a limited timeframe. The event focuses on modern frontend engineering, AI-assisted development, vibe coding, UI/UX design, and practical product building. Participants can use modern AI coding tools to accelerate development while demonstrating their individual technical skills, creativity, and problem-solving abilities. Eligibilit…"
     },
     {
       "id": "unstop:6736ff4da1c4",
@@ -670,42 +684,11 @@
         "1786387"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "CODE SHIFT 2026 Organised by InfoTechiezz x Shortfundly OTT Marketplace Shift Your Thinking. Solve Differently. CODE SHIFT 2026 is an online coding competition designed to test students' programming knowledge, logical reasoning, and problem-solving abilities. Participants will compete in a single round featuring two DSA problems, providing an opportunity to demonstrate their coding skills and algorithmic thinking. Competition Format Competition Type: Online Coding Challenge Total Rounds: 1 Round Name: Algorithm Clash Total Problems: 2 DSA Questions Duration: 90 min Registration Fee: Free Mode: Online Round 1 — Algorithm Clash Participants will solve 2 coding problems within the allotted tim…"
-    },
-    {
-      "id": "unstop:ec6ffefbfb72",
-      "name": "Bug Bounty",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-08T18:29:00.000Z",
-      "end": "2026-11-08T18:29:00.000Z",
-      "deadline": "2026-11-06T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Oronzo LLP",
-      "themes": [
-        "Security Testing",
-        "Ethical Hacking"
-      ],
-      "url": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
-      "sourceUrl": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1778754"
-      ],
-      "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "F-Cube Bug Bounty | Discover. Report. Improve. Join the F-Cube Bug Bounty, hosted by Oronzo LLP, and help us make F-Cube safer, more reliable, and easier to use. https://chat.whatsapp.com/DA85Ghe57vnGZ8SAV5gv6r Explore the app, identify bugs and vulnerabilities within the authorized scope, and submit clear reports to help improve app security, functionality, performance, and user experience. Organized by : Oronzo LLP Event Dates : November 6–8, 2026. Mode : Completely Online️ Entry : Free Reward : Top contributors will have an opportunity to be considered for paid internships at Oronzo LLP. Event Schedule: Friday, November 6 | 6:00 PM IST Kickoff Meeting & Walkthrough Join the online kickof…"
     },
     {
       "id": "unstop:1badea9d2d2d",
@@ -732,7 +715,7 @@
         "1762854"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -763,7 +746,7 @@
         "1776892"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -795,7 +778,7 @@
         "1760074"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -826,7 +809,7 @@
         "1795047"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -857,7 +840,7 @@
         "1782942"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -871,7 +854,7 @@
       "lane": "online",
       "start": "2026-11-11T06:30:00.000Z",
       "end": "2026-11-11T06:30:00.000Z",
-      "deadline": "2026-11-09T03:30:00.000Z",
+      "deadline": "2026-11-10T03:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "host": "National Institute of Technology (NIT), Silchar",
@@ -889,7 +872,7 @@
         "1795122"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -920,11 +903,42 @@
         "1794955"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Event Description: Welcome to the Software Track of NITS Hacks 9.0, the flagship hackathon hosted by NIT Silchar! Get ready for an exciting journey where code meets creativity and innovation meets real-world challenges. With three problem statements to choose from, put your technical skills and problem-solving abilities to the test as you turn ideas into functional software solutions. Whether you're passionate about coding, eager to collaborate or driven to build something impactful, this is your opportunity to innovate, experiment and showcase what you can create! Event Details: Dates: November 9–12, 2026 Mode: Hybrid. External participants join online, and NIT Silchar students can attend…"
+    },
+    {
+      "id": "unstop:660b90e9a2fe",
+      "name": "Logic Bumble – Coding & Debugging Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-11T18:30:00.000Z",
+      "end": "2026-11-11T18:30:00.000Z",
+      "deadline": "2026-11-11T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Army Institute of Technology (AIT), Pune",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+      "sourceUrl": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1798516"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Logic Bumble is an exciting coding and debugging competition designed to test participants' logical thinking, programming skills, and problem-solving abilities. Participants will be challenged with coding problems, logical puzzles, and programs containing errors that they must identify and fix within a given time limit. The event focuses on programming fundamentals, debugging techniques, logical reasoning, and accuracy. Event Highlights: Coding challenges Find and fix bugs Logical problem-solving Time-based debugging rounds Test your programming skills Objective: To encourage logical thinking, improve debugging skills, and enhance participants' coding abilities through competitive…"
     },
     {
       "id": "unstop:eec1ffe96c6a",
@@ -951,7 +965,7 @@
         "1773842"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -983,7 +997,7 @@
         "1762783"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1015,7 +1029,7 @@
         "1775867"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1046,41 +1060,11 @@
         "1771084"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview The Last Daemon — Capture The Flag (CTF) by Beunwrapd Join the Official WhatsApp Community: https://chat.whatsapp.com/EpDiRs3oQ1t6riNwVgGJqF About the Competition The digital world is full of secrets, vulnerabilities, and hidden information. Are you ready to uncover them? The Last Daemon is a cybersecurity Capture The Flag (CTF) competition organized by Beunwrapd , designed to challenge aspiring ethical hackers, cybersecurity enthusiasts, and students through hands-on security problems. Participants will test their technical knowledge, analytical thinking, investigative abilities, and problem-solving skills across multiple cybersecurity domains. From decoding cryptographic messages…"
-    },
-    {
-      "id": "unstop:c647e5b8a7e5",
-      "name": "Tatusta",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-14T07:38:00.000Z",
-      "end": "2026-11-14T07:38:00.000Z",
-      "deadline": "2026-11-12T18:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Thakur College of Engineering and Technology (TCET), Mumbai",
-      "themes": [
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
-      "sourceUrl": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1785430"
-      ],
-      "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Overview Innovate. Build. Break Barriers. About the Hackathon ISTE TCET invites passionate innovators, developers, designers, and problem-solvers to participate in an exciting hackathon that challenges participants to transform ideas into impactful solutions. The hackathon provides a platform for students to collaborate, think creatively, explore emerging technologies, and develop innovative solutions to real-world problems. Whether you are a coder, designer, researcher, or aspiring entrepreneur, this is your opportunity to showcase your skills, experiment with technology, and bring your ideas to life. Work in teams, tackle challenging problem statements, build functional prototypes, and co…"
     },
     {
       "id": "unstop:cbee577c4464",
@@ -1106,11 +1090,139 @@
         "1783838"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview Hackathon Format — Two Rounds INNOVATE will be conducted entirely online, with free participation. Round 1 — Idea and Solution Submission Submit a presentation of up to five slides and a demonstration video of up to three minutes covering: The everyday problem and intended users. Your proposed solution using AI, machine learning, statistics, or data analytics. A working prototype, dashboard, or functional no-code solution. Tools, data sources, and expected impact. Teams will be shortlisted based on problem relevance, originality, functionality, and practical usefulness. Round 2 — Live Online Finale Shortlisted teams will present their solutions to the jury: Presentation and demonst…"
+    },
+    {
+      "id": "unstop:5ac8f259e375",
+      "name": "Agentic AI Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-14T18:29:00.000Z",
+      "end": "2026-11-14T18:29:00.000Z",
+      "deadline": "2026-11-14T05:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Product Space",
+      "prize": "₹5,000 · ₹3,000",
+      "themes": [
+        "Agentic AI Engineer",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "sourceUrl": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1792269"
+      ],
+      "firstSeen": "2026-11-04T07:54:03.136Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview: Date: 14th, 2026 Registrations: Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building AI agents ready for real-world use that can: Think and make decisions. Interact with tools. Execute tasks independentl…"
+    },
+    {
+      "id": "unstop:7667ecba32ad",
+      "name": "AI Builder Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-14T18:29:00.000Z",
+      "end": "2026-11-14T18:29:00.000Z",
+      "deadline": "2026-11-14T05:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Product Space",
+      "prize": "₹30,000 · ₹15,000",
+      "themes": [
+        "Agentic AI Engineer",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+      "sourceUrl": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799509"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview: Date: 14th Nov, 2026 Registrations: Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building AI agents ready for real-world use that can: Think and make decisions. Interact with tools. Execute tasks independ…"
+    },
+    {
+      "id": "unstop:6c4f7233d255",
+      "name": "AI Product Buildathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-14T18:29:00.000Z",
+      "end": "2026-11-14T18:29:00.000Z",
+      "deadline": "2026-11-14T05:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Product Space",
+      "prize": "₹20,000 · ₹10,000",
+      "themes": [
+        "Agentic AI Engineer",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+      "sourceUrl": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799475"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview: Date: 14th, 2026 Registrations: Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building AI agents ready for real-world use that can: Think and make decisions. Interact with tools. Execute tasks independentl…"
+    },
+    {
+      "id": "unstop:24914d9c4b8f",
+      "name": "Gen-AI Product Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-14T18:29:00.000Z",
+      "end": "2026-11-14T18:29:00.000Z",
+      "deadline": "2026-11-14T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Product Space",
+      "prize": "₹30,000 · ₹15,000",
+      "themes": [
+        "Agentic AI Engineer",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+      "sourceUrl": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799510"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Date: 14th Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 14th Nov 2026 (Saturday) This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You’ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You’ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The core focus is on building AI agents that can: Reason and make decisions. Interact with tools. Execute tasks independently. By the end of the…"
     },
     {
       "id": "unstop:c169d31cc328",
@@ -1136,7 +1248,7 @@
         "1751032"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1167,7 +1279,7 @@
         "1784666"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1198,74 +1310,11 @@
         "1771798"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Build with AI. Solve real problems. Compete for cash prizes. Catalyst is a solo-participation hackathon designed for students, developers, and AI enthusiasts who want to turn their ideas into working solutions. Whether you're experimenting with AI for the first time or already building intelligent applications, Catalyst gives you the opportunity to challenge yourself, showcase your skills, and compete with innovators from across the community. Participants will work independently to develop innovative solutions using AI tools, creative problem-solving, and modern development technologies. Bring your ideas to life, build something meaningful, and demonstrate what you can create. What to Expe…"
-    },
-    {
-      "id": "unstop:adc4b141e42d",
-      "name": "ChaosCore Hackathon 2026",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-15T15:30:00.000Z",
-      "end": "2026-11-15T15:30:00.000Z",
-      "deadline": "2026-11-06T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Invoqe",
-      "prize": "Winner",
-      "themes": [
-        "Software Development"
-      ],
-      "url": "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
-      "sourceUrl": "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1774071"
-      ],
-      "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "About the Hackathon: What happens when creativity meets chaos? Welcome to ChaosCore Hackathon 2026 - an open-innovation hackathon where unconventional ideas, bold experiments, and creative problem-solving come together. There is no fixed problem statement, no predefined domain, and no restriction on technology. Choose a problem you care about, improve an existing system, create a product you've always wanted to build, or explore an entirely new idea. This Halloween, step into the chaos, challenge the ordinary, and turn your wildest ideas into working solutions. Embrace the Chaos. Build the Unexpected. Join the WhatsApp group for updates and communication: https://chat.whatsapp.com/GEJJPzKFC…"
-    },
-    {
-      "id": "unstop:f03981a0dd59",
-      "name": "VibeX codes 26",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-15T15:30:00.000Z",
-      "end": "2026-11-15T15:30:00.000Z",
-      "deadline": "2026-11-07T03:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "globalyogacourse",
-      "prize": "₹30,00,000 · ₹1,00,000",
-      "themes": [
-        "Software Development",
-        "Conferences"
-      ],
-      "url": "https://unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232",
-      "sourceUrl": "https://unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1766232"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "VibeX code 26 — Build something worth sharing. Join Admitiy for a free, 12-hour online hackathon hosted on Discord on 15 November 2026, from 9:00 AM to 9:00 PM IST. Bring your ideas, build a project, and compete for a Winner’s Certificate. How to Register Complete registration with your name and email address. You may share a link to previous work, GitHub, or a portfolio. This is optional and is not required to participate. Who Can Participate Students, beginners, and experienced builders are welcome. Participate solo or in a team of up to 4 members. Members from different colleges and specialisations may team up. Entry is completely free. Format and Rules The hackathon runs from 9:00 AM to…"
     },
     {
       "id": "unstop:5c93e634f7dd",
@@ -1291,43 +1340,42 @@
         "1745979"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "NASA Space Apps Challenge 2026 – Raipur: The Next Frontier: 14–15 November 2026 | NIT Raipur The NASA Space Apps Challenge is a global hackathon that brings together students, developers, engineers, scientists, designers, researchers, entrepreneurs and space enthusiasts to solve real-world challenges using NASA's open data and data from Space Agency Partners. The 2026 edition, themed “The Next Frontier,” invites participants to think beyond conventional boundaries and build innovative solutions for challenges related to Earth, space, science, technology and humanity's future. The Raipur Local Event, hosted at National Institute of Technology Raipur, gives participants the opportunity to be…"
     },
     {
-      "id": "unstop:8427270a9379",
-      "name": "Agentic AI Hackathon",
+      "id": "unstop:3e3760de2eaa",
+      "name": "Data Analytics Hackathon",
       "type": "hackathon",
       "mode": "online",
       "lane": "online",
       "start": "2026-11-15T18:29:00.000Z",
       "end": "2026-11-15T18:29:00.000Z",
-      "deadline": "2026-11-14T05:30:00.000Z",
+      "deadline": "2026-11-15T05:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
-      "host": "Product Space",
-      "prize": "₹5,000 · ₹3,000",
+      "host": "Gradient Learnings",
+      "prize": "₹30,000 · ₹15,000",
       "themes": [
-        "Agentic AI Engineer",
-        "AI Engineering"
+        "Data Analysis"
       ],
-      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
-      "sourceUrl": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+      "sourceUrl": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
       "sources": [
         "unstop"
       ],
       "sourceIds": [
-        "1792269"
+        "1799543"
       ],
-      "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview: Date: 14th & 15th Nov, 2026 Registrations: Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building AI agents ready for real-world use that can: Think and make decisions. Interact with tools. Execute tasks i…"
+      "description": "This is a build-and-analysis-focused Data Analytics Hackathon designed for students, aspiring analysts, data professionals, and problem-solvers who want to turn raw data into meaningful insights and actionable recommendations. What You'll Do: On 14th November participants will work with a real-world dataset provided by the organizers and perform an end-to-end data analysis by: Understanding the business problem and dataset. Cleaning, transforming, and preparing the data. Exploring patterns, trends, and relationships. Performing quantitative and statistical analysis. Building meaningful visualizations and dashboards. Identifying key insights and actionable recommendations. Presenting your an…"
     },
     {
       "id": "unstop:703d3c49f0ce",
@@ -1355,7 +1403,7 @@
         "1784554"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1387,7 +1435,7 @@
         "1762863"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1418,7 +1466,7 @@
         "1772846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1450,7 +1498,7 @@
         "1795134"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1481,7 +1529,7 @@
         "1785416"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1514,11 +1562,74 @@
         "1775217"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview Krixov presents: AI for Operational Intelligence Case Challenge Build Real. Showcase Skills. Unlock Opportunities. About the Challenge: BUILD2RISE 2026 is an online, idea-based case challenge organized by Krixov. It invites college and university students to analyze real-world operational challenges and propose innovative, practical, data-informed, and responsible AI-enabled solutions. Participants will select one problem statement, analyze its root causes, define the intended users, design a feasible solution, and present their idea through a structured presentation. The challenge focuses on problem-solving, analytical thinking, product innovation, data-driven decision-making, and…"
+    },
+    {
+      "id": "unstop:9b3593679a68",
+      "name": "Expanding Horizons 8.0 Consultancy",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-20T18:30:00.000Z",
+      "end": "2026-11-20T18:30:00.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Electronics Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799776"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Electronics and Communication Engineering (ECE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – ECE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping students strengthen their core electronics and communication concepts and prepare for upcoming internship opportunities. The assessment focuses on evaluating fundamental technical knowledge, conceptual understanding, and analytical problem-solving skills across important areas of Electronics and Communication Engineering. Objectives Strengthen fundamentals of electronic circuits and devices. Evaluate knowledge of Analog and Digital Electro…"
+    },
+    {
+      "id": "unstop:e1b8a95eaadd",
+      "name": "Expanding Horizons 8.0 Software",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-20T18:30:00.000Z",
+      "end": "2026-11-20T18:30:00.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799767"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Software Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – Software is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring software engineers prepare for the upcoming internship season. The assessment focuses on evaluating participants' programming skills, data structures and algorithms, logical reasoning, and problem-solving abilities. It provides an opportunity to challenge oneself through coding problems inspired by the technical assessments commonly encountered during software internship recruitment. Objectives Strengthen programming and coding proficiency. Evaluate understanding…"
     },
     {
       "id": "unstop:1e1420a92039",
@@ -1546,11 +1657,75 @@
         "1793112"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "QueryQuest is a technical competition organised by HackerRank Campus Crew, NIE Mysuru , designed to test participants' SQL knowledge, database concepts and problem-solving abilities. The challenge provides an opportunity for students to demonstrate their understanding of SQL through practical coding problems and multiple-choice questions across different difficulty levels. Competition Format The competition will consist of 10 questions to be completed within a total time limit of 100 minutes . The question distribution will be: SQL Basic – 4 Questions SQL Intermediate – 3 Questions SQL Advanced – 1 Question SQL Multiple Choice Questions (MCQs) – 2 Questions Rules and Guidelines The competit…"
+    },
+    {
+      "id": "unstop:2218c7a39561",
+      "name": "Expanding Horizons 8.0 ECE",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-21T05:54:22.000Z",
+      "end": "2026-11-21T05:54:22.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Electronics Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799778"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Electronics and Communication Engineering (ECE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – ECE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping students strengthen their core electronics and communication concepts and prepare for upcoming internship opportunities. The assessment focuses on evaluating fundamental technical knowledge, conceptual understanding, and analytical problem-solving skills across important areas of Electronics and Communication Engineering. Objectives Strengthen fundamentals of electronic circuits and devices. Evaluate knowledge of Analog and Digital Electro…"
+    },
+    {
+      "id": "unstop:bac1e40bc14c",
+      "name": "Expanding Horizons 8.0 EE",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-21T17:20:35.000Z",
+      "end": "2026-11-21T17:20:35.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Electrical Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799780"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Electrical Engineering (EE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – EE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring electrical engineers assess and strengthen their technical preparation for the upcoming internship season. The assessment focuses on fundamental concepts and problem-solving abilities across major areas of Electrical Engineering, providing participants with an opportunity to evaluate their conceptual clarity and technical aptitude. Objectives Evaluate fundamentals of Electrical Machines. Strengthen understanding of Power Systems. Assess knowledge of E…"
     },
     {
       "id": "unstop:027ead58ab43",
@@ -1580,11 +1755,43 @@
         "1783775"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Mandatory: Join the official group for information and updates: https://chat.whatsapp.com/De2y9pjoWpiEWppYl5Lzz4 About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every Elligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No.Of Rounds: 3 Hackathon Dates: 11 November – 22 November 2026 Mode: Completely online Team size: 1–6 members Registration Fee: Free Tracks: Agentic AI Join the official WhatsApp group for participation det…"
+    },
+    {
+      "id": "unstop:d55cd1078f13",
+      "name": "Expanding Horizons 8.0 CIVIL",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-22T04:48:36.000Z",
+      "end": "2026-11-22T04:48:36.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Civil Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799782"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Civil Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – Civil Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring civil engineers evaluate their technical knowledge and prepare for upcoming internship opportunities. The assessment covers important concepts across core Civil Engineering subjects, encouraging participants to apply theoretical knowledge, develop analytical abilities, and approach engineering problems systematically. Objectives Evaluate fundamentals of Structural Engineering. Assess understanding of Geotechnical Engineering. Strengthen concepts…"
     },
     {
       "id": "unstop:73badf9c3abf",
@@ -1612,11 +1819,107 @@
         "1780048"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About Orbix: Orbix is a global, open-innovation hackathon organized by Makers Need More (MnM), bringing together developers, students, designers, and innovators to identify and solve real-world problems through technology. Event Format: Global, online hackathon Duration: Approximately 48 hours of building and submissions, followed by finalist presentations Organizer: Makers Need More (MnM) Event Dates: 21–23 November 2026 Join WhatsApp Group here . Problem Statements and Project Scope: Orbix follows an open-innovation format. Participants are encouraged to identify a genuine problem, research its impact, and develop an original technology-driven solution. Communication and Support: Particip…"
+    },
+    {
+      "id": "unstop:d7a4ab3d8f51",
+      "name": "Expanding Horizons 8.0 Mechanical",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-22T16:24:43.000Z",
+      "end": "2026-11-22T16:24:43.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Mechanical Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799788"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Mechanical Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – Mechanical Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring mechanical engineers evaluate their technical understanding and prepare for the upcoming internship season. The assessment focuses on core Mechanical Engineering concepts, testing participants' conceptual clarity, technical aptitude, and ability to apply engineering principles to solve problems. Objectives Evaluate fundamentals of Engineering Mechanics. Assess understanding of Thermodynamics and Heat Transfer. Test knowledge of Fluid Me…"
+    },
+    {
+      "id": "unstop:68e872ff1606",
+      "name": "Expanding Horizons 8.0 BIOTECH",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-23T04:03:04.000Z",
+      "end": "2026-11-23T04:03:04.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Quizzes & Treasure Hunt",
+        "Biotechnology",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799790"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Biotechnology Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – Biotechnology is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring biotechnologists assess their subject knowledge and strengthen their preparation for upcoming internship opportunities. The assessment focuses on fundamental and interdisciplinary concepts of Biotechnology, encouraging participants to demonstrate their scientific understanding, analytical abilities, and application of biological principles. Objectives Evaluate fundamentals of Molecular Biology and Genetics. Assess understanding of Biochemistry and Microb…"
+    },
+    {
+      "id": "unstop:52582de4502e",
+      "name": "Expanding Horizons 8.0 Chemical",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-23T15:42:24.000Z",
+      "end": "2026-11-23T15:42:24.000Z",
+      "deadline": "2026-11-20T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Motilal Nehru National Institute of Technology",
+      "themes": [
+        "Chemical Engineer",
+        "Quizzes & Treasure Hunt",
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+      "sourceUrl": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1799791"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Expanding Horizon 8.0 – Chemical Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 – Chemical Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring chemical engineers evaluate their technical knowledge and prepare for upcoming internship opportunities. The assessment focuses on core Chemical Engineering concepts, testing participants' understanding of engineering principles, analytical abilities, and problem-solving skills across important subject areas. Objectives Evaluate fundamentals of Chemical Process Calculations. Assess understanding of Fluid Mechanics. Test concepts related to…"
     },
     {
       "id": "unstop:6a5d1e240e64",
@@ -1644,11 +1947,11 @@
         "1786652"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "VYTRON 2026 – National Online Hackathon Engineer the Extraordinary. About the Hackathon VYTRON 2026 is a national-level online hackathon that brings together passionate students, developers, and innovators from colleges across India to transform creative ideas into impactful real-world solutions. Participants can explore all technology domains , including Artificial Intelligence, Machine Learning, Web Development, Cybersecurity, Blockchain, Internet of Things, Cloud Computing, Robotics, and more. Get ready to showcase your technical skills, creativity, problem-solving abilities, and innovation through three exciting rounds. Competition Structure Round 1: Idea Presentation (PPT Submission) S…"
+      "description": "VYTRON 2026 – National Online Hackathon Website : https://vytron26.droidecks.sbs/ Registration Link : https://forms.gle/9r5Qj42Np9nZ6yhc7 Registration Fee: 79 per member Engineer the Extraordinary. About the Hackathon VYTRON 2026 is a national-level online hackathon that brings together passionate students, developers, and innovators from colleges across India to transform creative ideas into impactful real-world solutions. Participants can explore all technology domains , including Artificial Intelligence, Machine Learning, Web Development, Cybersecurity, Blockchain, Internet of Things, Cloud Computing, Robotics, and more. Get ready to showcase your technical skills, creativity, problem-so…"
     },
     {
       "id": "unstop:de007035458b",
@@ -1676,7 +1979,7 @@
         "1769646"
       ],
       "firstSeen": "2026-10-23T06:23:37.840Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1710,7 +2013,7 @@
         "1783835"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1742,7 +2045,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1773,7 +2076,7 @@
         "1756262"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1805,11 +2108,43 @@
         "1773229"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview Presented by Code Variant — Build Different. Every game begins with an idea. In OUT OF BOUNDS, your team gets 12 hours to turn yours into a playable browser-based experience. OUT OF BOUNDS is an online web game development hackathon that brings together developers, designers, and creative problem-solvers to build original games. Choose your own genre, mechanics, and theme. The goal is to create an experience that people can actually play. Event Format The competition has two rounds. Paid event with a registration fee of ony ₹19 Round 1 — Idea Submission Submit your game concept as a PowerPoint presentation or PDF. Maximum length: 5 slides. Your submission should explain the game ov…"
+    },
+    {
+      "id": "unstop:34c91cc1f303",
+      "name": "CodeDia 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-29T18:30:00.000Z",
+      "end": "2026-11-29T18:30:00.000Z",
+      "deadline": "2026-11-27T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Lovely Professional University (LPU), Punjab",
+      "prize": "₹10,000",
+      "themes": [
+        "Quizzes & Treasure Hunt",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+      "sourceUrl": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1798702"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "This Diwali, turn your ideas into reality! CodeDia 2026 is a 48-hour individual AI buildathon where participants get the opportunity to create innovative products using Adaption AI. Whether you are a student, developer, designer, beginner, or working professional, you are welcome to participate. There is no fixed theme, no predefined problem statement, and no restriction on what you can build. You can turn any idea into a working product using Adaption AI. Event Schedule 28 November 2026: Opening Ceremony and Buildathon Begins. 28–30 November 2026: 48-Hour Product Building Challenge. 1 December 2026: Winner Announcement. The exact starting and ending times of the 48-hour challenge will be c…"
     },
     {
       "id": "unstop:7f4bb281ebcd",
@@ -1836,7 +2171,7 @@
         "1797543"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1867,7 +2202,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1898,7 +2233,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1930,7 +2265,7 @@
         "1793392"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1962,42 +2297,11 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "CodeClash: The November Nexus 2026 A National-Level Coding Competition by Let's Code Get ready for another exciting edition of CodeClash! After witnessing participation from over 20,000 students across previous editions, Let's Code Community is bringing back The November Nexus — a competitive platform to test your technical knowledge, problem-solving skills, and coding abilities. Event Details: Event Dates: 29–30 November 2026 Participation: Individual Eligibility: Open to students and professionals from all academic backgrounds Total Cash Prizes: ₹12,000 Rewards: Cash prizes, certificates, and recognition Competition Structure Round 1: Foundations Round (MCQ) Date: 29 November 2026 Topics…"
-    },
-    {
-      "id": "unstop:5de987375bbe",
-      "name": "\"National Research & Innovation Challenge Season 3 by 3SVK – 4.8K+ Registrations\"",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-30T18:29:00.000Z",
-      "end": "2026-11-30T18:29:00.000Z",
-      "deadline": "2026-11-29T19:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
-      "prize": "Top Performers",
-      "themes": [
-        "Cloud Engineering"
-      ],
-      "url": "https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247",
-      "sourceUrl": "https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1652247"
-      ],
-      "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Powered By: 3SVK- “National Student Cloud & AI Innovation Challenge – Season 3” Hosted by 3SVK Ecosystem Platform Following an incredible response with over 4,000+ registered builders across previous cohorts, the 3SVK ecosystem continues to scale. Season 3 evaluation and code audit workflows have concluded, and final results and merit listings are being processed for announcement. You can continue visiting the Season 3 Official Portal for ongoing updates, results, and upcoming ISBN compendium distribution details. Meanwhile, Season 4 Early Registration & Orientation is officially LIVE! Builders can now register early on Unstop to secure their spot in our upcoming cohorts, explore the offici…"
     },
     {
       "id": "unstop:07716222ad9c",
@@ -2026,7 +2330,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2056,7 +2360,7 @@
         "1790680"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2087,7 +2391,7 @@
         "1769121"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2119,11 +2423,44 @@
         "1792025"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Innovate India – National Hackathon 2026 Innovate. Build. Inspire. Join now Official WhatsApp Community for important updates hackathon rounds, submission deadlines, shortlisting results, prizes, certificates, and announcements. Innovate India 2026 is a national-level online hackathon bringing together students, developers, and innovators to transform creative ideas into real-world solutions. Showcase your skills, build impactful projects, and compete for exciting prizes, AI credits, goodies, and certificates! Event Details Dates: 3 NOV– 6 DEC 2026 Mode: Online Team Size: 1 member Eligibility: Students and tech enthusiasts Registration: FREE Hackathon Rounds Round 1 — Idea Submission 3 –17…"
+    },
+    {
+      "id": "unstop:38646bb14b15",
+      "name": "Seed Hackathon 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-09T06:30:40.000Z",
+      "end": "2026-12-09T06:30:40.000Z",
+      "deadline": "2026-12-09T06:30:40.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "SEED Global Education Services Private Limited",
+      "prize": "₹50,000 · ₹35,000",
+      "themes": [
+        "Software Development",
+        "Applied AI",
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+      "sourceUrl": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1798287"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "SEED Hackathon 2026 The Age of Autonomy A chance to build something that matters. Event Overview: Format: Virtual | Free to Participate Event Dates: 15 October – 9 December 2026 Grand Finale: 9 December 2026 Team Size: 2–3 Members Cash Prize Pool: ₹2,00,000 University Partners: Boston University & GW Engineering Who Can Participate? Whether you're a student exploring technology or a professional already working in the field, this is your chance to put your skills to the test! Eligibility: Final Year & Pre-Final Year Students from BE / BTech / BSc / BCA backgrounds First Year & Second Year Students from ME / MTech / MSc / MCA backgrounds Working Professionals in Technical Roles What's the Ha…"
     },
     {
       "id": "devfolio:d5d1e6ca786c",
@@ -2148,7 +2485,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2180,7 +2517,7 @@
         "1774417"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2213,7 +2550,7 @@
         "1791313"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2247,7 +2584,7 @@
         "1792826"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2279,11 +2616,42 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Rack It Up 2026 is a free, online 48-hour hackathon by Rack'Em , the cloud hosting venture of Karma Enterprises , a student-founded company from Bengaluru. Most hackathons end with slides and a demo video. Rack It Up asks for more: build something real in a weekend, deploy it, and have it live on the internet by the final whistle. Why join Join our official WhatsApp community for updates, reminders and finding teammates: https://chat.whatsapp.com/LRiFw5cUMoW3F5R6VhyeVH Free $1,250 in Adaption credits + 3 months of Builder access for every participant, no card needed. Claim here: https://adaptionlabs.ai/app/auth/referral?ref=325edeb6303f24f391a2f4bc Build with a team (or solo) and ship a wor…"
+    },
+    {
+      "id": "unstop:2d060d575b98",
+      "name": "National Research & Cloud Innovation Challenge Season 4 by 3SVK — Powered by Adaption Labs | 4.8K+ Registrations",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-15T18:29:00.000Z",
+      "end": "2026-12-15T18:29:00.000Z",
+      "deadline": "2026-11-29T19:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Jawaharlal Nehru Technological University (JNTUH), Hyderabad",
+      "prize": "Top Performers",
+      "themes": [
+        "Cloud Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247",
+      "sourceUrl": "https://unstop.com/hackathons/cloud-innovation-challenge-jawaharlal-nehru-technological-university-jntuh-hyderabad-1652247",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1652247"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Powered By: 3SVK- “National Research & Cloud Innovation Challenge Season 4 by 3SVK | Adaption Labs ” Hosted by 3SVK Ecosystem Platform Following an incredible response with over 4,800+ registered builders across previous cohorts, the 3SVK ecosystem continues to scale. Season 3 evaluation and code audit workflows have concluded, and final results and merit listings are being processed for announcement. You can continue visiting the Season 3 Official Portal for ongoing updates, results, and upcoming ISBN compendium distribution details. Meanwhile, Season 4 Early Registration & Orientation is officially LIVE! Builders can now register early on Unstop to secure their spot in our upcoming cohort…"
     },
     {
       "id": "unstop:e926c02f01e4",
@@ -2313,20 +2681,20 @@
         "1794522"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Join the official WhatsApp group for more further info: https://chat.whatsapp.com/FO0K3PkXvXcDjmnJMgix2H Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Top 3 teams: Incubation and product-development opportunities Top 3 teams: Letters of Recommendation Every eligible participant: One complimentary .xyz domain Every eligible participant: $100 in Inkloom AI credits Every eligible participant: $500 in Adaption platform credits Every eligible participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 5 Nov — 16 Nov 2026 No.of Rounds: 3 Mode: Completely online Team size: 1–…"
     },
     {
-      "id": "unstop:1a3c14bd5e53",
+      "id": "unstop:fd3d2843a776",
       "name": "K Hacks 4.0",
       "type": "hackathon",
       "mode": "online",
       "lane": "online",
-      "start": "2026-12-19T08:30:00.000Z",
-      "end": "2026-12-19T08:30:00.000Z",
+      "start": "2026-12-18T08:30:00.000Z",
+      "end": "2026-12-18T08:30:00.000Z",
       "deadline": "2026-11-25T18:30:00.000Z",
       "city": "Chennai",
       "venue": "College of Engineering, Guindy, Anna University",
@@ -2349,7 +2717,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2384,7 +2752,7 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2416,7 +2784,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2447,7 +2815,7 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2478,7 +2846,7 @@
         "1794889"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2509,7 +2877,7 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2541,11 +2909,11 @@
         "1795775"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team’s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyber Security and Blockchain Government Tech Ideas Energy Conservation Student Innvoation Template Format Problem Iden…"
+      "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team’s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyber Security and Blockchain Government Tech Ideas Energy Conservation Student Innvoation SPECIAL CATEGORY : TECH KIDS…"
     },
     {
       "id": "unstop:48de674fffc3",
@@ -2572,7 +2940,7 @@
         "1778597"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2604,11 +2972,42 @@
         "1759619"
       ],
       "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Welcome to The Arcticathon by Bidaya! A solo online hackathon where you’ll take an idea from a blank screen to a working, deployed website all on your own. About The Arcticathon: The Arcticathon is a student-focused online hackathon by Bidaya , built around the theme of the Arctic . You can create almost anything that runs in a browser: a web app, interactive experience, game, tool, or something completely different. Your project should connect meaningfully to the Arctic theme and showcase your creativity, technical skills, and problem-solving. This is a solo-only hackathon. You’ll be the designer, developer, and project manager of your own project. &zwj; What You Need to Build: Requirement…"
+    },
+    {
+      "id": "unstop:6f88b6886399",
+      "name": "AETHOS - Day Zero",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-02-04T11:31:58.000Z",
+      "end": "2027-02-04T11:31:58.000Z",
+      "deadline": "2027-01-07T18:30:03.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Together We Solve",
+      "prize": "Prizes to be announced soon 🤫",
+      "themes": [
+        "Applied Research"
+      ],
+      "url": "https://unstop.com/hackathons/aethos-day-zero-together-we-solve-1730263",
+      "sourceUrl": "https://unstop.com/hackathons/aethos-day-zero-together-we-solve-1730263",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1730263"
+      ],
+      "firstSeen": "2026-11-07T07:40:22.685Z",
+      "lastVerified": "2026-11-07T07:40:28.982Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "If civilization had to begin again tomorrow, what would humanity build first? Unlike conventional hackathons that ask participants to build products around a technology, DAY ZERO challenges teams to engineer the foundations of an entirely new civilization. Participants are encouraged to think beyond applications and incremental improvements. Every project should solve a meaningful challenge that contributes to rebuilding society—whether through communication, energy, healthcare, infrastructure, education, resilience, exploration, or entirely new approaches that redefine the future. This is not about recreating yesterday. It is about engineering tomorrow. The Mission: Design and develop an i…"
     },
     {
       "id": "unstop:bb71c8fc2032",
@@ -3359,6 +3758,73 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:adc4b141e42d",
+      "name": "ChaosCore Hackathon 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-15T15:30:00.000Z",
+      "end": "2026-11-15T15:30:00.000Z",
+      "deadline": "2026-11-06T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Invoqe",
+      "prize": "Winner",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
+      "sourceUrl": "https://unstop.com/hackathons/chaoscore-hackathon-2026-invoqe-1774071",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1774071"
+      ],
+      "firstSeen": "2026-10-24T06:19:25.299Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Hackathon: What happens when creativity meets chaos? Welcome to ChaosCore Hackathon 2026 - an open-innovation hackathon where unconventional ideas, bold experiments, and creative problem-solving come together. There is no fixed problem statement, no predefined domain, and no restriction on technology. Choose a problem you care about, improve an existing system, create a product you've always wanted to build, or explore an entirely new idea. This Halloween, step into the chaos, challenge the ordinary, and turn your wildest ideas into working solutions. Embrace the Chaos. Build the Unexpected. Join the WhatsApp group for updates and communication: https://chat.whatsapp.com/GEJJPzKFC…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:f03981a0dd59",
+      "name": "VibeX codes 26",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-15T15:30:00.000Z",
+      "end": "2026-11-15T15:30:00.000Z",
+      "deadline": "2026-11-07T03:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "globalyogacourse",
+      "prize": "₹30,00,000 · ₹1,00,000",
+      "themes": [
+        "Software Development",
+        "Conferences"
+      ],
+      "url": "https://unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232",
+      "sourceUrl": "https://unstop.com/hackathons/vibex-codes-26-globalyogacourse-1766232",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1766232"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "VibeX code 26 — Build something worth sharing. Join Admitiy for a free, 12-hour online hackathon hosted on Discord on 15 November 2026, from 9:00 AM to 9:00 PM IST. Bring your ideas, build a project, and compete for a Winner’s Certificate. How to Register Complete registration with your name and email address. You may share a link to previous work, GitHub, or a portfolio. This is optional and is not required to participate. Who Can Participate Students, beginners, and experienced builders are welcome. Participate solo or in a team of up to 4 members. Members from different colleges and specialisations may team up. Entry is completely free. Format and Rules The hackathon runs from 9:00 AM to…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
       "id": "unstop:73cdf4764ee3",
       "name": "Threws Odyssey 2026",
       "type": "hackathon",
@@ -3423,6 +3889,38 @@
       "description": "Overview THREWS ODYSSEY 2026 is an online research and innovation hackathon organised by Threws – The Research World. The hackathon brings together students, developers, researchers and technology enthusiasts to build practical solutions to real-world problems across multiple domains. Participants can choose a problem from one of the following tracks: Artificial Intelligence & Machine Learning Medical & HealthTech Cybersecurity FinTech ClimateTech & Sustainability DeepTech & Scientific Computing Smart Cities & Social Impact Human-AI & Assistive Technology Web3, Privacy & Decentralised Systems Open Innovation What to Build Participants are expected to identify a meaningful problem and develo…",
       "stale": false,
       "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:c647e5b8a7e5",
+      "name": "Tatusta",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-14T07:38:00.000Z",
+      "end": "2026-11-14T07:38:00.000Z",
+      "deadline": "2026-11-12T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Thakur College of Engineering and Technology (TCET), Mumbai",
+      "themes": [
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
+      "sourceUrl": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1785430"
+      ],
+      "firstSeen": "2026-10-31T07:25:08.668Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Innovate. Build. Break Barriers. About the Hackathon ISTE TCET invites passionate innovators, developers, designers, and problem-solvers to participate in an exciting hackathon that challenges participants to transform ideas into impactful solutions. The hackathon provides a platform for students to collaborate, think creatively, explore emerging technologies, and develop innovative solutions to real-world problems. Whether you are a coder, designer, researcher, or aspiring entrepreneur, this is your opportunity to showcase your skills, experiment with technology, and bring your ideas to life. Work in teams, tackle challenging problem statements, build functional prototypes, and co…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
     },
     {
       "id": "unstop:b8fc0b240188",
@@ -3597,6 +4095,39 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:ec6ffefbfb72",
+      "name": "Bug Bounty",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-08T18:29:00.000Z",
+      "end": "2026-11-08T18:29:00.000Z",
+      "deadline": "2026-11-06T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Oronzo LLP",
+      "themes": [
+        "Security Testing",
+        "Ethical Hacking"
+      ],
+      "url": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
+      "sourceUrl": "https://unstop.com/hackathons/bug-bounty-oronzo-llp-1778754",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1778754"
+      ],
+      "firstSeen": "2026-10-27T06:42:30.487Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "F-Cube Bug Bounty | Discover. Report. Improve. Join the F-Cube Bug Bounty, hosted by Oronzo LLP, and help us make F-Cube safer, more reliable, and easier to use. https://chat.whatsapp.com/DA85Ghe57vnGZ8SAV5gv6r Explore the app, identify bugs and vulnerabilities within the authorized scope, and submit clear reports to help improve app security, functionality, performance, and user experience. Organized by : Oronzo LLP Event Dates : November 6–8, 2026. Mode : Completely Online️ Entry : Free Reward : Top contributors will have an opportunity to be considered for paid internships at Oronzo LLP. Event Schedule: Friday, November 6 | 6:00 PM IST Kickoff Meeting & Walkthrough Join the online kickof…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
       "id": "unstop:f5fb2044d765",
       "name": "ReBuild '26 — The Dashboard Recreation Hackathon by CampusCode",
       "type": "hackathon",
@@ -3626,6 +4157,38 @@
       "manual": false,
       "linkStatus": "ok",
       "description": "Join our WhatsApp group for updates, doubts & announcements https://chat.whatsapp.com/FaW0n5jiZRj8c5mz35e5EC?s=cl&p=a&mlu=4&ilr=4 About ReBuild '26 CampusCode presents ReBuild '26 — The Dashboard Recreation Hackathon! Think you can rebuild our dashboard better? Here's your chance to prove it. Study the CampusCode dashboard, recreate it with your own skills, and show us what you've got! *The Challenge* Recreate the CampusCode Dashboard page as closely and creatively as you can. Explore the dashboard here https://campus-code-ten.vercel.app *What You Get* A Certificate for your achievement Best entries may get selected for an Internship opportunity at CampusCode Pick your stack, start building…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:b311315faee5",
+      "name": "BuildLab 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-08T11:30:00.000Z",
+      "end": "2026-11-08T11:30:00.000Z",
+      "deadline": "2026-11-07T04:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Frontend Arena",
+      "themes": [
+        "Frontend Development"
+      ],
+      "url": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
+      "sourceUrl": "https://unstop.com/hackathons/buildlab-2026-frontend-arena-1770422",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1770422"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "BuildLab 2026 — Professional Frontend Development Hackathon Organized by Frontend Arena About the Event: BuildLab 2026 is an online frontend development hackathon exclusively designed for working professionals. The competition challenges individual developers to transform a given problem statement into a functional, responsive, and polished web application within a limited timeframe. The event focuses on modern frontend engineering, AI-assisted development, vibe coding, UI/UX design, and practical product building. Participants can use modern AI coding tools to accelerate development while demonstrating their individual technical skills, creativity, and problem-solving abilities. Eligibilit…",
       "stale": false,
       "archiveNote": "Registration closed"
     },
@@ -3663,6 +4226,39 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:aafe7d433b51",
+      "name": "The Outpost",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-07T10:30:00.000Z",
+      "end": "2026-11-07T10:30:00.000Z",
+      "deadline": "2026-11-06T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Frontend Arena",
+      "prize": "Winner",
+      "themes": [
+        "Frontend Development"
+      ],
+      "url": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
+      "sourceUrl": "https://unstop.com/hackathons/the-outpost-frontend-arena-1766381",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1766381"
+      ],
+      "firstSeen": "2026-10-22T05:15:10.780Z",
+      "lastVerified": "2026-11-06T08:24:08.323Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "THE OUTPOST One Problem. One Builder. Six Hours. THE OUTPOST is a 6-hour, fully online, individual frontend development hackathon organized by Frontend Arena , designed to challenge participants to turn creative ideas into functional, visually impressive, and user-friendly web experiences. Inspired by the spirit of exploration, strategy, and teamwork-free individual competition, THE OUTPOST gives every participant the opportunity to showcase their frontend development skills, creativity, and problem-solving abilities through a time-bound coding mission. Participants will receive a problem statement at the beginning of the hackathon and must independently design, develop, test, and submit th…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
       "id": "unstop:2e099c92b5a1",
       "name": "Reverse Coding Challenge 2026",
       "type": "hackathon",
@@ -3689,12 +4285,12 @@
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
       "lastVerified": "2026-10-31T07:25:15.374Z",
-      "status": "delisted",
+      "status": "closed",
       "manual": false,
       "linkStatus": "ok",
       "description": "Organised by InfoTechiezz in collaboration with Thozhil Think Logically. Code Smartly. Win Big. Are you ready to test your coding skills and challenge your problem-solving abilities? Join the Reverse Coding Challenge 2026 , an online coding competition designed to evaluate your logical thinking, programming fundamentals, algorithmic knowledge, and Data Structures and Algorithms (DSA) skills. Compete with fellow students and developers, solve challenging coding problems, and earn recognition for your performance. Competition Format: Competition Type: Online Coding Challenge Total Rounds: 1 Duration: 90 Minutes Total Problems: 4 DSA Problems Registration Fee: Free Mode: Online Single Round —…",
       "stale": false,
-      "archiveNote": "No longer listed at the source"
+      "archiveNote": "Registration closed"
     },
     {
       "id": "unstop:09200647dfbf",

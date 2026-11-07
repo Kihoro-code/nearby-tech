@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:24:01.322Z",
+  "generatedAt": "2026-11-07T07:40:22.685Z",
   "sources": [
     {
       "id": "devfolio",
@@ -7,8 +7,8 @@
       "url": "https://devfolio.co",
       "status": "ok",
       "events": 4,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "4 upcoming events.",
       "rows": 14
     },
@@ -17,11 +17,11 @@
       "name": "Unstop",
       "url": "https://unstop.com",
       "status": "ok",
-      "events": 73,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
-      "message": "73 upcoming events.",
-      "rows": 160
+      "events": 85,
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
+      "message": "85 upcoming events.",
+      "rows": 175
     },
     {
       "id": "gdg-nashik",
@@ -29,8 +29,8 @@
       "url": "https://gdg.community.dev/gdg-nashik/",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
       "rows": 4
     },
@@ -40,8 +40,8 @@
       "url": "https://www.meetup.com/wordpress-meetup-nashik/",
       "status": "ok",
       "events": 3,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "3 upcoming events.",
       "rows": 10
     },
@@ -51,10 +51,10 @@
       "url": "https://nashik.cncg.in/",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
-      "rows": 1
+      "rows": 0
     },
     {
       "id": "allevents-nashik",
@@ -62,8 +62,8 @@
       "url": "https://allevents.in/nashik/technology",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
       "rows": 0
     },
@@ -73,8 +73,8 @@
       "url": "https://www.meetup.com/awsugnsk/",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
       "rows": 0
     },
@@ -84,7 +84,7 @@
       "url": "https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events",
       "status": "error",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
       "lastSuccess": "2026-10-25T15:51:18.306Z",
       "message": "Source failed: HTTP 403 for https://www.kkwagh.edu.in/life-at-k-k-wagh/happening/events"
     },
@@ -94,8 +94,8 @@
       "url": "https://siem.sandipfoundation.org/computer-engineering/events",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
       "rows": 164
     },
@@ -105,8 +105,8 @@
       "url": "https://lu.ma/mumbai",
       "status": "ok",
       "events": 1,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "1 upcoming event.",
       "rows": 1
     },
@@ -116,8 +116,8 @@
       "url": "https://www.mlh.com/events",
       "status": "ok",
       "events": 0,
-      "lastChecked": "2026-11-06T08:24:01.322Z",
-      "lastSuccess": "2026-11-06T08:24:01.322Z",
+      "lastChecked": "2026-11-07T07:40:22.685Z",
+      "lastSuccess": "2026-11-07T07:40:22.685Z",
       "message": "No upcoming events.",
       "rows": 0
     }
