@@ -1222,5 +1222,11 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-10T08:45:38.340Z"
+  },
+  "https://unstop.com/hackathons/code-to-cart-ai-x-e-commerce-hackathon-kartai-x-codexcelerate-kartai-1803912": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-11T08:11:38.952Z"
   }
 }
