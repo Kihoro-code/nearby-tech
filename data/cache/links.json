@@ -1246,5 +1246,29 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-12T08:45:22.509Z"
+  },
+  "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-13T08:37:22.991Z"
+  },
+  "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-13T08:37:22.991Z"
+  },
+  "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-13T08:37:22.991Z"
+  },
+  "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-13T08:37:22.991Z"
   }
 }
