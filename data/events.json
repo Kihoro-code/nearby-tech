@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:28:31.361Z",
+  "generatedAt": "2026-11-17T09:39:46.099Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,11 +95,47 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Wordpress Meetup Nashik Join us for the Nashik WordPress Meetup, in March 2024! Whether you're a WordPress enthusiast, a professional developer, a content creator, or just curious about WordPress, this meetup is the perfect opportunity to enhance your skills, share knowledge, and network with fellow WordPress users in Nashik."
+    },
+    {
+      "id": "unstop:53b9e3d9f2f9",
+      "name": "Srujana AI 2026 Hackathon (Batch 3)",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-11-18T18:30:00.000Z",
+      "end": "2026-11-18T18:30:00.000Z",
+      "deadline": "2026-11-18T18:30:00.000Z",
+      "city": "Pune",
+      "venue": "Prabhavee Tech Park, Baner, Pune, Maharashtra 411045",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Biorad Medisys Private Limited",
+      "prize": "₹15,000 · ₹10,000",
+      "themes": [
+        "Artificial Intelligence"
+      ],
+      "url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+      "sourceUrl": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1794480"
+      ],
+      "firstSeen": "2026-11-17T09:39:46.099Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
+      "status": "active",
+      "travelNote": "Check if round 1 is online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Hackathon Srujana Hackathon Series 2026 – Batch 2 is an innovation-driven initiative designed to bring together students, aspiring developers, and creative problem-solvers to explore real-world challenges and develop impactful solutions. Organized at Biorad Medisys, Prabhavee Tech Park, Pune , the event will introduce participants to the Srujana initiative, provide insights into Ethosh’s projects and Biorad’s AI initiatives, and present problem statements that encourage innovative thinking and practical problem-solving. Participants will gain an understanding of the challenges, proposed solution expectations, and judging criteria before beginning their ideation and development jou…"
     },
     {
       "id": "luma-mumbai:b5e83dde5e5d",
@@ -128,7 +164,7 @@
         "https://luma.com/rofymmm3"
       ],
       "firstSeen": "2026-10-25T15:48:34.849Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -165,7 +201,7 @@
         "1800857"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -202,12 +238,12 @@
         "1811240"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
       "linkStatus": "ok",
-      "description": "About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn their ideas into working prototypes at an on-campus hackathon at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition runs in two rounds, with Rou…"
+      "description": "Complete Regsiteration and Submission at: https://techfest.org/competitions/Algo It is mandatory to register on Techfest Website . further details will be updated on the Website only . About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn thei…"
     },
     {
       "id": "unstop:35ff8583295f",
@@ -238,49 +274,12 @@
         "1793796"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
       "linkStatus": "ok",
       "description": "VYOM Edition 1 (2026–27) — Official Event Overview & Guidelines VYOM Edition 1 (2026–27) is a premier National-Level Hardware + Software Hackathon cum Project Expo organized by the Government College of Engineering, Chhatrapati Sambhajinagar (GECCS) in association with the Center of Excellence (CoE) – TSSIP and the Ankur Incubation Center Foundation (AICF) . Event at a Glance & Key Details Dates: 2–3 January 2027 (Saturday–Sunday) Venue: Government College of Engineering, Chhatrapati Sambhajinagar (GECCS Campus) Total Prize Pool: ₹50,000+ (with separate prizes for Hardware and Software tracks) Organized By: Government College of Engineering, Chhatrapati Sambhajinagar (GECCS) In Association…"
-    },
-    {
-      "id": "unstop:0d364ee94eb7",
-      "name": "SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2027 Auction Strategy",
-      "type": "hackathon",
-      "mode": "hybrid",
-      "lane": "maharashtra",
-      "start": "2026-12-07T16:20:01.000Z",
-      "end": "2026-12-07T16:20:01.000Z",
-      "deadline": "2026-11-16T18:29:12.000Z",
-      "city": "Mumbai",
-      "venue": "103-104, B-Wing, Fulcrum, Hiranandani Business Park, Chhatrapati Shivaji Maharaj Int'l Airport Rd, Andheri East, Mumbai, Maharashtra 400099",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Rajasthan Royals",
-      "prize": "National-Level Winner",
-      "themes": [
-        "Case Study Competitions",
-        "Quizzes & Treasure Hunt"
-      ],
-      "url": "https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
-      "sourceUrl": "https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1792758"
-      ],
-      "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
-      "status": "active",
-      "travelNote": "Check if round 1 is online",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "SupeRR Selector is back. Rajasthan Royals invites students, data enthusiasts, analysts and cricket fans from across the country to step into the shoes of a modern talent scout, one who blends cricketing instinct with the power of data. Participants get access to exclusive RR data that rarely leaves a franchise's war room, and use analytics, machine learning models and interactive dashboards to make the kind of calls RR makes ahead of an auction. Season 1 drew 7,500+ participants from 39 nationalities. The winners backed Vignesh Puthur in their strategy, and RR went on to bid for and sign him at the IPL 2026 auction. Your idea could be next. This season, Round 1 challenges you to analyse pla…"
     },
     {
       "id": "unstop:9e03bc4ebcce",
@@ -311,7 +310,7 @@
         "1800629"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -348,7 +347,7 @@
         "1771952"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -383,7 +382,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -419,7 +418,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -455,12 +454,48 @@
         "1788753"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Have Questions About CIH 4.0? For any queries, doubts, clarifications or assistance regarding Central India Hackathon 4.0 (CIH 4.0) , join our official WhatsApp Participants' Group. Join the WhatsApp Group: https://chat.whatsapp.com/GcSt2hlhnnd7RZG4K0BYY0?s=sw&p=i&mlu=4&ilr=4&iam=2 Our organizing team will assist you with your queries and provide important event-related updates. Central India Hackathon 4.0 (CIH 4.0) is a national-level Deep-Tech Innovation Hackathon organized by Suryodaya College of Engineering & Technology (SCET), Nagpur, and Suryodaya Technology Business Incubation Foundation (STBIF) , bringing together innovators, developers, engineers and researchers from across India t…"
+      "description": "IMPORTANT: REGISTRATION & FEE DETAILS Registration & Idea Submission: 100% FREE. Virtual Idea Presentation Round: 100% FREE. Offline Grand Finale: ₹1,500 per shortlisted team, payable only after selection to confirm participation. This covers food and accommodation arrangements. No payment is required during initial registration, idea submission or the virtual round. Have Questions About CIH 4.0? For queries, doubts, clarifications or assistance, join our official WhatsApp Participants' Group. Join WhatsApp Group: https://chat.whatsapp.com/GcSt2hlhnnd7RZG4K0BYY0?s=sw&p=i&mlu=4&ilr=4&iam=2 Event Overview Central India Hackathon 4.0 (CIH 4.0) is a National-Level Deep-Tech Innovation Hackathon…"
+    },
+    {
+      "id": "unstop:27e06da3d686",
+      "name": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2027-01-23T18:29:00.000Z",
+      "end": "2027-01-23T18:29:00.000Z",
+      "deadline": "2026-12-15T18:29:00.000Z",
+      "city": "Mumbai",
+      "venue": "K. J. Somaiya School of Engineering, Vidyavihar, Mumbai 400077",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "K. J. Somaiya College of Engineering (KJSCE), Vidyavihar",
+      "prize": "₹1,50,000 · ₹1,20,000",
+      "themes": [
+        "Applied AI"
+      ],
+      "url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+      "sourceUrl": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1792152"
+      ],
+      "firstSeen": "2026-11-17T09:39:46.099Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
+      "status": "active",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "24 hours. One real farm problem. One room full of people trying to solve it. Most hackathons ask you to build another app for people like you. This one asks you to build for the people who feed the country. Drones that spot-crop stress. Rovers that spray with precision. A voice assistant that answers a farmer in their own language. If you can build it, there is probably a field that needs it. Agri-Tech Hackathon is a national-level, 24-hour offline sprint hosted by K. J. Somaiya School of Engineering, Mumbai, and organised by e-CESA. Software and hardware builds are both welcome. Last edition, in numbers and names 1,772 registrations on Unstop ₹2,00,000 prize pool First place: Team Snack Ov…"
     },
     {
       "id": "unstop:d23fedf29cb0",
@@ -491,7 +526,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -525,7 +560,7 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -562,7 +597,7 @@
         "1798677"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -596,7 +631,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -632,7 +667,7 @@
         "1772235"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -661,7 +696,7 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -691,7 +726,7 @@
         "1763060"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -723,7 +758,7 @@
         "1775867"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -755,7 +790,7 @@
         "1762305"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -787,7 +822,7 @@
         "1799776"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -818,7 +853,7 @@
         "1799767"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -850,7 +885,7 @@
         "1800924"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -882,11 +917,11 @@
         "1792269"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
+      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/BuY0UZv1JaiJffPceN6iUR?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
     },
     {
       "id": "unstop:03327ebfb67e",
@@ -914,11 +949,11 @@
         "1799509"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
+      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/BuY0UZv1JaiJffPceN6iUR?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
     },
     {
       "id": "unstop:071093eb8c9a",
@@ -946,11 +981,11 @@
         "1799475"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
+      "description": "Overview: Date: 21st Nov, 2026 Registrations: Now Open Kickoff Session: 21st Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/CQREpdwruWs7Ch2XInq97o?s=cl&p=a&iam=2 This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. What You’ll Do: During this one day, participants will: Conceptualize, build, and launch a complete agentic AI solution Work on practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The c…"
     },
     {
       "id": "unstop:73df95aacaf6",
@@ -978,11 +1013,11 @@
         "1799510"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview Date: 21st Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 21st Nov 2026 (Saturday) [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&p=a&iam=2 This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You’ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You’ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The c…"
+      "description": "Overview Date: 21st Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 21st Nov 2026 (Saturday) [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates & Details: https://chat.whatsapp.com/BuY0UZv1JaiJffPceN6iUR?s=cl&p=a&iam=2 This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You’ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You’ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The c…"
     },
     {
       "id": "unstop:82896cb75605",
@@ -1010,7 +1045,7 @@
         "1800891"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1039,7 +1074,7 @@
         "4a39b7a9b8d747e5a85b2ff58ff570e4"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1070,7 +1105,7 @@
         "1807080"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1102,7 +1137,7 @@
         "1799782"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1134,7 +1169,7 @@
         "1780048"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1166,7 +1201,7 @@
         "1799788"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1198,7 +1233,7 @@
         "1799790"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1230,7 +1265,7 @@
         "1799791"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1262,7 +1297,7 @@
         "1786652"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1294,7 +1329,7 @@
         "1769646"
       ],
       "firstSeen": "2026-10-23T06:23:37.840Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1326,7 +1361,7 @@
         "1811085"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1356,7 +1391,7 @@
         "1806984"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1388,7 +1423,7 @@
         "1800324"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1420,7 +1455,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1452,7 +1487,7 @@
         "1773229"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1484,7 +1519,7 @@
         "1803912"
       ],
       "firstSeen": "2026-11-11T08:11:32.392Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1516,7 +1551,7 @@
         "1798702"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1547,7 +1582,7 @@
         "1797543"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1578,7 +1613,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1610,7 +1645,7 @@
         "1793392"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1642,7 +1677,7 @@
         "1799778"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1674,7 +1709,7 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1706,7 +1741,7 @@
         "1799780"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1738,7 +1773,7 @@
         "1805107"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1771,7 +1806,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1801,7 +1836,7 @@
         "1790680"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1836,7 +1871,7 @@
         "1805946"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1868,11 +1903,11 @@
         "1799281"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Overview The Adaption Dataset Challenge is an online challenge run by Hackyard with Adaption Labs. Build an instruction-tuning dataset for an AI assistant serving an underserved language or domain. Use Adaption to create or improve the dataset, train a model with AutoScientist, and show the quality and usefulness of the result. The theme Pick a practical assistant use case. Example directions (suggestions, not required): A question-answering assistant for an underserved language. An assistant that explains a specialised topic or service in clear, accessible language. A domain-specific assistant for a clearly defined group of users. Explain who the users are, the problem you're solving and t…"
+      "description": "Adaption Dataset Challenge Organised by Hackyard, in collaboration with Adaption Labs. Fully online. What you will do Build an AI assistant for an underserved language or topic, starting with its data. Create or improve an instruction-tuning dataset with Adaption (Invent a Dataset and/or Adaptive Data), train a model with AutoScientist, evaluate it, and show how much it improved. Start from a seed dataset you have the right to use and adapt. You pick the use case. Some ideas: A question-answering assistant for an underserved language. An assistant that explains a specialised topic or service in simple language. An assistant for a clearly defined group of users. How to join Register once, on…"
     },
     {
       "id": "unstop:4c40f647b6de",
@@ -1900,11 +1935,11 @@
         "1792025"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Innovate India – National Hackathon 2026 Innovate. Build. Inspire. Join now Official WhatsApp Community for important updates hackathon rounds, submission deadlines, shortlisting results, prizes, certificates, and announcements. Innovate India 2026 is a national-level online hackathon bringing together students, developers, and innovators to transform creative ideas into real-world solutions. Showcase your skills, build impactful projects, and compete for exciting prizes, AI credits, goodies, and certificates! Event Details Dates: 3 NOV– 6 DEC 2026 Mode: Online Team Size: 1 member Eligibility: Students and tech enthusiasts Registration: FREE Hackathon Rounds Round 1 — Idea Submission 3 –17…"
+      "description": "Innovate India – National Hackathon 2026 Innovate. Build. Inspire. Join now Official WhatsApp Community for important updates hackathon rounds, submission deadlines, shortlisting results, prizes, certificates, and announcements. Innovate India 2026 is a national-level online hackathon bringing together students, developers, and innovators to transform creative ideas into real-world solutions. Showcase your skills, build impactful projects, and compete for exciting prizes, AI credits, goodies, and certificates! Event Details Dates: 3 NOV– 6 DEC 2026 Mode: Online Team Size: 1 member Eligibility: Students and tech enthusiasts Registration: FREE Hackathon Rounds Round 1 — Idea Submission 3 –20…"
     },
     {
       "id": "unstop:a2f1eaeb4c2f",
@@ -1932,7 +1967,7 @@
         "1807297"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1961,7 +1996,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1993,7 +2028,7 @@
         "1774417"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2026,7 +2061,7 @@
         "1791313"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2058,7 +2093,7 @@
         "1792826"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2091,7 +2126,7 @@
         "1794522"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2127,7 +2162,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2162,7 +2197,7 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2194,7 +2229,7 @@
         "1789431"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2226,7 +2261,7 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2257,7 +2292,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2290,7 +2325,7 @@
         "1798287"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2321,7 +2356,7 @@
         "1811493"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2335,7 +2370,7 @@
       "lane": "online",
       "start": "2026-12-30T10:30:00.000Z",
       "end": "2026-12-30T10:30:00.000Z",
-      "deadline": "2026-11-16T18:30:00.000Z",
+      "deadline": "2026-12-07T18:30:00.000Z",
       "city": "New Delhi",
       "venue": "Indira Gandhi Delhi Technical University for Women",
       "state": "Delhi",
@@ -2357,7 +2392,7 @@
         "1799179"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2388,7 +2423,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2420,7 +2455,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2451,7 +2486,7 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2482,7 +2517,7 @@
         "1794889"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2514,7 +2549,7 @@
         "1811016"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2545,7 +2580,7 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2577,7 +2612,7 @@
         "1795775"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2591,7 +2626,7 @@
       "lane": "online",
       "start": "2027-01-30T06:30:00.000Z",
       "end": "2027-01-30T06:30:00.000Z",
-      "deadline": "2026-12-05T04:30:00.000Z",
+      "deadline": "2026-12-15T04:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "host": "College of Engineering (CEG), Guindy,  Anna University",
@@ -2609,7 +2644,7 @@
         "1776729"
       ],
       "firstSeen": "2026-11-14T07:55:30.689Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2640,7 +2675,7 @@
         "1778597"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2672,7 +2707,7 @@
         "1759619"
       ],
       "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2703,7 +2738,7 @@
         "1730263"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2733,7 +2768,7 @@
         "1761846"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2769,7 +2804,7 @@
         "1746233"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2805,7 +2840,7 @@
         "1746142"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2841,7 +2876,7 @@
         "1746234"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2877,7 +2912,7 @@
         "1746232"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2913,7 +2948,7 @@
         "1735451"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2944,7 +2979,7 @@
         "1803074"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "lastVerified": "2026-11-17T09:39:52.537Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3020,6 +3055,45 @@
       "manual": false,
       "linkStatus": "ok",
       "description": "Tracks T1: AI, Cybersecurity & Digital Trust T2: Smart Infrastructure & IOT T3: Sustainability, AgriTech & Social Impact Initial registration and Round 1 (Online) are 100% Free. Shortlisted teams advancing to Round 2 (Offline) will be required to pay a nominal offline event fee of ₹1200 per team. Eligibility Participants must be currently enrolled students (UG, PG, diploma or equivalent) at a recognised institution in India. Participants must be 18 or older on 18 Dec 2026, with a guardian-consent arrangement is approved by the organisers. Team size is 2 to 4 members. Solo entries are not accepted. Cross-college teams are allowed. A person may be in only one team. Duplicate registrations dis…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:0d364ee94eb7",
+      "name": "SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2027 Auction Strategy",
+      "type": "hackathon",
+      "mode": "hybrid",
+      "lane": "maharashtra",
+      "start": "2026-12-07T16:20:01.000Z",
+      "end": "2026-12-07T16:20:01.000Z",
+      "deadline": "2026-11-16T18:29:12.000Z",
+      "city": "Mumbai",
+      "venue": "103-104, B-Wing, Fulcrum, Hiranandani Business Park, Chhatrapati Shivaji Maharaj Int'l Airport Rd, Andheri East, Mumbai, Maharashtra 400099",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Rajasthan Royals",
+      "prize": "National-Level Winner",
+      "themes": [
+        "Case Study Competitions",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
+      "sourceUrl": "https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1792758"
+      ],
+      "firstSeen": "2026-11-05T08:20:56.507Z",
+      "lastVerified": "2026-11-16T08:28:39.741Z",
+      "status": "closed",
+      "travelNote": "Check if round 1 is online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "SupeRR Selector is back. Rajasthan Royals invites students, data enthusiasts, analysts and cricket fans from across the country to step into the shoes of a modern talent scout, one who blends cricketing instinct with the power of data. Participants get access to exclusive RR data that rarely leaves a franchise's war room, and use analytics, machine learning models and interactive dashboards to make the kind of calls RR makes ahead of an auction. Season 1 drew 7,500+ participants from 39 nationalities. The winners backed Vignesh Puthur in their strategy, and RR went on to bid for and sign him at the IPL 2026 auction. Your idea could be next. This season, Round 1 challenges you to analyse pla…",
       "stale": false,
       "archiveNote": "Registration closed"
     },
@@ -4004,12 +4078,12 @@
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
       "lastVerified": "2026-11-05T08:21:04.378Z",
-      "status": "delisted",
+      "status": "closed",
       "manual": false,
       "linkStatus": "ok",
       "description": "Hack Paradise – Kaushalya 2.0 Welcome to HACK PARADISE, an exciting hackathon organized as part of KAUSHALYA 2.0, the annual technical and cultural festival of Chhattisgarh Swami Vivekanand Technical University (CSVTU), University Teaching Department, Bhilai. HACK PARADISE is a platform for developers, innovators, programmers, and creative problem-solvers to transform their ideas into practical solutions. It brings together passionate students who are eager to explore technology, collaborate with like-minded individuals, and build innovative projects. Participants will get an opportunity to demonstrate their technical knowledge, creativity, teamwork, and problem-solving abilities through an…",
       "stale": false,
-      "archiveNote": "No longer listed at the source"
+      "archiveNote": "Registration closed"
     },
     {
       "id": "unstop:e231d9a2d668",
