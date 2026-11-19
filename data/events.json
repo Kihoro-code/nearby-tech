@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:58:47.522Z",
+  "generatedAt": "2026-11-19T09:18:03.176Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcpblc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,21 +95,21 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Wordpress Meetup Nashik Join us for the Nashik WordPress Meetup, in March 2024! Whether you're a WordPress enthusiast, a professional developer, a content creator, or just curious about WordPress, this meetup is the perfect opportunity to enhance your skills, share knowledge, and network with fellow WordPress users in Nashik."
     },
     {
-      "id": "unstop:53b9e3d9f2f9",
+      "id": "unstop:8344f5d92af1",
       "name": "Srujana AI 2026 Hackathon (Batch 3)",
       "type": "hackathon",
       "mode": "in-person",
       "lane": "maharashtra",
-      "start": "2026-11-18T18:30:00.000Z",
-      "end": "2026-11-18T18:30:00.000Z",
-      "deadline": "2026-11-18T18:30:00.000Z",
+      "start": "2026-11-20T00:30:00.000Z",
+      "end": "2026-11-20T00:30:00.000Z",
+      "deadline": "2026-11-20T00:30:00.000Z",
       "city": "Pune",
       "venue": "Prabhavee Tech Park, Baner, Pune, Maharashtra 411045",
       "state": "Maharashtra",
@@ -130,7 +130,7 @@
         "1794480"
       ],
       "firstSeen": "2026-11-17T09:39:46.099Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -164,7 +164,7 @@
         "https://luma.com/rofymmm3"
       ],
       "firstSeen": "2026-10-25T15:48:34.849Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -201,7 +201,7 @@
         "1800857"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -238,12 +238,49 @@
         "1811240"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
       "linkStatus": "ok",
       "description": "Complete Regsiteration and Submission at: https://techfest.org/competitions/Algo It is mandatory to register on Techfest Website . further details will be updated on the Website only . About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn thei…"
+    },
+    {
+      "id": "unstop:dda7fa6b0bb6",
+      "name": "Anveshak: Open-World Object Detection for Remote Sensing",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-11-29T18:31:00.000Z",
+      "end": "2026-11-29T18:31:00.000Z",
+      "deadline": "2026-11-29T18:31:00.000Z",
+      "city": "Powai",
+      "venue": "Techfest ,IIT Bombay",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Indian Institute of Technology (IIT), Bombay",
+      "prize": "₹1,50,000",
+      "themes": [
+        "Model Training & Evaluation",
+        "Computer Vision"
+      ],
+      "url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+      "sourceUrl": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1818894"
+      ],
+      "firstSeen": "2026-11-19T09:18:03.176Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
+      "status": "active",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About Anveshak: Open-World Object Detection for Remote Sensing is a national computer vision competition by Techfest, IIT Bombay. Earth-observation systems support disaster response, maritime and defence surveillance, urban planning, agriculture, and climate monitoring, yet three problems limit them in practice: imagery always contains unknown objects the taxonomy does not cover, new classes arrive gradually with only a few examples, and learning new categories can quietly degrade performance on old ones. Teams build one remote sensing detector that handles all three while keeping the same model throughout, trained entirely from random initialisation with no pretrained weights of any kind.…"
     },
     {
       "id": "unstop:35ff8583295f",
@@ -274,7 +311,7 @@
         "1793796"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -310,7 +347,7 @@
         "1800629"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -347,7 +384,7 @@
         "1771952"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -382,7 +419,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -418,7 +455,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -454,7 +491,7 @@
         "1788753"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -490,7 +527,7 @@
         "1792152"
       ],
       "firstSeen": "2026-11-17T09:39:46.099Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -526,7 +563,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -560,7 +597,7 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -597,7 +634,7 @@
         "1798677"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -631,7 +668,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -667,7 +704,7 @@
         "1772235"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -696,41 +733,11 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": ""
-    },
-    {
-      "id": "unstop:cd70905d2756",
-      "name": "Building Medical Tourism Platform",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-18T10:10:33.000Z",
-      "end": "2026-11-18T10:10:33.000Z",
-      "deadline": "2026-11-18T10:10:33.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "EthAum Venture Partners",
-      "themes": [
-        "Web Development"
-      ],
-      "url": "https://unstop.com/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060",
-      "sourceUrl": "https://unstop.com/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1763060"
-      ],
-      "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "EthAum Medical Tourism Hackathon: Build an AI-Powered International Healthcare Marketplace International medical treatment is fragmented. Patients struggle to find suitable providers, compare costs, share records securely, and manage their journey across borders. EthAum brings discovery, case creation, secure records, AI-assisted matching, quote comparison, consultation, booking, treatment and aftercare together in one patient-centric platform. Your challenge is to design and build the website that makes this work. Patient Journey Discover &rarr; Create Case &rarr; Upload Records &rarr; Qualification &rarr; Provider Matching &rarr; Quote Comparison &rarr; Select Provider &rarr; Booking & Pa…"
     },
     {
       "id": "unstop:a0381b30a466",
@@ -758,7 +765,7 @@
         "1775867"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -790,7 +797,7 @@
         "1762305"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -822,7 +829,7 @@
         "1799776"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -853,7 +860,7 @@
         "1799767"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -885,7 +892,7 @@
         "1800924"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -917,7 +924,7 @@
         "1792269"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -949,7 +956,7 @@
         "1799509"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -981,7 +988,7 @@
         "1799475"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1013,7 +1020,7 @@
         "1799510"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1045,7 +1052,7 @@
         "1800891"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1074,7 +1081,7 @@
         "4a39b7a9b8d747e5a85b2ff58ff570e4"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1106,11 +1113,11 @@
         "1807080"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Welcome to Data Sprint 2.0 – by Anveshan! Data Sprint 2.0: A Global AI & ML Problem-Solving Challenge! About the Opportunity: Data Sprint 2.0 is a 36-hour online AI & ML hackathon organized by Anveshan, the Applied Research & AI/ML Club, taking place from 23rd to 25th November 2026. The hackathon brings together college students and working professionals to tackle real-world challenges through innovation, machine learning, technical skills, teamwork, and creative problem-solving. With 4 exciting tracks, participants will have the opportunity to apply their knowledge, develop practical AI/ML solutions, and showcase their skills. Track details will be announced on 19th November 2026, and prob…"
+      "description": "Welcome to Data Sprint 2.0 – by Anveshan! Data Sprint 2.0: A Global AI & ML Problem-Solving Challenge! About the Opportunity Data Sprint 2.0 is a 36-hour online AI & ML hackathon organized by Anveshan, the Applied Research & AI/ML Club of The National Institute of Engineering, Mysuru, taking place from 23rd to 25th November 2026 . The hackathon brings together college students and working professionals to tackle real-world challenges through innovation, machine learning, technical skills, teamwork, and creative problem-solving. With 4 exciting tracks, participants will have the opportunity to apply their knowledge, develop practical AI/ML solutions, and showcase their skills. Track details…"
     },
     {
       "id": "unstop:d55cd1078f13",
@@ -1138,7 +1145,7 @@
         "1799782"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1170,7 +1177,7 @@
         "1780048"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1202,7 +1209,7 @@
         "1799788"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1234,7 +1241,7 @@
         "1799790"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1266,7 +1273,7 @@
         "1799791"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1298,43 +1305,11 @@
         "1786652"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "VYTRON 2026 – National Online Hackathon Website : https://vytron26.droidecks.sbs/ Registration Link : https://forms.gle/9r5Qj42Np9nZ6yhc7 Registration Fee: 79 per member Engineer the Extraordinary. About Organizer Droidecks is an Indian cybersecurity and technology services company based in Chennai , founded in 2019. Core Focus. They help businesses protect their digital systems through security testing (VAPT), cloud audits, and compliance consulting (ISO 27001, SOC 2). Tech & Automation. They build custom, secure software and set up automated security workflows. Community Events. They are also known across India for organizing national-level student coding competitions and hackathons. Abou…"
-    },
-    {
-      "id": "unstop:de007035458b",
-      "name": "Datanova 2026 Global Data-Thon - 1.7 Lakh prize money",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-25T13:03:00.000Z",
-      "end": "2026-11-25T13:03:00.000Z",
-      "deadline": "2026-11-19T02:47:09.000Z",
-      "cost": "paid",
-      "costLabel": "₹100",
-      "host": "Swiss School of Management, Rome, Italy",
-      "prize": "$1,000 · $500",
-      "themes": [
-        "Data Analysis",
-        "Data Science"
-      ],
-      "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
-      "sourceUrl": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1769646"
-      ],
-      "firstSeen": "2026-10-23T06:23:37.840Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "DataNova 2026 – Global Data-thon - Prizes worth 1750$(~1.7 lakh rupees) Turning Data Into Decisions. Building Solutions That Matter. NOTE: There will be 2 rounds. As a submission you need to visit the website https://datanovathon.com/, look at the problem statements, pick one and while registering you need to submit the ppt, working demo(optional for round 1), video(optional for round 1) and make the registration fees payment of 100rs. Then all the shortlisted participants will be called for online live presentation as round 2(final round) and the winers will be announced. NOTE 2: In case you dont have a teammate now you can still register by paying the registration fees and submitting the…"
     },
     {
       "id": "unstop:24f6d891dd6e",
@@ -1362,7 +1337,7 @@
         "1811085"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1392,7 +1367,7 @@
         "1806984"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1424,7 +1399,7 @@
         "1800324"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1456,7 +1431,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1488,7 +1463,7 @@
         "1814263"
       ],
       "firstSeen": "2026-11-18T08:58:47.522Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1520,7 +1495,7 @@
         "1803912"
       ],
       "firstSeen": "2026-11-11T08:11:32.392Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1552,7 +1527,7 @@
         "1798702"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1583,7 +1558,7 @@
         "1797543"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1614,7 +1589,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1646,7 +1621,7 @@
         "1793392"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1678,7 +1653,7 @@
         "1799778"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1710,7 +1685,7 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1742,7 +1717,7 @@
         "1799780"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1774,7 +1749,7 @@
         "1805107"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1807,7 +1782,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1837,7 +1812,7 @@
         "1790680"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1872,7 +1847,7 @@
         "1805946"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1904,7 +1879,7 @@
         "1799281"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1936,7 +1911,7 @@
         "1792025"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1968,11 +1943,43 @@
         "1807297"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Introduction: HackKro presents HackKro CodeByte 2026 , a multi-round competitive coding battle hosted on the Unstop platform. Designed for both aspiring programmers and seasoned problem solvers, HackKro CodeByte 2026 tests foundational logic, algorithm design, and core programming proficiency. Compete nationwide, solve challenging problems, and push your limits. Event Details: Detail Information Event Name HackKro CodeByte 2026 Organized By HackKro Mode Online (via Unstop) Eligibility Open to all Undergraduate & Postgraduate students (all streams & years) Registration Fee Free (All Rounds) Registration Deadline 30 November 2026, 11:59 PM IST Stages and Timelines: Round 1: Preliminary Assess…"
+    },
+    {
+      "id": "unstop:8f99e0f59419",
+      "name": "Prompt War & Syntax Squad",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-09T08:00:00.000Z",
+      "end": "2026-12-09T08:00:00.000Z",
+      "deadline": "2026-12-08T06:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
+      "prize": "₹30,000",
+      "themes": [
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+      "sourceUrl": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1818490"
+      ],
+      "firstSeen": "2026-11-19T09:18:03.176Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Welcome to Prompt War X Syntax Squad by Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune! A hackathon built around the Prompt War X Syntax Squad online coding challenge. About the Opportunity: Take part in Prompt War & Syntax Squad, an online coding challenge organized by Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune. This hackathon is for teams ready to engage with a coding challenge together. Team participation makes collaboration part of the experience. Bring your team and put your coding skills into action in this online challenge. Get your team together and take the next step with Prompt War and Syntax Squad. Join the WhatsApp group - https://…"
     },
     {
       "id": "devfolio:d5d1e6ca786c",
@@ -1997,7 +2004,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2029,11 +2036,77 @@
         "1774417"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview 48-Hour Online AI Hackathon Organized by Frontend Arena | In collaboration with Adaption Event Dates: December 10–12, 2026 Format: Online Duration: 48 hours Team Size: 2–4 members About AI BuildFest 2026 AI BuildFest 2026 is a 48-hour online hackathon focused on building AI-powered solutions for real-world challenges. It brings together students, developers, and AI enthusiasts to explore how custom-trained AI models can be developed and applied to practical problems. Participants will work in teams to understand a challenge announced during the hackathon, prepare or generate a suitable dataset, train their own model using Adaption’s platform, and build a working solution that demon…"
+    },
+    {
+      "id": "unstop:acdbf1714c89",
+      "name": "CodeWarriors India 2026 - National Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-13T04:20:44.000Z",
+      "end": "2026-12-13T04:20:44.000Z",
+      "deadline": "2026-12-03T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "BuildX",
+      "prize": "1st Rank",
+      "themes": [
+        "Agentic AI Engineer",
+        "Full Stack Development"
+      ],
+      "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+      "sourceUrl": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1817737"
+      ],
+      "firstSeen": "2026-11-19T09:18:03.176Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About: Top three teams: Paid internship opportunities Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Every eligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No. of Rounds: 3 Hackathon Dates: 4 December – 14 December 2026 Mode: Completely online Team size: 1–6 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submis…"
+    },
+    {
+      "id": "unstop:8e1cc74b8ca0",
+      "name": "CodeUnited India - National Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-13T04:30:00.000Z",
+      "end": "2026-12-13T04:30:00.000Z",
+      "deadline": "2026-12-02T07:30:48.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "HackWithPune",
+      "prize": "1st Rank",
+      "themes": [
+        "Agentic AI Engineer",
+        "Full Stack Development",
+        "Software Development",
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+      "sourceUrl": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1817749"
+      ],
+      "firstSeen": "2026-11-19T09:18:03.176Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Join the official group for information and updates: https://chat.whatsapp.com/DE4JhUortEqAD35baNLw4k Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Every participant: .xyz domain and .cv domain Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits Every participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 3 December — 13 December 2026 No.of Rounds: 3 Mode: Completely online Team size: 1–6 members Registration fee: free Track: Agentic AI, Full Stack Development Rules: Participants must submit original work within the d…"
     },
     {
       "id": "unstop:d29e64265303",
@@ -2060,7 +2133,7 @@
         "1811349"
       ],
       "firstSeen": "2026-11-18T08:58:47.522Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2093,7 +2166,7 @@
         "1791313"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2125,7 +2198,7 @@
         "1792826"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2158,7 +2231,7 @@
         "1794522"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2194,7 +2267,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2229,7 +2302,7 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2261,7 +2334,7 @@
         "1789431"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2293,7 +2366,7 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2324,7 +2397,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2357,7 +2430,7 @@
         "1798287"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2388,7 +2461,7 @@
         "1811493"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2424,7 +2497,7 @@
         "1799179"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2455,7 +2528,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2487,7 +2560,7 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2518,7 +2591,7 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2549,7 +2622,7 @@
         "1794889"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2581,7 +2654,7 @@
         "1811016"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2612,7 +2685,7 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2644,11 +2717,42 @@
         "1795775"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team’s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. JOIN THE OFFICIAL GROUP FOR NEXATHON PARTICIPANTS!! https://chat.whatsapp.com/H4aTANikVUCIu0wd9AszQ9?s=cl&p=a&iam=2 Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyb…"
+    },
+    {
+      "id": "unstop:0696a6d41d89",
+      "name": "Nurn 2026 – National Innovation & Technology Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-10T10:14:00.000Z",
+      "end": "2027-01-10T10:14:00.000Z",
+      "deadline": "2026-12-15T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
+      "prize": "1",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+      "sourceUrl": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1817757"
+      ],
+      "firstSeen": "2026-11-19T09:18:03.176Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Imagine. Innovate. Build What's Next. About NURN 2026 is an innovation-driven hackathon designed to bring together creative minds, aspiring developers, technology enthusiasts and student innovators from across India. NURN provides a platform for participants to identify real-world problems, develop innovative solutions and transform their ideas into working prototypes. Whether you are interested in Artificial Intelligence, Machine Learning, Web Development, App Development, Automation, Software Engineering or emerging technologies, NURN welcomes innovative ideas and practical solutions. This is your opportunity to think beyond conventional boundaries, experiment with technology, co…"
     },
     {
       "id": "unstop:9ccaa8337d6d",
@@ -2676,7 +2780,7 @@
         "1776729"
       ],
       "firstSeen": "2026-11-14T07:55:30.689Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2708,7 +2812,7 @@
         "1759619"
       ],
       "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2739,7 +2843,7 @@
         "1730263"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2769,7 +2873,7 @@
         "1761846"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2805,7 +2909,7 @@
         "1746233"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2841,7 +2945,7 @@
         "1746142"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2877,7 +2981,7 @@
         "1746234"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2913,7 +3017,7 @@
         "1746232"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2949,7 +3053,7 @@
         "1735451"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2980,7 +3084,7 @@
         "1803074"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "lastVerified": "2026-11-19T09:18:10.152Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3550,6 +3654,40 @@
       "lane": "online",
       "start": "2026-11-25T13:03:00.000Z",
       "end": "2026-11-25T13:03:00.000Z",
+      "deadline": "2026-11-19T02:47:09.000Z",
+      "cost": "paid",
+      "costLabel": "₹100",
+      "host": "Swiss School of Management, Rome, Italy",
+      "prize": "$1,000 · $500",
+      "themes": [
+        "Data Analysis",
+        "Data Science"
+      ],
+      "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "sourceUrl": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1769646"
+      ],
+      "firstSeen": "2026-10-23T06:23:37.840Z",
+      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "status": "closed",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "DataNova 2026 – Global Data-thon - Prizes worth 1750$(~1.7 lakh rupees) Turning Data Into Decisions. Building Solutions That Matter. NOTE: There will be 2 rounds. As a submission you need to visit the website https://datanovathon.com/, look at the problem statements, pick one and while registering you need to submit the ppt, working demo(optional for round 1), video(optional for round 1) and make the registration fees payment of 100rs. Then all the shortlisted participants will be called for online live presentation as round 2(final round) and the winers will be announced. NOTE 2: In case you dont have a teammate now you can still register by paying the registration fees and submitting the…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:de007035458b",
+      "name": "Datanova 2026 Global Data-Thon - 1.7 Lakh prize money",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-25T13:03:00.000Z",
+      "end": "2026-11-25T13:03:00.000Z",
       "deadline": "2026-11-09T18:30:00.000Z",
       "cost": "paid",
       "costLabel": "₹100",
@@ -3948,6 +4086,38 @@
       "description": "About the Hackathon CodeQuest: National Tech Hackathon 2026 is a national-level, fully online hackathon organized by DotRepo. The competition invites students, developers and technology enthusiasts across India to identify real-world problems, propose innovative solutions and transform their ideas into functional software prototypes. Eligibility Criteria Open to eligible students, developers, and technology enthusiasts across India. Open to undergraduate and postgraduate students from any college or university in India. Open to students of all branches and specializations (Engineering, Science, Commerce, Design, Management, etc.). Each participant can be part of only one team. Team Formatio…",
       "stale": false,
       "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:cd70905d2756",
+      "name": "Building Medical Tourism Platform",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-18T10:10:33.000Z",
+      "end": "2026-11-18T10:10:33.000Z",
+      "deadline": "2026-11-18T10:10:33.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "EthAum Venture Partners",
+      "themes": [
+        "Web Development"
+      ],
+      "url": "https://unstop.com/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060",
+      "sourceUrl": "https://unstop.com/hackathons/building-medical-tourism-platform-ethaum-venture-partners-1763060",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1763060"
+      ],
+      "firstSeen": "2026-11-12T08:45:14.711Z",
+      "lastVerified": "2026-11-18T08:58:53.874Z",
+      "status": "archived",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "EthAum Medical Tourism Hackathon: Build an AI-Powered International Healthcare Marketplace International medical treatment is fragmented. Patients struggle to find suitable providers, compare costs, share records securely, and manage their journey across borders. EthAum brings discovery, case creation, secure records, AI-assisted matching, quote comparison, consultation, booking, treatment and aftercare together in one patient-centric platform. Your challenge is to design and build the website that makes this work. Patient Journey Discover &rarr; Create Case &rarr; Upload Records &rarr; Qualification &rarr; Provider Matching &rarr; Quote Comparison &rarr; Select Provider &rarr; Booking & Pa…",
+      "stale": false,
+      "archiveNote": "Past event"
     },
     {
       "id": "unstop:7e1aef746369",
