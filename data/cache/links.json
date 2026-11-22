@@ -1365,30 +1365,66 @@
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-11-20T09:00:02.890Z"
+    "checkedAt": "2026-11-22T08:40:26.263Z"
   },
   "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-11-20T09:00:02.890Z"
+    "checkedAt": "2026-11-22T08:40:26.263Z"
   },
   "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-11-20T09:00:02.890Z"
+    "checkedAt": "2026-11-22T08:40:26.263Z"
   },
   "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814": {
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-11-20T09:00:02.890Z"
+    "checkedAt": "2026-11-22T08:40:26.263Z"
   },
   "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962": {
     "ok": true,
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-21T08:41:01.660Z"
+  },
+  "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
+  },
+  "https://unstop.com/hackathons/elucode-9-edulinkup-1822884": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
+  },
+  "https://unstop.com/hackathons/einohacks-altairx-tech-1820882": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
+  },
+  "https://unstop.com/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
+  },
+  "https://unstop.com/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
+  },
+  "https://promptwaves.devfolio.co/": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-22T08:40:26.263Z"
   }
 }
