@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:29:57.978Z",
+  "generatedAt": "2026-11-25T10:18:03.119Z",
   "windowDays": 90,
   "events": [
     {
@@ -29,7 +29,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/317538107/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -62,7 +62,7 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktyjcqbjc/"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -95,48 +95,11 @@
         "https://www.meetup.com/wordpress-meetup-nashik/events/fkctktykccbfc/"
       ],
       "firstSeen": "2026-10-25T15:44:23.212Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Wordpress Meetup Nashik Join us for the Nashik WordPress Meetup, in March 2024! Whether you're a WordPress enthusiast, a professional developer, a content creator, or just curious about WordPress, this meetup is the perfect opportunity to enhance your skills, share knowledge, and network with fellow WordPress users in Nashik."
-    },
-    {
-      "id": "unstop:c8a26cef2323",
-      "name": "Agentic AI in BFSI Hackathon",
-      "type": "hackathon",
-      "mode": "in-person",
-      "lane": "maharashtra",
-      "start": "2026-11-24T18:30:00.000Z",
-      "end": "2026-11-24T18:30:00.000Z",
-      "deadline": "2026-11-24T18:30:00.000Z",
-      "city": "Powai",
-      "venue": "IIT Bombay",
-      "state": "Maharashtra",
-      "country": "India",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Indian Institute of Technology (IIT), Bombay",
-      "prize": "₹1,00,000",
-      "themes": [
-        "Agentic AI Engineer",
-        "Applied AI"
-      ],
-      "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
-      "sourceUrl": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1800857"
-      ],
-      "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
-      "status": "active",
-      "travelNote": "Round 1 online",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "All that you need to know about Agentic AI in BFSI: Hackathon 2026 by IIT Bombay Complete Regsiteration and Submission at: https://techfest.org/competitions/Agentic-AI It is mandatory to register on Techfest Website . further details will be updated on the Website only . About Agentic AI in BFSI: Hackathon 2026 is a national hackathon by Perfios, one of India's largest SaaS TechFin companies serving over 1,000 financial institutions globally, in association with Techfest, IIT Bombay. Under the theme AI Native Applications for BFSI, teams prototype AI-backed systems that can perceive, reason, decide and act across real-world financial workflows. Participants pick one of two banking domains,…"
     },
     {
       "id": "unstop:0b4a4cd7a65f",
@@ -168,7 +131,7 @@
         "1822209"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -205,7 +168,7 @@
         "1811240"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -242,7 +205,7 @@
         "1818894"
       ],
       "firstSeen": "2026-11-19T09:18:03.176Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -278,12 +241,50 @@
         "1793796"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
       "linkStatus": "ok",
       "description": "VYOM Edition 1 (2026–27) — Official Event Overview & Guidelines VYOM Edition 1 (2026–27) is a premier National-Level Software Hackathon & Hardware–Software Project Expo organized by the Government College of Engineering, Chhatrapati Sambhajinagar (GECCS) in association with the Center of Excellence (CoE) – TSSIP and the Ankur Incubation Center Foundation (AICF) . Designed as a flagship two-pillar innovation festival, VYOM brings together India’s sharpest student builders across two distinct flagship events : Event 1: The 12-Hour National Software Hackathon — An intensive, high-stakes software development sprint across four specialized software domains. Event 2: The National Hardware & Softw…"
+    },
+    {
+      "id": "unstop:08f2e18e2c2d",
+      "name": "LogiTHON 2026",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-12-04T18:29:24.000Z",
+      "end": "2026-12-04T18:29:24.000Z",
+      "deadline": "2026-11-30T18:29:27.000Z",
+      "city": "Mumbai",
+      "venue": "Atharva University",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Softlink Global Ltd",
+      "prize": "₹1,00,000 · ₹1,00,000",
+      "themes": [
+        "Supply Chain Operations",
+        "Quizzes & Treasure Hunt",
+        "Hackathon On D2C"
+      ],
+      "url": "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287",
+      "sourceUrl": "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1827287"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "travelNote": "Check if round 1 is online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Softlink Global Pvt. Ltd. presents LogiTHON 2026 , a groundbreaking 24-hour hackathon bringing together technology and logistics. Hosted at Atharva University, Mumbai , LogiTHON 2026 aims to create a platform where innovation meets real-world logistics challenges. The event will bring together talented students, industry experts, and mentors to explore emerging technologies and develop innovative solutions for the logistics and supply chain industry. LogiTHON 2026, scheduled for 12th and 13th December 2026 , will bring together diverse participants to develop innovative solutions addressing key logistics challenges, with a focus on efficiency, sustainability, social impact, and mentorship.…"
     },
     {
       "id": "unstop:47469ec696cf",
@@ -315,7 +316,7 @@
         "1820895"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -351,7 +352,7 @@
         "1800622"
       ],
       "firstSeen": "2026-11-24T11:29:57.978Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -387,7 +388,7 @@
         "1800629"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -423,7 +424,7 @@
         "1820851"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -460,7 +461,7 @@
         "1771952"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -495,7 +496,7 @@
         "1786992"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -531,7 +532,7 @@
         "1755564"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -567,7 +568,7 @@
         "1788753"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -603,7 +604,7 @@
         "1772406"
       ],
       "firstSeen": "2026-10-27T06:42:30.487Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -637,7 +638,7 @@
         "feaf6d51a5ba4774acf1ccaaa1d4b789"
       ],
       "firstSeen": "2026-10-31T07:25:08.668Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -673,7 +674,7 @@
         "1792152"
       ],
       "firstSeen": "2026-11-17T09:39:46.099Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -710,7 +711,7 @@
         "1798677"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -744,7 +745,7 @@
         "409173af22ac40d5aecb47ea06886ab3"
       ],
       "firstSeen": "2026-11-01T07:58:14.804Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -781,7 +782,7 @@
         "1806016"
       ],
       "firstSeen": "2026-11-20T08:59:53.943Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Round 1 online",
       "manual": false,
@@ -817,7 +818,7 @@
         "1772235"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -852,7 +853,7 @@
         "1823841"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "travelNote": "Check if round 1 is online",
       "manual": false,
@@ -881,7 +882,7 @@
         "d959fbb33372440883f65f9ff9054982"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -894,7 +895,7 @@
       "mode": "online",
       "lane": "online",
       "start": "2026-11-21T18:30:00.000Z",
-      "end": "2026-11-24T18:29:00.000Z",
+      "end": "2026-11-27T18:30:00.000Z",
       "cost": "unknown",
       "costLabel": "Not listed",
       "themes": [
@@ -909,21 +910,21 @@
         "4a39b7a9b8d747e5a85b2ff58ff570e4"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": ""
     },
     {
-      "id": "unstop:fe1c108def09",
+      "id": "unstop:36c33d6d8fed",
       "name": "VYTRON'26 Hackathon",
       "type": "hackathon",
       "mode": "online",
       "lane": "online",
-      "start": "2026-11-24T18:30:00.000Z",
-      "end": "2026-11-24T18:30:00.000Z",
-      "deadline": "2026-11-24T18:30:00.000Z",
+      "start": "2026-11-25T18:30:00.000Z",
+      "end": "2026-11-25T18:30:00.000Z",
+      "deadline": "2026-11-25T18:30:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "host": "Droidecks",
@@ -941,21 +942,21 @@
         "1786652"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "VYTRON 2026 – National Online Hackathon Website : https://vytron26.droidecks.sbs/ Registration Link : https://forms.gle/9r5Qj42Np9nZ6yhc7 Registration Fee: 79 per member Engineer the Extraordinary. About Organizer Droidecks is an Indian cybersecurity and technology services company based in Chennai , founded in 2019. Core Focus. They help businesses protect their digital systems through security testing (VAPT), cloud audits, and compliance consulting (ISO 27001, SOC 2). Tech & Automation. They build custom, secure software and set up automated security workflows. Community Events. They are also known across India for organizing national-level student coding competitions and hackathons. Abou…"
     },
     {
-      "id": "unstop:24f6d891dd6e",
+      "id": "unstop:df6b178c6569",
       "name": "Configure 2026: A Mobility Hackathon",
       "type": "hackathon",
       "mode": "online",
       "lane": "online",
-      "start": "2026-11-25T18:30:00.000Z",
-      "end": "2026-11-25T18:30:00.000Z",
-      "deadline": "2026-11-25T18:30:00.000Z",
+      "start": "2026-11-26T18:29:00.000Z",
+      "end": "2026-11-26T18:29:00.000Z",
+      "deadline": "2026-11-26T18:29:00.000Z",
       "cost": "free",
       "costLabel": "Free",
       "host": "Zeliot Pvt Ltd",
@@ -973,41 +974,11 @@
         "1811085"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Build a real-time mobility solution in 48 hours with Condense. Configure 2026 is a free, online hackathon by Condense and Bosch Mobility Platforms & Solutions, part of MPS Summit 2026. Pick a real problem in mobility, then build a real-time data pipeline and app to solve it, with Condense as your streaming backbone. Important: Your team is only entered once the team leader fills in the registration form by 26 November. Please complete your registration here: https://www.condense.io/configure-2026 We have updated the rulebook. Please visit the website to view it! What you could build: Fleet tracking and management Vehicle health and predictive maintenance Geofencing and real-time alerts EV b…"
-    },
-    {
-      "id": "unstop:8091f3762425",
-      "name": "QuikCPQ AI Innovation Challenge 2027",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-11-27T11:58:00.000Z",
-      "end": "2026-11-27T11:58:00.000Z",
-      "deadline": "2026-11-25T18:30:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Quik CPQ Solutions LLP",
-      "themes": [
-        "Agentic AI Engineer"
-      ],
-      "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
-      "sourceUrl": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1806984"
-      ],
-      "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Overview Build. Innovate. Compete. Win. Rule 1 – Eligibility Open to students and working professionals residing in India. Individual participants and teams are permitted. Recommended team size: 1–4 members. Participants must provide accurate registration information. Employees, organizers and judges should not compete in categories where they have a conflict of interest. Rule 2 – Competition Tracks Participants may submit projects under any of the six official tracks: AI & Agentic AI. HR Tech & Recruitment. Enterprise SaaS. Data & Analytics. Cloud & DevOps. Cybersecurity & Digital Trust. Rule 3 – Project Requirements Every project must include: A clear problem statement. A proposed solutio…"
     },
     {
       "id": "unstop:4ae6a7e2803c",
@@ -1034,7 +1005,7 @@
         "1799767"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1066,11 +1037,43 @@
         "1800324"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About the Hackathon - agentwarehack.com Agentware is a 72-hour online AI agent engineering hackathon built around one challenge: build an autonomous AI agent that can perform real work independently, operate reliably, and know when to stop. Everyone has a demo of an AI agent. Almost nobody has one they would leave running overnight. Agentware challenges participants to build agents that go beyond conversational interfaces and actually execute complete workflows using real tools, systems, and external inputs. The hackathon covers six tracks: Inbox & Calendar, Life Admin, Research & Study, Browser Agent, Developer Workflow, and an Open Track. Each track focuses on a different category of real…"
+    },
+    {
+      "id": "unstop:ec0430d77a0c",
+      "name": "Divergent Merch Design Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-27T18:30:00.000Z",
+      "end": "2026-11-27T18:30:00.000Z",
+      "deadline": "2026-11-27T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Divergent Classes",
+      "prize": "₹2,000 · ₹1,000",
+      "themes": [
+        "Graphic Design",
+        "Visual Design"
+      ],
+      "url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+      "sourceUrl": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1814036"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Divergent Merch Design Challenge 2026: Design Beyond the Ordinary. Create What Represents You. What if merchandise could be more than just a logo printed on a T-shirt? What if it could represent a community, a mindset, a creative journey, and a way of thinking? Divergent Classes invites creative minds, design aspirants, and college students to participate in the Divergent Merch Design Challenge 2026 . Your challenge is to conceptualise and design the next generation of Divergent student merchandise. We want you to go beyond conventional graphics and explore how design, typography, illustration, colours, and storytelling can come together to represent the identity and spirit of Divergent. Ab…"
     },
     {
       "id": "unstop:036df72785b1",
@@ -1098,7 +1101,7 @@
         "1777504"
       ],
       "firstSeen": "2026-10-26T06:48:52.716Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1130,7 +1133,7 @@
         "1814263"
       ],
       "firstSeen": "2026-11-18T08:58:47.522Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1162,7 +1165,7 @@
         "1817686"
       ],
       "firstSeen": "2026-11-20T08:59:53.943Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1193,7 +1196,7 @@
         "1821954"
       ],
       "firstSeen": "2026-11-22T08:39:50.096Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1225,7 +1228,7 @@
         "1818968"
       ],
       "firstSeen": "2026-11-20T08:59:53.943Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1257,7 +1260,7 @@
         "1798702"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1288,7 +1291,7 @@
         "1797543"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1319,7 +1322,7 @@
         "1762519"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1351,7 +1354,7 @@
         "1793392"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1384,7 +1387,7 @@
         "1771785"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1414,7 +1417,7 @@
         "1790680"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1446,7 +1449,7 @@
         "1805107"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1481,7 +1484,7 @@
         "1805946"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1513,7 +1516,7 @@
         "1822884"
       ],
       "firstSeen": "2026-11-22T08:39:50.096Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1545,7 +1548,7 @@
         "1824377"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1577,7 +1580,7 @@
         "1775207"
       ],
       "firstSeen": "2026-10-25T02:53:54.940Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1609,7 +1612,7 @@
         "1799281"
       ],
       "firstSeen": "2026-11-08T07:50:10.000Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1641,7 +1644,7 @@
         "1792025"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1673,7 +1676,7 @@
         "1807297"
       ],
       "firstSeen": "2026-11-13T08:37:17.077Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1705,7 +1708,7 @@
         "1818490"
       ],
       "firstSeen": "2026-11-19T09:18:03.176Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1734,7 +1737,7 @@
         "65d42f71b14f4e4b810d3eac1e14ac5a"
       ],
       "firstSeen": "2026-11-22T08:39:50.096Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1767,7 +1770,7 @@
         "1823739"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1796,7 +1799,7 @@
         "c84b90d65eff4ae083366fc1cc549e81"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1827,43 +1830,11 @@
         "1823604"
       ],
       "firstSeen": "2026-11-24T11:29:57.978Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
-      "description": "Adaptics is an open innovation hackathon organized by Adaption x MnM , bringing together individuals who are passionate about technology, the hackathon encourages participants to explore challenges across diverse domains, including healthcare for the elderly, agricultural supply chain management, global carbon emission reduction, and the application of Artificial Intelligence in rural development and economic empowerment . Participants are also free to identify problems beyond these suggested domains and propose their own innovative solutions. For all updates join Whatsapp Group: https://chat.whatsapp.com/FcImRJZMxITKreWgKMjxNn Adaptics is structured into three competitive rounds: Round 1 –…"
-    },
-    {
-      "id": "unstop:4c6799c4c823",
-      "name": "AI BuildFest 2026",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2026-12-12T06:30:00.000Z",
-      "end": "2026-12-12T06:30:00.000Z",
-      "deadline": "2026-11-25T18:29:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "Frontend Arena",
-      "prize": "₹19,000 · ₹9,500",
-      "themes": [
-        "Applied AI",
-        "Model Training & Evaluation"
-      ],
-      "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
-      "sourceUrl": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1774417"
-      ],
-      "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "Overview 48-Hour Online AI Hackathon Organized by Frontend Arena | In collaboration with Adaption Event Dates: December 10–12, 2026 Format: Online Duration: 48 hours Team Size: 2–4 members About AI BuildFest 2026 AI BuildFest 2026 is a 48-hour online hackathon focused on building AI-powered solutions for real-world challenges. It brings together students, developers, and AI enthusiasts to explore how custom-trained AI models can be developed and applied to practical problems. Participants will work in teams to understand a challenge announced during the hackathon, prepare or generate a suitable dataset, train their own model using Adaption’s platform, and build a working solution that demon…"
+      "description": "Adaptics is an open innovation hackathon organized by MnM (Technology Partner- Adaption Labs, .cv, .xyz) , bringing together individuals who are passionate about technology, the hackathon encourages participants to explore challenges across diverse domains, including healthcare for the elderly, agricultural supply chain management, global carbon emission reduction, and the application of Artificial Intelligence in rural development and economic empowerment . Participants are also free to identify problems beyond these suggested domains and propose their own innovative solutions. For all updates join Whatsapp Group: https://chat.whatsapp.com/FcImRJZMxITKreWgKMjxNn Adaptics is structured into…"
     },
     {
       "id": "unstop:acdbf1714c89",
@@ -1891,7 +1862,7 @@
         "1817737"
       ],
       "firstSeen": "2026-11-19T09:18:03.176Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1925,7 +1896,7 @@
         "1817749"
       ],
       "firstSeen": "2026-11-19T09:18:03.176Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1956,7 +1927,7 @@
         "1811349"
       ],
       "firstSeen": "2026-11-18T08:58:47.522Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -1989,7 +1960,7 @@
         "1791313"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2021,7 +1992,7 @@
         "1792826"
       ],
       "firstSeen": "2026-11-04T07:54:03.136Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2052,11 +2023,42 @@
         "1824394"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About Starlight Arena Starlight Arena is an online AI red teaming competition hosted by Parsewave. You get access to AI agents that have real tools and strict rules they are not supposed to break. Your goal is to get them to break those rules using only prompts. Results are tracked on a public leaderboard. Prize Pool: $50,000 Entry Fee: Free Mode: Online Dates: November 24 to December 14 Eligibility Open to everyone: students, working professionals, developers and researchers. No security or coding background needed. Participants from any college, branch or year can join. Format Individual participation, no teams. A single round that runs for the full three weeks. Multiple AI agents and cha…"
+    },
+    {
+      "id": "unstop:e87a22565ee4",
+      "name": "CoMemor Contributor Challenge",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-15T18:29:00.000Z",
+      "end": "2026-12-15T18:29:00.000Z",
+      "deadline": "2026-12-07T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "CoMemor",
+      "prize": "Top Contributor - Internship Opportunity & Certificate of Excellence",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+      "sourceUrl": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1825938"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "AI coding agents are powerful—until they hit the same build, dependency, or runtime error for the third session in a row and burn tokens re-debugging it from scratch. CoMemor is a fast-growing, local-first Model Context Protocol (MCP) server ( npx comemor , freshly launched v1.1.0) that equips AI coding agents—including Cursor, Claude Desktop & Code, VS Code + Copilot, Windsurf, and Google Antigravity—with deterministic, repository-scoped engineering memory powered by SHA-256 error fingerprinting, SQLite FTS5 lexical search, automated secret redaction, and prompt-injection quarantine. The CoMemor Contributor Challenge invites developers, AI builders, and open-source enthusiasts to ship real…"
     },
     {
       "id": "unstop:cad3d04b4427",
@@ -2084,7 +2086,7 @@
         "1821962"
       ],
       "firstSeen": "2026-11-21T08:40:31.763Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2117,7 +2119,7 @@
         "1794522"
       ],
       "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2131,7 +2133,7 @@
       "lane": "online",
       "start": "2026-12-18T08:30:00.000Z",
       "end": "2026-12-18T08:30:00.000Z",
-      "deadline": "2026-11-25T18:30:00.000Z",
+      "deadline": "2026-11-26T18:30:00.000Z",
       "city": "Chennai",
       "venue": "College of Engineering, Guindy, Anna University",
       "state": "Tamil Nadu",
@@ -2153,7 +2155,7 @@
         "1772496"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2185,7 +2187,7 @@
         "1795775"
       ],
       "firstSeen": "2026-11-06T08:24:01.322Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2220,7 +2222,7 @@
         "1773120"
       ],
       "firstSeen": "2026-10-24T06:19:25.299Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2252,7 +2254,7 @@
         "1820868"
       ],
       "firstSeen": "2026-11-23T09:37:13.837Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2284,7 +2286,7 @@
         "1826157"
       ],
       "firstSeen": "2026-11-24T11:29:57.978Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2316,7 +2318,7 @@
         "1777639"
       ],
       "firstSeen": "2026-10-30T07:39:10.647Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2347,7 +2349,7 @@
         "1652247"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2377,7 +2379,7 @@
         "1820870"
       ],
       "firstSeen": "2026-11-22T08:39:50.096Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2408,7 +2410,7 @@
         "1821912"
       ],
       "firstSeen": "2026-11-22T08:39:50.096Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2439,7 +2441,7 @@
         "1811493"
       ],
       "firstSeen": "2026-11-16T08:28:31.361Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2470,11 +2472,43 @@
         "1820502"
       ],
       "firstSeen": "2026-11-24T11:29:57.978Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "India AI Open 2026 by AccioJob: Proof, Not Resume India AI Open by AccioJob is a free, national AI talent contest for students and early-career engineers. You don't send a resume. You build something real, explain how you built it, and win ₹50,000 for 1st, ₹25,000 for 2nd and ₹15,000 for 3rd, plus more cash prizes and get Job Opportunity of Up-to 50LPA and Interships Up-to 1Lakh/Month. It is solo, it is online, and it takes you through two rounds: a Test with an AI interview, then a short build with an AI walkthrough. AI tools are allowed. What gets scored is your judgment: where you used AI, why, and whether the result holds up. Not just another hackathon: there are no teams, no all-nighte…"
+    },
+    {
+      "id": "unstop:42c2295d8a4f",
+      "name": "TryHackingMe Hackathon",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-28T03:29:56.000Z",
+      "end": "2026-12-28T03:29:56.000Z",
+      "deadline": "2026-12-24T07:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "BuildX",
+      "prize": "First Runner Up",
+      "themes": [
+        "Agentic AI Engineer",
+        "Full Stack Development"
+      ],
+      "url": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+      "sourceUrl": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1826567"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Join the official group for information and updates : https://chat.whatsapp.com/BKtkoqkr84cFEWVgHT4OhQ Benefits and Opportunities : Top three teams: Paid internship opportunities Top three teams : Incubation Opportunity Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain and .cv domain Every eligible participant: Verifiable digital certificate Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Rewards: 100+ recipients across the hackathon Hackathon Dates: 25 December 10AM – 27 December 10AM Mode: Completely online Team size: 1–4 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Rules Pa…"
     },
     {
       "id": "unstop:6be357959e47",
@@ -2501,7 +2535,7 @@
         "1814814"
       ],
       "firstSeen": "2026-11-20T08:59:53.943Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2537,7 +2571,7 @@
         "1799179"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2568,7 +2602,7 @@
         "1746846"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2600,11 +2634,42 @@
         "1763561"
       ],
       "firstSeen": "2026-10-22T05:15:10.780Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "NewYear X Thon 2K27 , organized by Brainwaves , is a team-based online hackathon designed to encourage innovation, technical problem-solving, collaboration, and practical software development. The competition provides participants with an opportunity to transform ideas into functional prototypes while demonstrating their technical knowledge, analytical abilities, presentation skills, and teamwork. Eligibility and Team Formation Participants must register as a team of 3 to 4 members . Teams should have an interest in software development, technology, problem-solving, and innovation. Each team member is expected to actively contribute to the development and presentation of the proposed soluti…"
+    },
+    {
+      "id": "unstop:52dd3aeb3b0c",
+      "name": "Nexora AI – National AI & Innovation Hackathon 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-31T09:17:00.000Z",
+      "end": "2026-12-31T09:17:00.000Z",
+      "deadline": "2026-12-03T09:06:16.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
+      "prize": "1",
+      "themes": [
+        "Artificial Intelligence"
+      ],
+      "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+      "sourceUrl": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1812323"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Innovate. Develop. Transform the Future. Where Ideas Become Innovation. Where Innovation Becomes Reality. NEXORA AI 2026 is an online national-level technology and innovation hackathon designed to bring together creative thinkers, aspiring developers, technology enthusiasts, and student innovators from across India. The hackathon challenges participants to identify real-world problems and transform their ideas into meaningful digital solutions using Artificial Intelligence, modern software technologies, and emerging innovations. Whether you are an aspiring AI developer, programmer, designer, entrepreneur, or first-time innovator, this is your opportunity to showcase your creativity, technic…"
     },
     {
       "id": "unstop:92aff5f4a67c",
@@ -2630,11 +2695,42 @@
         "1821473"
       ],
       "firstSeen": "2026-11-24T11:29:57.978Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Join the WhatsApp group: https://chat.whatsapp.com/KEm7HeMna8W7JZTOBzHUPm About: OpenVerse '26 is a national online hackathon by CampusCode. Open innovation - teams choose their own real-world problem to solve; any working software qualifies (website/web app, mobile app, AI/ML tool, desktop app, API, automation). Registrations on Unstop; teams, rounds, submissions and judging happen on the CampusCode portal (campuscode.co.in). Team size: 1 to 4 members. Solo participation allowed; inter-college teams allowed. Registration window: Saturday 21 November 2026 to Thursday 24 December 2026. Rounds (only shortlisted teams advance each round): Round 1 - Idea: Thu 24 Dec to Sat 26 Dec 2026. Teams su…"
+    },
+    {
+      "id": "unstop:01d852393fba",
+      "name": "Bharat Academix Global Innovatex 2027",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-03T15:30:00.000Z",
+      "end": "2027-01-03T15:30:00.000Z",
+      "deadline": "2026-12-07T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Bharat Academix",
+      "prize": "₹51,000 · ₹21,000",
+      "themes": [
+        "Quizzes & Treasure Hunt"
+      ],
+      "url": "https://unstop.com/hackathons/bharat-academix-global-innovatex-2027-bharat-academix-1826250",
+      "sourceUrl": "https://unstop.com/hackathons/bharat-academix-global-innovatex-2027-bharat-academix-1826250",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1826250"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Ba Global Innovatex 2027 is a global innovation and technology challenge powered by Bharat Academix, bringing together students, developers, researchers, innovators, designers, entrepreneurs, and technology enthusiasts to develop innovative solutions for real-world problems. The competition provides participants with an opportunity to transform ideas into practical, scalable, and impactful solutions using emerging technologies such as Artificial Intelligence, Generative AI, Machine Learning, Data Science, Cybersecurity, Web and Mobile Technologies, Cloud Computing, Internet of Things, Blockchain, Automation, and other emerging technologies. Join Whatsapp Group: https://chat.whatsapp.com/Cjb…"
     },
     {
       "id": "unstop:c1d2014c9334",
@@ -2661,7 +2757,7 @@
         "1782685"
       ],
       "firstSeen": "2026-10-29T07:35:37.233Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2692,42 +2788,11 @@
         "1781358"
       ],
       "firstSeen": "2026-10-28T07:14:38.645Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "About the Event Gliomas are among the most aggressive brain tumours, and outlining them accurately on MRI is central to diagnosis, surgical planning and treatment monitoring. Doing it by hand is slow, and different radiologists often draw the boundaries differently. Pixels to Prognosis asks you to build an AI system that does this automatically. Using multimodal brain MRI scans, your model has to locate a glioma and separate it into its three subregions: active (enhancing) tumour, necrotic core, and surrounding edema. The event combines neuroscience, MRI physics and computer vision. You’ll need more than a model with a good leaderboard score. You’ll also need to understand what the scans sh…"
-    },
-    {
-      "id": "unstop:7f92acd84d18",
-      "name": "The Code Vibes Hackathon 2.0",
-      "type": "hackathon",
-      "mode": "online",
-      "lane": "online",
-      "start": "2027-01-06T08:03:00.000Z",
-      "end": "2027-01-06T08:03:00.000Z",
-      "deadline": "2026-12-30T18:31:00.000Z",
-      "cost": "free",
-      "costLabel": "Free",
-      "host": "THE CODE VIBES",
-      "prize": "₹5,000 · ₹3,000",
-      "themes": [
-        "Software Development"
-      ],
-      "url": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
-      "sourceUrl": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
-      "sources": [
-        "unstop"
-      ],
-      "sourceIds": [
-        "1794889"
-      ],
-      "firstSeen": "2026-11-05T08:20:56.507Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
-      "status": "active",
-      "manual": false,
-      "linkStatus": "ok",
-      "description": "About the Hackathon The Code Vibes proudly presents THE CODE VIBES HACKATHON 1.0, an online national-level hackathon designed to bring together students, developers, innovators, and problem-solvers from across India. The hackathon provides a platform to transform creative ideas into innovative technology solutions that address real-world challenges. Participants will collaborate, develop prototypes, showcase their technical skills, and compete for exciting prizes and recognition. Hackathon Tracks Participants can build projects under the following domains: Artificial Intelligence & Machine Learning Web Development App Development Cybersecurity Open Innovation Eligibility Criteria Open to st…"
     },
     {
       "id": "unstop:9020f5c6f236",
@@ -2755,7 +2820,7 @@
         "1811016"
       ],
       "firstSeen": "2026-11-15T08:18:28.933Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2786,11 +2851,42 @@
         "1817757"
       ],
       "firstSeen": "2026-11-19T09:18:03.176Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Overview Imagine. Innovate. Build What's Next. About NURN 2026 is an innovation-driven hackathon designed to bring together creative minds, aspiring developers, technology enthusiasts and student innovators from across India. NURN provides a platform for participants to identify real-world problems, develop innovative solutions and transform their ideas into working prototypes. Whether you are interested in Artificial Intelligence, Machine Learning, Web Development, App Development, Automation, Software Engineering or emerging technologies, NURN welcomes innovative ideas and practical solutions. This is your opportunity to think beyond conventional boundaries, experiment with technology, co…"
+    },
+    {
+      "id": "unstop:22424bb389ff",
+      "name": "The Code Vibes Hackathon 2.0",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-16T08:12:00.000Z",
+      "end": "2027-01-16T08:12:00.000Z",
+      "deadline": "2027-01-09T18:31:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "THE CODE VIBES",
+      "prize": "₹5,000 · ₹3,000",
+      "themes": [
+        "Software Development"
+      ],
+      "url": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
+      "sourceUrl": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1794889"
+      ],
+      "firstSeen": "2026-11-05T08:20:56.507Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "About the Hackathon The Code Vibes proudly presents THE CODE VIBES HACKATHON 1.0, an online national-level hackathon designed to bring together students, developers, innovators, and problem-solvers from across India. The hackathon provides a platform to transform creative ideas into innovative technology solutions that address real-world challenges. Participants will collaborate, develop prototypes, showcase their technical skills, and compete for exciting prizes and recognition. Hackathon Tracks Participants can build projects under the following domains: Artificial Intelligence & Machine Learning Web Development App Development Cybersecurity Open Innovation Eligibility Criteria Open to st…"
     },
     {
       "id": "unstop:9ccaa8337d6d",
@@ -2818,7 +2914,7 @@
         "1776729"
       ],
       "firstSeen": "2026-11-14T07:55:30.689Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2850,11 +2946,41 @@
         "1759619"
       ],
       "firstSeen": "2026-11-02T08:05:34.343Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
       "description": "Welcome to The Arcticathon by Bidaya! A solo online hackathon where you’ll take an idea from a blank screen to a working, deployed website all on your own. About The Arcticathon: The Arcticathon is a student-focused online hackathon by Bidaya , built around the theme of the Arctic . You can create almost anything that runs in a browser: a web app, interactive experience, game, tool, or something completely different. Your project should connect meaningfully to the Arctic theme and showcase your creativity, technical skills, and problem-solving. This is a solo-only hackathon. You’ll be the designer, developer, and project manager of your own project. &zwj; What You Need to Build: Requirement…"
+    },
+    {
+      "id": "unstop:9afa33db7f1d",
+      "name": "AI CodeStorm 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2027-01-30T18:31:00.000Z",
+      "end": "2027-01-30T18:31:00.000Z",
+      "deadline": "2026-12-30T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Proton Solutions",
+      "themes": [
+        "AI Engineering"
+      ],
+      "url": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+      "sourceUrl": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1826401"
+      ],
+      "firstSeen": "2026-11-25T10:18:03.119Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
+      "status": "active",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "AI CodeStorm 2026 Organised by Proton Solutions AI CodeStorm 2026 is an innovation-driven hackathon that brings together students, developers, programmers, and technology enthusiasts to explore the power of Artificial Intelligence in software development. The hackathon challenges participants to transform creative ideas into practical, intelligent, and impactful software solutions using AI-powered coding tools, Large Language Models (LLMs), Generative AI, and autonomous AI agents. Participants will have the opportunity to design, develop, and demonstrate innovative applications that address real-world challenges across various domains, including education, healthcare, automation, business,…"
     },
     {
       "id": "unstop:6f88b6886399",
@@ -2881,7 +3007,7 @@
         "1730263"
       ],
       "firstSeen": "2026-11-07T07:40:22.685Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2911,7 +3037,7 @@
         "1761846"
       ],
       "firstSeen": "2026-11-12T08:45:14.711Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2947,7 +3073,7 @@
         "1746233"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -2983,7 +3109,7 @@
         "1746142"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3019,7 +3145,7 @@
         "1746234"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3055,7 +3181,7 @@
         "1746232"
       ],
       "firstSeen": "2026-11-09T08:33:38.473Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3086,7 +3212,7 @@
         "1803074"
       ],
       "firstSeen": "2026-11-10T08:45:30.026Z",
-      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "lastVerified": "2026-11-25T10:18:32.083Z",
       "status": "active",
       "manual": false,
       "linkStatus": "ok",
@@ -3304,6 +3430,40 @@
       "description": "Tracks T1: AI, Cybersecurity & Digital Trust T2: Smart Infrastructure & IOT T3: Sustainability, AgriTech & Social Impact Initial registration and Round 1 (Online) are 100% Free. Shortlisted teams advancing to Round 2 (Offline) will be required to pay a nominal offline event fee of ₹1200 per team. Eligibility Participants must be currently enrolled students (UG, PG, diploma or equivalent) at a recognised institution in India. Participants must be 18 or older on 18 Dec 2026, with a guardian-consent arrangement is approved by the organisers. Team size is 2 to 4 members. Solo entries are not accepted. Cross-college teams are allowed. A person may be in only one team. Duplicate registrations dis…",
       "stale": false,
       "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:4c6799c4c823",
+      "name": "AI BuildFest 2026",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-12-12T06:30:00.000Z",
+      "end": "2026-12-12T06:30:00.000Z",
+      "deadline": "2026-11-25T18:29:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Frontend Arena",
+      "prize": "₹19,000 · ₹9,500",
+      "themes": [
+        "Applied AI",
+        "Model Training & Evaluation"
+      ],
+      "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
+      "sourceUrl": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1774417"
+      ],
+      "firstSeen": "2026-10-24T06:19:25.299Z",
+      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview 48-Hour Online AI Hackathon Organized by Frontend Arena | In collaboration with Adaption Event Dates: December 10–12, 2026 Format: Online Duration: 48 hours Team Size: 2–4 members About AI BuildFest 2026 AI BuildFest 2026 is a 48-hour online hackathon focused on building AI-powered solutions for real-world challenges. It brings together students, developers, and AI enthusiasts to explore how custom-trained AI models can be developed and applied to practical problems. Participants will work in teams to understand a challenge announced during the hackathon, prepare or generate a suitable dataset, train their own model using Adaption’s platform, and build a working solution that demon…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
     },
     {
       "id": "unstop:0d364ee94eb7",
@@ -3721,6 +3881,38 @@
       "archiveNote": "Registration closed"
     },
     {
+      "id": "unstop:8091f3762425",
+      "name": "QuikCPQ AI Innovation Challenge 2027",
+      "type": "hackathon",
+      "mode": "online",
+      "lane": "online",
+      "start": "2026-11-27T11:58:00.000Z",
+      "end": "2026-11-27T11:58:00.000Z",
+      "deadline": "2026-11-25T18:30:00.000Z",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Quik CPQ Solutions LLP",
+      "themes": [
+        "Agentic AI Engineer"
+      ],
+      "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+      "sourceUrl": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1806984"
+      ],
+      "firstSeen": "2026-11-13T08:37:17.077Z",
+      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "status": "delisted",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "Overview Build. Innovate. Compete. Win. Rule 1 – Eligibility Open to students and working professionals residing in India. Individual participants and teams are permitted. Recommended team size: 1–4 members. Participants must provide accurate registration information. Employees, organizers and judges should not compete in categories where they have a conflict of interest. Rule 2 – Competition Tracks Participants may submit projects under any of the six official tracks: AI & Agentic AI. HR Tech & Recruitment. Enterprise SaaS. Data & Analytics. Cloud & DevOps. Cybersecurity & Digital Trust. Rule 3 – Project Requirements Every project must include: A clear problem statement. A proposed solutio…",
+      "stale": false,
+      "archiveNote": "No longer listed at the source"
+    },
+    {
       "id": "unstop:36ded1c29826",
       "name": "CodeZen India 2026 - National Hackathon",
       "type": "hackathon",
@@ -3922,6 +4114,45 @@
       "manual": false,
       "linkStatus": "ok",
       "description": "RunUp Coders Hackathon 2026 Digital Recognition & Showcase Partner: Risers Cre8 RunUp. Build More. Official Participant Community: Registered participants may join the RunUp Coders WhatsApp Community for important updates, announcements, deadlines, and queries. Join here: https://chat.whatsapp.com/BzFjnyhHAMF3Uk5HnrKmVX RunUp Coders - Hackathon 2026 is a fully online Open Innovation Hackathon organized by RunUp Coders . The hackathon is designed to encourage students across India to identify meaningful real-world problems and build innovative, practical, and impactful technology-driven solutions. Participants are free to work on ideas from any domain, including Artificial Intelligence, Web…",
+      "stale": false,
+      "archiveNote": "Registration closed"
+    },
+    {
+      "id": "unstop:c8a26cef2323",
+      "name": "Agentic AI in BFSI Hackathon",
+      "type": "hackathon",
+      "mode": "in-person",
+      "lane": "maharashtra",
+      "start": "2026-11-24T18:30:00.000Z",
+      "end": "2026-11-24T18:30:00.000Z",
+      "deadline": "2026-11-24T18:30:00.000Z",
+      "city": "Powai",
+      "venue": "IIT Bombay",
+      "state": "Maharashtra",
+      "country": "India",
+      "cost": "free",
+      "costLabel": "Free",
+      "host": "Indian Institute of Technology (IIT), Bombay",
+      "prize": "₹1,00,000",
+      "themes": [
+        "Agentic AI Engineer",
+        "Applied AI"
+      ],
+      "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
+      "sourceUrl": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
+      "sources": [
+        "unstop"
+      ],
+      "sourceIds": [
+        "1800857"
+      ],
+      "firstSeen": "2026-11-08T07:50:10.000Z",
+      "lastVerified": "2026-11-24T11:30:38.207Z",
+      "status": "closed",
+      "travelNote": "Round 1 online",
+      "manual": false,
+      "linkStatus": "ok",
+      "description": "All that you need to know about Agentic AI in BFSI: Hackathon 2026 by IIT Bombay Complete Regsiteration and Submission at: https://techfest.org/competitions/Agentic-AI It is mandatory to register on Techfest Website . further details will be updated on the Website only . About Agentic AI in BFSI: Hackathon 2026 is a national hackathon by Perfios, one of India's largest SaaS TechFin companies serving over 1,000 financial institutions globally, in association with Techfest, IIT Bombay. Under the theme AI Native Applications for BFSI, teams prototype AI-backed systems that can perceive, reason, decide and act across real-world financial workflows. Participants pick one of two banking domains,…",
       "stale": false,
       "archiveNote": "Registration closed"
     },

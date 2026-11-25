@@ -1510,5 +1510,47 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-24T11:30:38.207Z"
+  },
+  "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/bharat-academix-global-innovatex-2027-bharat-academix-1826250": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
+  },
+  "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-25T10:18:32.083Z"
   }
 }
