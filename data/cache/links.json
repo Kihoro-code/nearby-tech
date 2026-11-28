@@ -1197,7 +1197,7 @@
     "ok": true,
     "blocked": false,
     "status": 200,
-    "checkedAt": "2026-11-21T08:41:01.660Z"
+    "checkedAt": "2026-11-28T09:19:28.018Z"
   },
   "https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629": {
     "ok": true,
@@ -1636,5 +1636,71 @@
     "blocked": false,
     "status": 200,
     "checkedAt": "2026-11-27T10:01:30.993Z"
+  },
+  "https://unstop.com/hackathons/acttrident-ai-hackathon-2026-trident-shield-2026-acttrident-1830923": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/infriqa-design-build-operate-challenge-infriqa-1829467": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/codeatscale-national-hackathon-hackwithpune-1830705": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-west-bengal-international-institute-of-information-technology-iiit-bhubaneswar-1745935": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-bihar-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1831393": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-punjab-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1831394": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-jharkhand-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1831390": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-madhya-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831389": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://unstop.com/hackathons/craft-n-code-andhra-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831381": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
+  },
+  "https://hackfinity27.devfolio.co/": {
+    "ok": true,
+    "blocked": false,
+    "status": 200,
+    "checkedAt": "2026-11-28T09:19:28.018Z"
   }
 }
